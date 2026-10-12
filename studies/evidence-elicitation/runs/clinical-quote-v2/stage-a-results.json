@@ -1,0 +1,2723 @@
+[
+  {
+    "topic": "CD012347",
+    "failedBatches": 0,
+    "records": [
+      {
+        "pmid": "9792578",
+        "grade": {
+          "key": "9792578",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 1,
+          "quote": "to assess whether any alteration in CPAP requirement over the first 4 weeks of CPAP treatment would influence daytime alertness, subjective sleepiness, or mood.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "9792578",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 1,
+          "quote": "to assess whether any alteration in CPAP requirement over the first 4 weeks of CPAP treatment would influence daytime alertness, subjective sleepiness, or mood.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "clinical-trial"
+      },
+      {
+        "pmid": "17889189",
+        "grade": {
+          "key": "17889189",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "mortality after heart-lung transplantation (HLT) at our center.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "17889189",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "mortality after heart-lung transplantation (HLT) at our center.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "cohort"
+      },
+      {
+        "pmid": "11352373",
+        "grade": {
+          "key": "11352373",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "a single 2 h session of cognitive behavioural therapy (CBT), with 6-week follow-up, would reduce anxiety and depression, improve physical and mental functioning, and lead to a better quality of life and greater satisfaction with treatment in older patients with chronic obstructive pulmonary disease (COPD).",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "11352373",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "a single 2 h session of cognitive behavioural therapy (CBT), with 6-week follow-up, would reduce anxiety and depression, improve physical and mental functioning, and lead to a better quality of life and greater satisfaction with treatment in older patients with chronic obstructive pulmonary disease (COPD).",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22511399",
+        "grade": {
+          "key": "22511399",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "the intervention group received a cognitive behavioral intervention. Compared with the control group, the intervention group showed significant improvement in uncertainty, coping strategy, anxiety, depression, and the mental health domains of QOL after the intervention",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "22511399",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "the intervention group received a cognitive behavioral intervention. Compared with the control group, the intervention group showed significant improvement in uncertainty, coping strategy, anxiety, depression, and the mental health domains of QOL after the intervention",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "layer": 1,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23409736",
+        "grade": {
+          "key": "23409736",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 2,
+          "quote": "Residual excessive sleepiness prevalence in continuous positive airway pressure-treated obstructive sleep apnea was 13%",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "23409736",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 2,
+          "quote": "Residual excessive sleepiness prevalence in continuous positive airway pressure-treated obstructive sleep apnea was 13%",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "cohort"
+      },
+      {
+        "pmid": "24555562",
+        "grade": {
+          "key": "24555562",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 2,
+          "quote": "Clinical characteristics and quality of life in women with COPD: an observational study",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "24555562",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 2,
+          "quote": "Clinical characteristics and quality of life in women with COPD: an observational study",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "cohort"
+      },
+      {
+        "pmid": "9619472",
+        "grade": {
+          "key": "9619472",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "randomly assigned to 10 weeks of (a) exercise, education, and stress management (EXESM; n = 29); (b) education and stress management (ESM; n = 25); or (c) waiting list (WL; n = 25)",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "9619472",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "randomly assigned to 10 weeks of (a) exercise, education, and stress management (EXESM; n = 29); (b) education and stress management (ESM; n = 25); or (c) waiting list (WL; n = 25)",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "25548124",
+        "grade": {
+          "key": "25548124",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "nurse-led, problem-solving therapy (PST) on coping, self-efficacy and depressive symptoms for patients with chronic obstructive pulmonary disease (COPD) using a randomised controlled trial.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "25548124",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "nurse-led, problem-solving therapy (PST) on coping, self-efficacy and depressive symptoms for patients with chronic obstructive pulmonary disease (COPD) using a randomised controlled trial.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "condition"
+        },
+        "layer": 2,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "12917854",
+        "grade": {
+          "key": "12917854",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Including psychotherapy in a pulmonary rehabilitation program for COPD reduced patients' anxiety and depression levels but did not modify 6MWD performance.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "12917854",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Including psychotherapy in a pulmonary rehabilitation program for COPD reduced patients' anxiety and depression levels but did not modify 6MWD performance.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "layer": 1,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "17922939",
+        "grade": {
+          "key": "17922939",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "compared cognitive behavioral therapy (CBT) group treatment for anxiety and depression with COPD education for COPD patients with moderate-to-severe anxiety and/or depressive symptoms.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "17922939",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "compared cognitive behavioral therapy (CBT) group treatment for anxiety and depression with COPD education for COPD patients with moderate-to-severe anxiety and/or depressive symptoms.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23166130",
+        "grade": {
+          "key": "23166130",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "life event stress was associated with more depressive symptoms and worse quality of life in individuals with COPD",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "23166130",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "life event stress was associated with more depressive symptoms and worse quality of life in individuals with COPD",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "other"
+      },
+      {
+        "pmid": "26929616",
+        "grade": {
+          "key": "26929616",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "a pragmatic randomized controlled trial comparing eight sessions of telephone CBT to an active social control, referred to as befriending.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "26929616",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "a pragmatic randomized controlled trial comparing eight sessions of telephone CBT to an active social control, referred to as befriending.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22419944",
+        "grade": {
+          "key": "22419944",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "clinicians working with patients with depression, chronic obstructive pulmonary disorder (COPD), chronic musculo skeletal pain and diabetes.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "22419944",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "clinicians working with patients with depression, chronic obstructive pulmonary disorder (COPD), chronic musculo skeletal pain and diabetes.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "other"
+      },
+      {
+        "pmid": "26754527",
+        "grade": {
+          "key": "26754527",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 1,
+          "quote": "Real-world evidence provides a description of patient characteristics and treatment patterns that are different from those reported by randomized clinical trials.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "26754527",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 1,
+          "quote": "Real-world evidence provides a description of patient characteristics and treatment patterns that are different from those reported by randomized clinical trials.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "cohort"
+      },
+      {
+        "pmid": "25322078",
+        "grade": {
+          "key": "25322078",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "compare a cognitive-behavioural manual versus information booklets (IB) on health service use, mood and health status.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "25322078",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "compare a cognitive-behavioural manual versus information booklets (IB) on health service use, mood and health status.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "28150856",
+        "grade": {
+          "key": "28150856",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "patients receiving pulmonary rehabilitation and an additional 6 sessions of group-based cognitive behavioural therapy.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "28150856",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "patients receiving pulmonary rehabilitation and an additional 6 sessions of group-based cognitive behavioural therapy.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "clinical-trial"
+      },
+      {
+        "pmid": "12464831",
+        "grade": {
+          "key": "12464831",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "depressive symptoms, physiologic function, and cognition were examined in patients with chronic obstructive pulmonary disease (COPD) after 3 weeks of rehabilitation.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "12464831",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "depressive symptoms, physiologic function, and cognition were examined in patients with chronic obstructive pulmonary disease (COPD) after 3 weeks of rehabilitation.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "other"
+      },
+      {
+        "pmid": "25774660",
+        "grade": {
+          "key": "25774660",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Anxiety and depression are common comorbidities in people with chronic obstructive pulmonary disease (COPD).",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "25774660",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Anxiety and depression are common comorbidities in people with chronic obstructive pulmonary disease (COPD).",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26049126",
+        "grade": {
+          "key": "26049126",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "cognitive behaviour therapy (CBT) decreases ratings of perceived dyspnoea in response to resistive loading in patients with COPD.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "26049126",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "cognitive behaviour therapy (CBT) decreases ratings of perceived dyspnoea in response to resistive loading in patients with COPD.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "28544504",
+        "grade": {
+          "key": "28544504",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "investigate the impact of cognitive behaviour therapy (CBT) and an active social control (befriending) on depression and anxiety symptoms in people with chronic obstructive pulmonary disease (COPD).",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "28544504",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "investigate the impact of cognitive behaviour therapy (CBT) and an active social control (befriending) on depression and anxiety symptoms in people with chronic obstructive pulmonary disease (COPD).",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26836938",
+        "grade": {
+          "key": "26836938",
+          "entryId": "CD012347",
+          "grade": 1,
+          "topicGrade": 3,
+          "quote": "Long-term Course of Depression Trajectories in Patients With COPD",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "condition"
+        },
+        "verified": {
+          "key": "26836938",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "Long-term Course of Depression Trajectories in Patients With COPD",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "cohort"
+      },
+      {
+        "pmid": "16790039",
+        "grade": {
+          "key": "16790039",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Effectiveness and cost-effectiveness of a minimal psychological intervention to reduce non-severe depression in chronically ill elderly patients",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "16790039",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Effectiveness and cost-effectiveness of a minimal psychological intervention to reduce non-severe depression in chronically ill elderly patients",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23585837",
+        "grade": {
+          "key": "23585837",
+          "entryId": "CD012347",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "The effect of complex interventions on depression and anxiety in chronic obstructive pulmonary disease",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "condition"
+        },
+        "verified": {
+          "key": "23585837",
+          "entryId": "CD012347",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "The effect of complex interventions on depression and anxiety in chronic obstructive pulmonary disease",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "condition"
+        },
+        "layer": 2,
+        "modelDesignDropped": false,
+        "design": "meta-analysis"
+      },
+      {
+        "pmid": "9230251",
+        "grade": {
+          "key": "9230251",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Effects of psychotherapy in moderately severe COPD: a pilot study",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "9230251",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Effects of psychotherapy in moderately severe COPD: a pilot study",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "other"
+      },
+      {
+        "pmid": "22162648",
+        "grade": {
+          "key": "22162648",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Cognitive behavioral therapy for insomnia comorbid with COPD is feasible with preliminary evidence of positive sleep and fatigue effects",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "22162648",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Cognitive behavioral therapy for insomnia comorbid with COPD is feasible with preliminary evidence of positive sleep and fatigue effects",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "20346640",
+        "grade": {
+          "key": "20346640",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "A randomized controlled trial of cognitive behavioral therapy for anxiety and depression in COPD",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "20346640",
+          "entryId": "CD012347",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "A randomized controlled trial of cognitive behavioral therapy for anxiety and depression in COPD",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      }
+    ]
+  },
+  {
+    "topic": "CD010558",
+    "failedBatches": 0,
+    "records": [
+      {
+        "pmid": "22686185",
+        "grade": {
+          "key": "22686185",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "a randomised controlled trial of psychoanalytic psychotherapy for treatment-resistant/treatment-refractory forms of depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full",
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "22686185",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "a randomised controlled trial of psychoanalytic psychotherapy for treatment-resistant/treatment-refractory forms of depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment",
+          "modelDesign": "randomized-trial"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "24574930",
+        "grade": {
+          "key": "24574930",
+          "entryId": "CD010558",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Treatment-resistant major depressive disorder (TR-MDD) is a complex condition, with very low remission rates.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "condition"
+        },
+        "verified": {
+          "key": "24574930",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Treatment-resistant major depressive disorder (TR-MDD) is a complex condition, with very low remission rates.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22925198",
+        "grade": {
+          "key": "22925198",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Preventing relapse in recurrent depression using mindfulness-based cognitive therapy, antidepressant medication or the combination",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "22925198",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Preventing relapse in recurrent depression using mindfulness-based cognitive therapy, antidepressant medication or the combination",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "24886116",
+        "grade": {
+          "key": "24886116",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "A written self-help intervention for depressed adults comparing behavioural activation combined with physical activity promotion",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "24886116",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "A written self-help intervention for depressed adults comparing behavioural activation combined with physical activity promotion",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "18221624",
+        "grade": {
+          "key": "18221624",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "The STAR*D Project results: a comprehensive review of findings",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "18221624",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "The STAR*D Project results: a comprehensive review of findings",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26119013",
+        "grade": {
+          "key": "26119013",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Does rumination mediate the relationship between mindfulness and depressive relapse?",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "26119013",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Does rumination mediate the relationship between mindfulness and depressive relapse?",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26799332",
+        "grade": {
+          "key": "26799332",
+          "entryId": "CD010558",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Interpersonal psychotherapy as add-on for treatment-resistant depression: A pragmatic randomized controlled trial",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "condition",
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "26799332",
+          "entryId": "CD010558",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Interpersonal psychotherapy as add-on for treatment-resistant depression: A pragmatic randomized controlled trial",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "condition",
+          "modelDesign": "randomized-trial"
+        },
+        "layer": 2,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22677092",
+        "grade": {
+          "key": "22677092",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Cost-effectiveness of nurse-led self-help for recurrent depression in the primary care setting",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "22677092",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Cost-effectiveness of nurse-led self-help for recurrent depression in the primary care setting",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "18294022",
+        "grade": {
+          "key": "18294022",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Transcranial magnetic stimulation in the acute treatment of major depressive disorder",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "18294022",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Transcranial magnetic stimulation in the acute treatment of major depressive disorder",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26847975",
+        "grade": {
+          "key": "26847975",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Sleep quality changes in chronically depressed patients treated with Mindfulness-based Cognitive Therapy or the Cognitive Behavioral Analysis System of Psychotherapy",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "26847975",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Sleep quality changes in chronically depressed patients treated with Mindfulness-based Cognitive Therapy or the Cognitive Behavioral Analysis System of Psychotherapy",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23750462",
+        "grade": {
+          "key": "23750462",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Detecting critical decision points in psychotherapy and psychotherapy + medication for chronic depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "23750462",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Detecting critical decision points in psychotherapy and psychotherapy + medication for chronic depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26022410",
+        "grade": {
+          "key": "26022410",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Cognitive Behavioral Analysis System of Psychotherapy versus Escitalopram in Chronic Major Depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "26022410",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Cognitive Behavioral Analysis System of Psychotherapy versus Escitalopram in Chronic Major Depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26553106",
+        "grade": {
+          "key": "26553106",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "A randomized controlled trial of Mindfulness-Based Cognitive Therapy (MBCT) versus treatment-as-usual (TAU) for chronic, treatment-resistant depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "26553106",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "A randomized controlled trial of Mindfulness-Based Cognitive Therapy (MBCT) versus treatment-as-usual (TAU) for chronic, treatment-resistant depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "18277222",
+        "grade": {
+          "key": "18277222",
+          "entryId": "CD010558",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Adaptation of dialectical behavior therapy skills training group for treatment-resistant depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "condition"
+        },
+        "verified": {
+          "key": "18277222",
+          "entryId": "CD010558",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Adaptation of dialectical behavior therapy skills training group for treatment-resistant depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "condition"
+        },
+        "layer": 2,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26371617",
+        "grade": {
+          "key": "26371617",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "A randomized controlled trial on the efficacy of mindfulness-based cognitive therapy and a group version of cognitive behavioral analysis system of psychotherapy for chronically depressed patients",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "26371617",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "A randomized controlled trial on the efficacy of mindfulness-based cognitive therapy and a group version of cognitive behavioral analysis system of psychotherapy for chronically depressed patients",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "25527998",
+        "grade": {
+          "key": "25527998",
+          "entryId": "CD010558",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Moderators of response to cognitive behavioural therapy as an adjunct to pharmacotherapy for treatment-resistant depression in primary care",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "condition"
+        },
+        "verified": {
+          "key": "25527998",
+          "entryId": "CD010558",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Moderators of response to cognitive behavioural therapy as an adjunct to pharmacotherapy for treatment-resistant depression in primary care",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "condition"
+        },
+        "layer": 2,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23896849",
+        "grade": {
+          "key": "23896849",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Cognitive remediation for treatment-resistant depression: effects on cognition and functioning and the role of online homework",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "23896849",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Cognitive remediation for treatment-resistant depression: effects on cognition and functioning and the role of online homework",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "24824481",
+        "grade": {
+          "key": "24824481",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Clinical effectiveness and cost-effectiveness of cognitive behavioural therapy as an adjunct to pharmacotherapy for treatment-resistant depression in primary care: the CoBalT randomised controlled trial",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full",
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "24824481",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Clinical effectiveness and cost-effectiveness of cognitive behavioural therapy as an adjunct to pharmacotherapy for treatment-resistant depression in primary care: the CoBalT randomised controlled trial",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full",
+          "modelDesign": "randomized-trial"
+        },
+        "layer": 1,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23851972",
+        "grade": {
+          "key": "23851972",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Patients' experiences of participating in a large-scale trial of cognitive behavioural therapy for depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "23851972",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Patients' experiences of participating in a large-scale trial of cognitive behavioural therapy for depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23339536",
+        "grade": {
+          "key": "23339536",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "The relationship between the therapeutic alliance and treatment outcome in two distinct psychotherapies for chronic depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "23339536",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "The relationship between the therapeutic alliance and treatment outcome in two distinct psychotherapies for chronic depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "16877898",
+        "grade": {
+          "key": "16877898",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "Post-traumatic stress disorder is a common, chronic, and often disabling mental illness.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "16877898",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "Post-traumatic stress disorder is a common, chronic, and often disabling mental illness.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26407787",
+        "grade": {
+          "key": "26407787",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "pragmatic randomized controlled trial tested the effectiveness of long-term psychoanalytic psychotherapy (LTPP) as an adjunct to treatment-as-usual ... in patients with ... treatment-resistant depression.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "26407787",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "pragmatic randomized controlled trial tested the effectiveness of long-term psychoanalytic psychotherapy (LTPP) as an adjunct to treatment-as-usual ... in patients with ... treatment-resistant depression.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26219426",
+        "grade": {
+          "key": "26219426",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "religiously integrated cognitive behavioral therapy (RCBT) versus standard CBT (SCBT) on increasing optimism in persons with major depressive disorder (MDD)",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "26219426",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "religiously integrated cognitive behavioral therapy (RCBT) versus standard CBT (SCBT) on increasing optimism in persons with major depressive disorder (MDD)",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "24262818",
+        "grade": {
+          "key": "24262818",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "cost-effectiveness of cognitive-behavioural therapy (CBT) plus usual care for primary care patients with treatment-resistant depression compared with usual care alone.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "24262818",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "cost-effectiveness of cognitive-behavioural therapy (CBT) plus usual care for primary care patients with treatment-resistant depression compared with usual care alone.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "layer": 1,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "19232571",
+        "grade": {
+          "key": "19232571",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "pilot study of a 16-week DBT-based skills training group for treatment-resistant major depressive disorder (MDD) as an adjunctive treatment to pharmacotherapy.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "19232571",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "pilot study of a 16-week DBT-based skills training group for treatment-resistant major depressive disorder (MDD) as an adjunctive treatment to pharmacotherapy.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "25211400",
+        "grade": {
+          "key": "25211400",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "evaluate the effectiveness of different antidepressants and to compare their effectiveness with other forms of treatment, placebo or treatment as usual for postnatal depression.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "25211400",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "evaluate the effectiveness of different antidepressants and to compare their effectiveness with other forms of treatment, placebo or treatment as usual for postnatal depression.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "meta-analysis"
+      },
+      {
+        "pmid": "21114826",
+        "grade": {
+          "key": "21114826",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "randomised controlled trial of a specialist depression disorder team ... for patients with chronic depressive disorder in secondary care mental health services.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "21114826",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "randomised controlled trial of a specialist depression disorder team ... for patients with chronic depressive disorder in secondary care mental health services.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26278222",
+        "grade": {
+          "key": "26278222",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "randomized controlled trial of a self-management support service ... for individuals with chronic or recurrent depressive symptoms.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "26278222",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "randomized controlled trial of a self-management support service ... for individuals with chronic or recurrent depressive symptoms.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "11115207",
+        "grade": {
+          "key": "11115207",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "stepped collaborative care depression intervention on disability.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "11115207",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "stepped collaborative care depression intervention on disability.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "10757081",
+        "grade": {
+          "key": "10757081",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "Partial review of immunotherapeutic pharmacology in stem cell transplantation",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "10757081",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "Partial review of immunotherapeutic pharmacology in stem cell transplantation",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "19884606",
+        "grade": {
+          "key": "19884606",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "augmentation with cognitive behavioral analysis system of psychotherapy (CBASP) ... in chronically depressed patients with ... major depressive episode and persistent depressive symptoms for more than 2 years.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "19884606",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "augmentation with cognitive behavioral analysis system of psychotherapy (CBASP) ... in chronically depressed patients with ... major depressive episode and persistent depressive symptoms for more than 2 years.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22962030",
+        "grade": {
+          "key": "22962030",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "patients with T2DM and major depression ... randomized to undergo Interpersonal Psychotherapy (IPT) or treatment with sertraline.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "22962030",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "patients with T2DM and major depression ... randomized to undergo Interpersonal Psychotherapy (IPT) or treatment with sertraline.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22101205",
+        "grade": {
+          "key": "22101205",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "randomised controlled trial ... to evaluate the clinical and cost effectiveness of cognitive behavioural therapy (CBT) as an adjunct to pharmacotherapy for patients with treatment resistant depression in primary care.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "22101205",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "randomised controlled trial ... to evaluate the clinical and cost effectiveness of cognitive behavioural therapy (CBT) as an adjunct to pharmacotherapy for patients with treatment resistant depression in primary care.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "21778171",
+        "grade": {
+          "key": "21778171",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "randomised controlled trial providing evidence of benefits of rumination-focused CBT in persistent depression.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "21778171",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "randomised controlled trial providing evidence of benefits of rumination-focused CBT in persistent depression.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "19015627",
+        "grade": {
+          "key": "19015627",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "multisite clinical trial designed to evaluate the efficacy of augmenting state-of-the-art pharmacotherapy with psychotherapy in chronically depressed patients.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "19015627",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "multisite clinical trial designed to evaluate the efficacy of augmenting state-of-the-art pharmacotherapy with psychotherapy in chronically depressed patients.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "clinical-trial"
+      },
+      {
+        "pmid": "16959055",
+        "grade": {
+          "key": "16959055",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Low-frequency right prefrontal repetitive transcranial magnetic stimulation (rTMS) appears to have antidepressant properties.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "16959055",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Low-frequency right prefrontal repetitive transcranial magnetic stimulation (rTMS) appears to have antidepressant properties.",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22198447",
+        "grade": {
+          "key": "22198447",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "comparing outcomes for medication augmentation versus switching for patients with major depressive disorder in the STAR*D clinical trial.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "22198447",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "comparing outcomes for medication augmentation versus switching for patients with major depressive disorder in the STAR*D clinical trial.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "19697180",
+        "grade": {
+          "key": "19697180",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "Rumination has been identified as a core process in the development and maintenance of depression. Treatments targeting ruminative processes may ... be helpful for treating chronic and recurrent depression.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "19697180",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "Rumination has been identified as a core process in the development and maintenance of depression. Treatments targeting ruminative processes may ... be helpful for treating chronic and recurrent depression.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "other"
+      },
+      {
+        "pmid": "21849054",
+        "grade": {
+          "key": "21849054",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "randomized controlled trial ... to estimate the efficacy of CBASP compared to supportive psychotherapy in ... early-onset chronically depressed outpatients.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "21849054",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "randomized controlled trial ... to estimate the efficacy of CBASP compared to supportive psychotherapy in ... early-onset chronically depressed outpatients.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "25335963",
+        "grade": {
+          "key": "25335963",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "randomised controlled trial that measures the clinical effectiveness of cognitive behavioural therapy (CBT) as an augmentation strategy to treat patients with ... major depression identified as suboptimal responders to usual depression care.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "25335963",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "randomised controlled trial that measures the clinical effectiveness of cognitive behavioural therapy (CBT) as an augmentation strategy to treat patients with ... major depression identified as suboptimal responders to usual depression care.",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23219570",
+        "grade": {
+          "key": "23219570",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Cognitive behavioural therapy (CBT) as an adjunct to usual care (including pharmacotherapy) for primary care patients with treatment resistant depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "23219570",
+          "entryId": "CD010558",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Cognitive behavioural therapy (CBT) as an adjunct to usual care (including pharmacotherapy) for primary care patients with treatment resistant depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22070769",
+        "grade": {
+          "key": "22070769",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "Acupuncture for depression: exploring model validity and the related issue of credibility in the context of designing a pragmatic trial",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "22070769",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "Acupuncture for depression: exploring model validity and the related issue of credibility in the context of designing a pragmatic trial",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "20822814",
+        "grade": {
+          "key": "20822814",
+          "entryId": "CD010558",
+          "grade": 3,
+          "topicGrade": 4,
+          "quote": "Cognitive Behavioral Analysis System of Psychotherapy (CBASP), has never been directly compared to another depression-specific psychological method",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 3,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "20822814",
+          "entryId": "CD010558",
+          "grade": 3,
+          "topicGrade": 4,
+          "quote": "Cognitive Behavioral Analysis System of Psychotherapy (CBASP), has never been directly compared to another depression-specific psychological method",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 3,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "12716247",
+        "grade": {
+          "key": "12716247",
+          "entryId": "CD010558",
+          "grade": 3,
+          "topicGrade": 4,
+          "quote": "cognitive therapy (CT) or lithium augmentation (LA) for a further 8 weeks using a single-blind design",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 3,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "12716247",
+          "entryId": "CD010558",
+          "grade": 3,
+          "topicGrade": 4,
+          "quote": "cognitive therapy (CT) or lithium augmentation (LA) for a further 8 weeks using a single-blind design",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 3,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      }
+    ]
+  },
+  {
+    "topic": "CD010753",
+    "failedBatches": 0,
+    "records": [
+      {
+        "pmid": "8895944",
+        "grade": {
+          "key": "8895944",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Nocturnal melatonin secretion and sleep after doxepin administration in chronic primary insomnia",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "8895944",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Nocturnal melatonin secretion and sleep after doxepin administration in chronic primary insomnia",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "layer": 1,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "9646878",
+        "grade": {
+          "key": "9646878",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "nefazodone improved sleep continuity and increased rapid eye movement (REM) sleep, while not affecting stage 3/4 sleep or REM latency",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "verified": {
+          "key": "9646878",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "nefazodone improved sleep continuity and increased rapid eye movement (REM) sleep, while not affecting stage 3/4 sleep or REM latency",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "11465523",
+        "grade": {
+          "key": "11465523",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Doxepin in the treatment of primary insomnia: a placebo-controlled, double-blind, polysomnographic study",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "11465523",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Doxepin in the treatment of primary insomnia: a placebo-controlled, double-blind, polysomnographic study",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "layer": 1,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "9310521",
+        "grade": {
+          "key": "9310521",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "Side effects of methylphenidate and dexamphetamine in children with attention deficit hyperactivity disorder",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "9310521",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "Side effects of methylphenidate and dexamphetamine in children with attention deficit hyperactivity disorder",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "18041488",
+        "grade": {
+          "key": "18041488",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Efficacy and safety of doxepin 1 mg, 3 mg, and 6 mg in adults with primary insomnia",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "18041488",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Efficacy and safety of doxepin 1 mg, 3 mg, and 6 mg in adults with primary insomnia",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "condition"
+        },
+        "layer": 2,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "7491373",
+        "grade": {
+          "key": "7491373",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "The effects of fluoxetine on symptoms of insomnia in depressed patients",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "verified": {
+          "key": "7491373",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "The effects of fluoxetine on symptoms of insomnia in depressed patients",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "21623982",
+        "grade": {
+          "key": "21623982",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Cognitive, psychomotor and polysomnographic effects of trazodone in primary insomniacs",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "21623982",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Cognitive, psychomotor and polysomnographic effects of trazodone in primary insomniacs",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "12920414",
+        "grade": {
+          "key": "12920414",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Double-blind, placebo-controlled study of the efficacy of trazodone in alcohol post-withdrawal syndrome",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "verified": {
+          "key": "12920414",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Double-blind, placebo-controlled study of the efficacy of trazodone in alcohol post-withdrawal syndrome",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "27482970",
+        "grade": {
+          "key": "27482970",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "A Phase 2 Randomized Dose-Finding Study With Esmirtazapine in Patients With Primary Insomnia",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "27482970",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "A Phase 2 Randomized Dose-Finding Study With Esmirtazapine in Patients With Primary Insomnia",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "layer": 1,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "1410141",
+        "grade": {
+          "key": "1410141",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 2,
+          "quote": "Absence of withdrawal effects of ritanserin following chronic dosing in healthy volunteers",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "1410141",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 2,
+          "quote": "Absence of withdrawal effects of ritanserin following chronic dosing in healthy volunteers",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23823799",
+        "grade": {
+          "key": "23823799",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Efficacy of agomelatine and escitalopram on depression, subjective sleep and emotional experiences",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "verified": {
+          "key": "23823799",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Efficacy of agomelatine and escitalopram on depression, subjective sleep and emotional experiences",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22057726",
+        "grade": {
+          "key": "22057726",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Effects of escitalopram on sleep problems in patients with major depression or generalized anxiety disorder",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "verified": {
+          "key": "22057726",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Effects of escitalopram on sleep problems in patients with major depression or generalized anxiety disorder",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "meta-analysis"
+      },
+      {
+        "pmid": "11910258",
+        "grade": {
+          "key": "11910258",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Acute efficacy of fluoxetine versus sertraline and paroxetine in major depressive disorder including effects of baseline insomnia",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "verified": {
+          "key": "11910258",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Acute efficacy of fluoxetine versus sertraline and paroxetine in major depressive disorder including effects of baseline insomnia",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "12237787",
+        "grade": {
+          "key": "12237787",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Trimipramine in primary insomnia: results of a polysomnographic double-blind controlled study",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "12237787",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Trimipramine in primary insomnia: results of a polysomnographic double-blind controlled study",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "layer": 1,
+        "modelDesignDropped": false,
+        "design": "clinical-trial"
+      },
+      {
+        "pmid": "14725822",
+        "grade": {
+          "key": "14725822",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "The effects of trazodone on sleep in patients treated with stimulant antidepressants",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "verified": {
+          "key": "14725822",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "The effects of trazodone on sleep in patients treated with stimulant antidepressants",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "9376452",
+        "grade": {
+          "key": "9376452",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Maintenance nortriptyline effects on electroencephalographic sleep in elderly patients with recurrent major depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "verified": {
+          "key": "9376452",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Maintenance nortriptyline effects on electroencephalographic sleep in elderly patients with recurrent major depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "28199710",
+        "grade": {
+          "key": "28199710",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Cognitive Behavioral Insomnia Therapy for Those With Insomnia and Depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "condition"
+        },
+        "verified": {
+          "key": "28199710",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "Cognitive Behavioral Insomnia Therapy for Those With Insomnia and Depression",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "condition"
+        },
+        "layer": 2,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "21102997",
+        "grade": {
+          "key": "21102997",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Efficacy and Safety of Doxepin 1 mg and 3 mg in a 12-week Sleep Laboratory and Outpatient Trial of Elderly Subjects with Chronic Primary Insomnia",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "21102997",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Efficacy and Safety of Doxepin 1 mg and 3 mg in a 12-week Sleep Laboratory and Outpatient Trial of Elderly Subjects with Chronic Primary Insomnia",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "condition"
+        },
+        "layer": 2,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "9184611",
+        "grade": {
+          "key": "9184611",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "A comparison of nefazodone and fluoxetine on mood and on objective, subjective, and clinician-rated measures of sleep in depressed patients",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "verified": {
+          "key": "9184611",
+          "entryId": "CD010753",
+          "grade": 1,
+          "topicGrade": 4,
+          "quote": "A comparison of nefazodone and fluoxetine on mood and on objective, subjective, and clinician-rated measures of sleep in depressed patients",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "12590206",
+        "grade": {
+          "key": "12590206",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "Gabapentin effect on neuropathic pain compared among patients with spinal cord injury and different durations of symptoms",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "12590206",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "Gabapentin effect on neuropathic pain compared among patients with spinal cord injury and different durations of symptoms",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "clinical-trial"
+      },
+      {
+        "pmid": "6337611",
+        "grade": {
+          "key": "6337611",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "Placebo-controlled trial of mianserin and maprotiline in primary depressive illness",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "6337611",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 3,
+          "quote": "Placebo-controlled trial of mianserin and maprotiline in primary depressive illness",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "15323587",
+        "grade": {
+          "key": "15323587",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "A double-blind, randomized, placebo-controlled trial of quetiapine addition in patients with obsessive-compulsive disorder refractory to serotonin reuptake inhibitors",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "15323587",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "A double-blind, randomized, placebo-controlled trial of quetiapine addition in patients with obsessive-compulsive disorder refractory to serotonin reuptake inhibitors",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "28093029",
+        "grade": {
+          "key": "28093029",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Low doses of mirtazapine or quetiapine for transient insomnia: A randomised, double-blind, cross-over, placebo-controlled trial",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "28093029",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Low doses of mirtazapine or quetiapine for transient insomnia: A randomised, double-blind, cross-over, placebo-controlled trial",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "layer": 1,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "2688037",
+        "grade": {
+          "key": "2688037",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Effects on sleep: a double-blind study comparing trimipramine to imipramine in depressed insomniac patients",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "2688037",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Effects on sleep: a double-blind study comparing trimipramine to imipramine in depressed insomniac patients",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "treatment"
+        },
+        "layer": 3,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "18616688",
+        "grade": {
+          "key": "18616688",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Trazodone for sleep disturbance after alcohol detoxification: a double-blind, placebo-controlled trial",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "18616688",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Trazodone for sleep disturbance after alcohol detoxification: a double-blind, placebo-controlled trial",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "layer": 1,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "28470399",
+        "grade": {
+          "key": "28470399",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Predicting relapse with individual residual symptoms in major depressive disorder: a reanalysis of the STAR*D data",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "28470399",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Predicting relapse with individual residual symptoms in major depressive disorder: a reanalysis of the STAR*D data",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "other"
+      },
+      {
+        "pmid": "24655622",
+        "grade": {
+          "key": "24655622",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Comparable efficacy and safety of 8 weeks treatment with agomelatine 25-50mg or fluoxetine 20-40mg in Asian out-patients with major depressive disorder",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "24655622",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Comparable efficacy and safety of 8 weeks treatment with agomelatine 25-50mg or fluoxetine 20-40mg in Asian out-patients with major depressive disorder",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23561946",
+        "grade": {
+          "key": "23561946",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Doxepin and cognitive behavioural therapy for insomnia in patients with Parkinson's disease -- a randomized study",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "23561946",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 4,
+          "quote": "Doxepin and cognitive behavioural therapy for insomnia in patients with Parkinson's disease -- a randomized study",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "12499712",
+        "grade": {
+          "key": "12499712",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Complaints of poststroke insomnia and its treatment with mianserin",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "12499712",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Complaints of poststroke insomnia and its treatment with mianserin",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "layer": 1,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23993464",
+        "grade": {
+          "key": "23993464",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Insomnia treatment in the third trimester of pregnancy reduces postpartum depression symptoms: a randomized clinical trial",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "verified": {
+          "key": "23993464",
+          "entryId": "CD010753",
+          "grade": 4,
+          "topicGrade": 4,
+          "quote": "Insomnia treatment in the third trimester of pregnancy reduces postpartum depression symptoms: a randomized clinical trial",
+          "quoteVerified": true,
+          "ungraded": false,
+          "modelGrade": 4,
+          "matched": "full"
+        },
+        "layer": 1,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      }
+    ]
+  }
+]

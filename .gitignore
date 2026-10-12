@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+api-cache/
+*.tmp
+.DS_Store
+.env

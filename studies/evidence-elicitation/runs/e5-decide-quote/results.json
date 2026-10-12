@@ -1,0 +1,658 @@
+[
+ {
+  "topic": "CD010558",
+  "pmid": "22686185",
+  "grade": 4,
+  "evidence": "a randomised controlled trial of psychoanalytic psychotherapy for treatment-resistant/treatment-refractory forms of depression",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "24574930",
+  "grade": 1,
+  "evidence": "Facebook can be used as an effective enhancement therapy, adjuvant to pharmacological therapy",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "22925198",
+  "grade": 1,
+  "evidence": "Mindfulness-Based Cognitive Therapy (MBCT) is at least as effective as mADM in reducing the relapse/recurrence risk",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "24886116",
+  "grade": 1,
+  "evidence": "a pilot phase II randomised controlled trial (RCT) to test the feasibility and acceptability of the trial methods",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "18221624",
+  "grade": 1,
+  "evidence": "highlight the prevalence of treatment-resistant depression and suggest potential benefit for using more vigorous treatments",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "26119013",
+  "grade": 1,
+  "evidence": "mindfulness may be important in preventing relapse but that rumination is not a significant mediator of its effects",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "26799332",
+  "grade": 4,
+  "evidence": "Both treatments lead to equal improvements in depressive symptoms. We found no evidence to support adding IPT to pharmacotherapy in patients with TRD.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "22677092",
+  "grade": 1,
+  "evidence": "test the hypothesis that usual care plus nurse-led self-help for recurrent depression in primary care is feasible, acceptable and cost-effective",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "18294022",
+  "grade": 1,
+  "evidence": "TMS is a safe and effective treatment of major depressive disorder",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "26847975",
+  "grade": 1,
+  "evidence": "CBASP group psychotherapy treatment improved sleep quality compared with Treatment As Usual.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "23750462",
+  "grade": 1,
+  "evidence": "Those with chronic depression who will not remit in structured, time-limited psychotherapy for depression, either with therapy alone or in combination with antidepressant medication, are identifiable prior to end of treatment.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "26022410",
+  "grade": 1,
+  "evidence": "CBASP and ESC/CM appear to be equally effective treatment options for chronically depressed outpatients.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "26553106",
+  "grade": 4,
+  "evidence": "A randomized-controlled trial is conducted to compare MBCT with treatment-as-usual (TAU). Patients with chronic, treatment-resistant depression",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "18277222",
+  "grade": 4,
+  "evidence": "dialectical behavior therapy-based skills training group to treat depressive symptoms in adult outpatients for whom antidepressant medication had not produced remission",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "26371617",
+  "grade": 4,
+  "evidence": "CBASP was significantly more effective than TAU in reducing depressive symptoms in the overall sample and at both treatment sites.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "25527998",
+  "grade": 4,
+  "evidence": "Age was the only variable with evidence for effect modification (p Value for interaction term=0.012), with older patients benefiting the most from CBT.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "23896849",
+  "grade": 1,
+  "evidence": "Cognitive deficits are malleable with behavioral treatment in a mood disorder characterized by severe and persistent symptoms.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "24824481",
+  "grade": 4,
+  "evidence": "clinical effectiveness and cost-effectiveness of cognitive behavioural therapy (CBT) as an adjunct to usual care (including pharmacotherapy) for primary care patients with treatment-resistant depression",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "23851972",
+  "grade": 1,
+  "evidence": "Patients felt they benefited from being in the trial because it enabled them to reflect on their feelings.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "23339536",
+  "grade": 1,
+  "evidence": "A more positive early working alliance was associated with lower subsequent symptom ratings in both the CBASP and BSP",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "26407787",
+  "grade": 4,
+  "evidence": "This pragmatic randomized controlled trial tested the effectiveness of long-term psychoanalytic psychotherapy (LTPP) as an adjunct to treatment-as-usual according to UK national guidelines (TAU), compared to TAU alone, in patients with long-standing major depression who had failed at least two different treatments and were considered to have treatment-resistant depression.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "26219426",
+  "grade": 1,
+  "evidence": "RCBT and SCBT are equally effective in increasing optimism in persons with MDD and chronic medical illness.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "24262818",
+  "grade": 4,
+  "evidence": "The addition of CBT to usual care is cost-effective in patients who have not responded to antidepressants.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "19232571",
+  "grade": 4,
+  "evidence": "Results offer preliminary support for the idea that participating in DBT-based skills training may help individuals with treatment-resistant MDD to develop skills that facilitate processing emotions in a way that helps to reduce rather than exacerbate depression symptoms.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "25211400",
+  "grade": 1,
+  "evidence": "It is not known whether antidepressants are an effective and safe choice for treatment of this disorder.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "21114826",
+  "grade": 1,
+  "evidence": "Despite this there are no randomised controlled trials of community based service delivery interventions delivering both algorithm based pharmacotherapy and psychotherapy for patients with chronic depressive disorder in secondary care mental health services who remain moderately or severely depressed after six months treatment.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "26278222",
+  "grade": 1,
+  "evidence": "These findings support providing regular outreach care management and a self-care group offering a combined behavioral and recovery-oriented approach for people with chronic or recurrent depressive symptoms.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "11115207",
+  "grade": 1,
+  "evidence": "The stepped care intervention resulted in small to moderate functional improvements for these primary care patients.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "19884606",
+  "grade": 1,
+  "evidence": "No statistically significant differences eme",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "22962030",
+  "grade": 1,
+  "evidence": "These preliminary results suggested that IPT may be an option to treat major depression in T2DM against medical care with sertraline.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "22101205",
+  "grade": 4,
+  "evidence": "The CoBalT trial will provide evidence on the clinical and cost effectiveness of CBT as an adjunct to antidepressant medication in the treatment of depression that has not responded to pharmacotherapy.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "21778171",
+  "grade": 1,
+  "evidence": "Adding rumination-focused CBT to TAU significantly improved residual symptoms and remission rates.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "19015627",
+  "grade": 1,
+  "evidence": "There is a pressing need to evaluate whether the outcomes obtained from a well implemented medication algorithm combined with depression-focused psychotherapy can significantly enhance outcomes for cMDD.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "16959055",
+  "grade": 1,
+  "evidence": "Despite a heterogeneous sample, a significant proportion of patients met clinical response criteria following treatment but response to 1 and 2 Hz did not differ.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "22198447",
+  "grade": 1,
+  "evidence": "For patients receiving and tolerating aggressive initial antidepressant trials, there is no clear preference for next-step augmentation versus switching.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "19697180",
+  "grade": 1,
+  "evidence": "Treatments targeting ruminative processes may, therefore, be particularly helpful for treating chronic and recurrent depression.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "21849054",
+  "grade": 1,
+  "evidence": "The purpose of the study is to estimate the efficacy of CBASP compared to supportive psychotherapy in 268 non-medicated early-onset chronically depressed outpatients.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "25335963",
+  "grade": 4,
+  "evidence": "The aim of this paper is to describe the study protocol for a randomised controlled trial that measures the clinical effectiveness of cognitive behavioural therapy (CBT) as an augmentation strategy to treat patients with non-psychotic major depression identified as suboptimal responders to usual depression care.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010558",
+  "pmid": "23219570",
+  "grade": 4,
+  "evidence": "The CoBalT trial aimed to examine the effectiveness of cognitive behavioural therapy (CBT) as an adjunct to usual care (including pharmacotherapy) for primary care patients with treatment resistant depression compared with usual care alone.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "8895944",
+  "grade": 4,
+  "evidence": "Both after the single i.v. treatment as well as after long-term oral administration, doxepin also significantly improved sleep latency, total sleep time, and sleep efficiency in the insomniacs",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "9646878",
+  "grade": 1,
+  "evidence": "Nefazodone and fluoxetine were equally effective in reducing depressive symptoms; however, nefazodone differentially and progressively increased (while fluoxetine reduced) sleep efficiency and reduced (while fluoxetine increased) the number of awakenings",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "11465523",
+  "grade": 4,
+  "evidence": "medication significantly increased sleep efficiency after acute (night 1, p < or = .001) and subchronic (night 28, p < or = .05) intake compared with the patients who received placebo",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "18041488",
+  "grade": 4,
+  "evidence": "Wake time during sleep, the a priori defined primary endpoint, was statistically significantly improved at the doxepin 3 mg and 6 mg doses versus placebo",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "7491373",
+  "grade": 1,
+  "evidence": "Fluoxetine did not exacerbate sleep disturbance either at Week 1 or at endpoint.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "21623982",
+  "grade": 4,
+  "evidence": "Trazodone produced small but significant impairments of short-term memory, verbal learning, equilibrium and arm muscle endurance across time-points. Relative to placebo across test days, trazodone was associated with fewer night-time awakenings",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "12920414",
+  "grade": 1,
+  "evidence": "Sleep efficiency was increased in the TRZ group when it was computed after sleep onset, both immediately after 1st administration of the drug and after 4 weeks of treatment.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "27482970",
+  "grade": 4,
+  "evidence": "Esmirtazapine doses of 1.5 to 4.5 mg/day significantly improved quantity and quality of sleep and were generally well tolerated",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "23823799",
+  "grade": 1,
+  "evidence": "Agomelatine and escitalopram similarly improved depressive symptoms, with clinically relevant score changes over 12 and 24 wk and notable percentage of remitters",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "22057726",
+  "grade": 1,
+  "evidence": "For patients with MDD (n = 5133), the treatment difference on MADRS item 4 (\"reduced sleep\") was significantly in favor of escitalopram versus placebo",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "11910258",
+  "grade": 1,
+  "evidence": "Depression improvement, assessed with the HAM-D-17 total score, was similar among treatments in all patients (p = 0.365) and the high (p = 0.853) and low insomnia (p = 0.415) subgroups.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "12237787",
+  "grade": 4,
+  "evidence": "Trimipramine at an average dose of 100 mg over a period of 4 weeks significantly enhanced sleep efficiency, but not total sleep time (which had been the primary target variable) compared to placebo as measured by polysomnography.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "14725822",
+  "grade": 4,
+  "evidence": "Trazodone significantly increased total sleep time, percentage of stages 3+4, sleep efficiency index, sleep continuity index and decreased percentage of stage 1, number of awakenings, stage shifts compared to the baseline.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "28199710",
+  "grade": 1,
+  "evidence": "Although all groups self-reported sleeping better after treatment, only the CBT-I groups improved on objective sleep, and AD + SH's sleep worsened.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "21102997",
+  "grade": 4,
+  "evidence": "DXP 3 mg led to significant improvement versus PBO on N1 in wake time after sleep onset (WASO; P < 0.0001; primary endpoint), total sleep time (TST; P < 0.0001), overall sleep efficiency (SE; P < 0.0001)",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "9184611",
+  "grade": 1,
+  "evidence": "Fluoxetine significantly decreased sleep efficiency and REM sleep and increased number of awakenings, Stage 1 sleep, and REM latency compared with baseline. In contrast, nefazodone significantly decreased percentage of awake and movement time and did not alter sleep efficiency or number of awakenings",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "28093029",
+  "grade": 4,
+  "evidence": "Under acoustic stress, both mirtazapine and quetiapine increased total sleep time by half an hour and reduced the number of awakenings by 35-40% compared to placebo.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "2688037",
+  "grade": 4,
+  "evidence": "Trimipramine eliminated objective evidence of sleep disturbance. This was not the case with imipramine, although depression improved similarly in both groups.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "18616688",
+  "grade": 4,
+  "evidence": "Trazodone was associated with improved sleep quality during its administration (mean change on the Pittsburgh Sleep Quality Index between baseline and 3 months: -3.02; 95% CI: -3.38 to -2.67)",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "23561946",
+  "grade": 4,
+  "evidence": "Compared to placebo, doxepin improved the Insomnia Severity Index (-9 ± 5.4 vs. -2 ± 3.9, p = 0.03), the SCOPA-night score (-5.2 ± 1.5 vs. -2.3 ± 2.8, p = 0.049), the Pittsburgh Sleep Quality Index-sleep disturbances subscale (-0.5 ± 0.5 vs 0.2 ± 0.4, p = 0.02)",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "12499712",
+  "grade": 4,
+  "evidence": "mianserin as a sedative antidepressant is beneficial in the treatment of poststroke insomnia",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD010753",
+  "pmid": "23993464",
+  "grade": 4,
+  "evidence": "insomnia treatment with trazodone or diphenhydramine during the third trimester of pregnancy may prevent PPD",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "11352373",
+  "grade": 4,
+  "evidence": "2 h CBT group showed decreased depression and anxiety.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "22511399",
+  "grade": 4,
+  "evidence": "intervention group showed significant improvement in uncertainty, coping strategy, anxiety, depression, and the mental health domains of QOL after the intervention",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "9619472",
+  "grade": 1,
+  "evidence": "EXESM participants experienced changes not observed among ESM and WL participants, including improved endurance, reduced anxiety, and improved cognitive performance (verbal fluency).",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "25548124",
+  "grade": 4,
+  "evidence": "nurse-led PST was effective for clinically depressed patients with COPD, who experienced decreased depressive symptoms (mean difference = 6.8, P = 0.009) and increased self-efficacy (mean difference = -0.6, P = 0.041)",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "12917854",
+  "grade": 4,
+  "evidence": "Including psychotherapy in a pulmonary rehabilitation program for COPD reduced patients' anxiety and depression levels but did not modify 6MWD performance.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "17922939",
+  "grade": 4,
+  "evidence": "Both treatments significantly improved QoL, anxiety and depression (p<0.005) over 8 weeks",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "23166130",
+  "grade": 1,
+  "evidence": "",
+  "tier": "none",
+  "omitted": true
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "26929616",
+  "grade": 4,
+  "evidence": "The aim of this study is to evaluate the efficacy of both telephone-administered CBT and befriending on outcomes for patients with diagnosed COPD who have at least mild levels of depression and/or anxiety.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "22419944",
+  "grade": 1,
+  "evidence": "",
+  "tier": "none",
+  "omitted": true
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "25322078",
+  "grade": 1,
+  "evidence": "",
+  "tier": "none",
+  "omitted": true
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "28150856",
+  "grade": 1,
+  "evidence": "",
+  "tier": "none",
+  "omitted": true
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "12464831",
+  "grade": 1,
+  "evidence": "",
+  "tier": "none",
+  "omitted": true
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "25774660",
+  "grade": 1,
+  "evidence": "",
+  "tier": "none",
+  "omitted": true
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "26049126",
+  "grade": 4,
+  "evidence": "cognitive behaviour therapy (CBT) decreases ratings of perceived dyspnoea in response to resistive loading in patients with COPD.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "28544504",
+  "grade": 4,
+  "evidence": "Cognitive behaviour therapy reduced depression symptoms but not anxiety.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "26836938",
+  "grade": 1,
+  "evidence": "",
+  "tier": "none",
+  "omitted": true
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "16790039",
+  "grade": 4,
+  "evidence": "The first objective of the DELTA study is to evaluate the effectiveness and cost-effectiveness of a minimal psychological intervention (MPI) to reduce depression in chronically ill elderly patients.",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "23585837",
+  "grade": 4,
+  "evidence": "psychological and/or lifestyle interventions were associated with small reductions in symptoms of depression (standardised mean difference -0.28, 95% confidence interval -0.41 to -0.14) and anxiety (standardised mean difference -0.23, 95% confidence interval -0.38 to -0.09).",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "9230251",
+  "grade": 4,
+  "evidence": "six sessions of cognitive and behavioural psychotherapy produced a sustained improvement in exercise tolerance in a group of 10 anxious patients with severe chronic obstructive pulmonary disease",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "22162648",
+  "grade": 4,
+  "evidence": "Significant positive treatment-related effects of the CBT-I intervention were noted for insomnia severity (P = 0.000), global sleep quality (P = 0.002), wake after sleep onset (P = 0.03), sleep efficiency (P = 0.02), fatigue (P = 0.005), and beliefs and attitudes about sleep (P = 0.000).",
+  "tier": "exact",
+  "omitted": false
+ },
+ {
+  "topic": "CD012347",
+  "pmid": "20346640",
+  "grade": 4,
+  "evidence": "CBT resulted in improvement in symptoms of anxiety and depression, with effect sizes of 1.1 and 0.9 at post-treatment, respectively.",
+  "tier": "exact",
+  "omitted": false
+ }
+]

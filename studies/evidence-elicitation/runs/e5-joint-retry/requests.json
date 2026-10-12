@@ -1,0 +1,212 @@
+{
+ "mode": "quote",
+ "source": "clinical-v1",
+ "only_failures": true,
+ "n_items": 39,
+ "requests": [
+  {
+   "topic": "CD010558",
+   "indices": [
+    "24574930",
+    "22962030",
+    "19015627",
+    "22198447",
+    "19697180",
+    "21849054"
+   ],
+   "body": {
+    "model": "gpt-4.1-mini-2025-04-14",
+    "temperature": 0,
+    "max_tokens": 2048,
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are given a clinician watch entry, several papers (title and abstract), and the relevance grade already assigned to each paper. For each paper return ONE short, exact, contiguous excerpt of 8-160 characters copied VERBATIM from its title or abstract that best supports the assigned grade. Do not paraphrase, concatenate separate passages, insert ellipses, or add words. Do not change or comment on the grade. Return JSON {\"evidence\":[{\"index\":<paper index>,\"quote\":\"<excerpt>\"}]} with exactly one entry per paper."
+     },
+     {
+      "role": "user",
+      "content": "{\"watchEntry\": {\"condition\": \"treatment-resistant depression\", \"treatment\": \"psychotherapy\", \"population\": \"adults\"}, \"papers\": [{\"index\": 0, \"assignedGrade\": 1, \"title\": \"Facebook enhances antidepressant pharmacotherapy effects\", \"abstract\": \"[ABSTRACT REDACTED sha256:613bda82f7f9]\"}, {\"index\": 1, \"assignedGrade\": 1, \"title\": \"Treatment response in type 2 diabetes patients with major depression\", \"abstract\": \"[ABSTRACT REDACTED sha256:32b7498919a4]\"}, {\"index\": 2, \"assignedGrade\": 4, \"title\": \"REVAMP - Research Evaluating the Value of Augmenting Medication with Psychotherapy: rationale and design\", \"abstract\": \"[ABSTRACT REDACTED sha256:f1d9a18b2ba1]\"}, {\"index\": 3, \"assignedGrade\": 1, \"title\": \"Treating depression after initial treatment failure: directly comparing switch and augmenting strategies in STAR*D\", \"abstract\": \"[ABSTRACT REDACTED sha256:f5285fff8fa1]\"}, {\"index\": 4, \"assignedGrade\": 4, \"title\": \"Depressive rumination: investigating mechanisms to improve cognitive behavioural treatments\", \"abstract\": \"[ABSTRACT REDACTED sha256:93ede29c822b]\"}, {\"index\": 5, \"assignedGrade\": 4, \"title\": \"Comparative efficacy of the Cognitive Behavioral Analysis System of Psychotherapy versus supportive psychotherapy for early onset chronic depression: design and rationale of a multisite randomized controlled trial\", \"abstract\": \"[ABSTRACT REDACTED sha256:606f93be701a]\"}]}"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "evidence",
+      "strict": false,
+      "schema": {
+       "type": "object",
+       "properties": {
+        "evidence": {
+         "type": "array",
+         "items": {
+          "type": "object",
+          "properties": {
+           "index": {
+            "type": "integer"
+           },
+           "quote": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "index",
+           "quote"
+          ],
+          "additionalProperties": false
+         }
+        }
+       },
+       "required": [
+        "evidence"
+       ],
+       "additionalProperties": false
+      }
+     }
+    }
+   }
+  },
+  {
+   "topic": "CD010753",
+   "indices": [
+    "8895944",
+    "9646878",
+    "11465523",
+    "18041488",
+    "7491373",
+    "21623982",
+    "12920414",
+    "27482970",
+    "23823799",
+    "22057726",
+    "11910258",
+    "12237787",
+    "14725822",
+    "9376452",
+    "28199710",
+    "21102997",
+    "9184611"
+   ],
+   "body": {
+    "model": "gpt-4.1-mini-2025-04-14",
+    "temperature": 0,
+    "max_tokens": 2048,
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are given a clinician watch entry, several papers (title and abstract), and the relevance grade already assigned to each paper. For each paper return ONE short, exact, contiguous excerpt of 8-160 characters copied VERBATIM from its title or abstract that best supports the assigned grade. Do not paraphrase, concatenate separate passages, insert ellipses, or add words. Do not change or comment on the grade. Return JSON {\"evidence\":[{\"index\":<paper index>,\"quote\":\"<excerpt>\"}]} with exactly one entry per paper."
+     },
+     {
+      "role": "user",
+      "content": "{\"watchEntry\": {\"condition\": \"insomnia\", \"treatment\": \"antidepressants\", \"population\": \"adults\"}, \"papers\": [{\"index\": 0, \"assignedGrade\": 4, \"title\": \"Nocturnal melatonin secretion and sleep after doxepin administration in chronic primary insomnia\", \"abstract\": \"[ABSTRACT REDACTED sha256:bdfa0add8b91]\"}, {\"index\": 1, \"assignedGrade\": 3, \"title\": \"Comparative effects of nefazodone and fluoxetine on sleep in outpatients with major depressive disorder\", \"abstract\": \"[ABSTRACT REDACTED sha256:9be9746a4891]\"}, {\"index\": 2, \"assignedGrade\": 4, \"title\": \"Doxepin in the treatment of primary insomnia: a placebo-controlled, double-blind, polysomnographic study\", \"abstract\": \"[ABSTRACT REDACTED sha256:5198dffff683]\"}, {\"index\": 3, \"assignedGrade\": 4, \"title\": \"Efficacy and safety of doxepin 1 mg, 3 mg, and 6 mg in adults with primary insomnia\", \"abstract\": \"[ABSTRACT REDACTED sha256:cd9e8a2bdd8b]\"}, {\"index\": 4, \"assignedGrade\": 3, \"title\": \"The effects of fluoxetine on symptoms of insomnia in depressed patients\", \"abstract\": \"[ABSTRACT REDACTED sha256:2ac09bac43eb]\"}, {\"index\": 5, \"assignedGrade\": 4, \"title\": \"Cognitive, psychomotor and polysomnographic effects of trazodone in primary insomniacs\", \"abstract\": \"[ABSTRACT REDACTED sha256:f50712659587]\"}, {\"index\": 6, \"assignedGrade\": 4, \"title\": \"Double-blind, placebo-controlled study of the efficacy of trazodone in alcohol post-withdrawal syndrome: polysomnographic and clinical evaluations\", \"abstract\": \"[ABSTRACT REDACTED sha256:e38554416471]\"}, {\"index\": 7, \"assignedGrade\": 4, \"title\": \"A Phase 2 Randomized Dose-Finding Study With Esmirtazapine in Patients With Primary Insomnia\", \"abstract\": \"[ABSTRACT REDACTED sha256:67283b561e87]\"}, {\"index\": 8, \"assignedGrade\": 3, \"title\": \"Efficacy of agomelatine and escitalopram on depression, subjective sleep and emotional experiences in patients with major depressive disorder: a 24-wk randomized, controlled, double-blind trial\", \"abstract\": \"[ABSTRACT REDACTED sha256:9d2117be1de7]\"}, {\"index\": 9, \"assignedGrade\": 3, \"title\": \"Effects of escitalopram on sleep problems in patients with major depression or generalized anxiety disorder\", \"abstract\": \"[ABSTRACT REDACTED sha256:c0160d339bb5]\"}, {\"index\": 10, \"assignedGrade\": 3, \"title\": \"Acute efficacy of fluoxetine versus sertraline and paroxetine in major depressive disorder including effects of baseline insomnia\", \"abstract\": \"[ABSTRACT REDACTED sha256:c0f729203079]\"}, {\"index\": 11, \"assignedGrade\": 4, \"title\": \"Trimipramine in primary insomnia: results of a polysomnographic double-blind controlled study\", \"abstract\": \"[ABSTRACT REDACTED sha256:6c6f1e27ec74]\"}, {\"index\": 12, \"assignedGrade\": 4, \"title\": \"The effects of trazodone on sleep in patients treated with stimulant antidepressants\", \"abstract\": \"[ABSTRACT REDACTED sha256:c3d50294d6d5]\"}, {\"index\": 13, \"assignedGrade\": 3, \"title\": \"Maintenance nortriptyline effects on electroencephalographic sleep in elderly patients with recurrent major depression: double-blind, placebo- and plasma-level-controlled evaluation\", \"abstract\": \"[ABSTRACT REDACTED sha256:a666d3e6b498]\"}, {\"index\": 14, \"assignedGrade\": 1, \"title\": \"Cognitive Behavioral Insomnia Therapy for Those With Insomnia and Depression: A Randomized Controlled Clinical Trial\", \"abstract\": \"[ABSTRACT REDACTED sha256:304e7efc0521]\"}, {\"index\": 15, \"assignedGrade\": 4, \"title\": \"Efficacy and Safety of Doxepin 1 mg and 3 mg in a 12-week Sleep Laboratory and Outpatient Trial of Elderly Subjects with Chronic Primary Insomnia\", \"abstract\": \"[ABSTRACT REDACTED sha256:d8d32500752c]\"}, {\"index\": 16, \"assignedGrade\": 3, \"title\": \"A comparison of nefazodone and fluoxetine on mood and on objective, subjective, and clinician-rated measures of sleep in depressed patients: a double-blind, 8-week clinical trial\", \"abstract\": \"[ABSTRACT REDACTED sha256:7ab7e239b23a]\"}]}"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "evidence",
+      "strict": false,
+      "schema": {
+       "type": "object",
+       "properties": {
+        "evidence": {
+         "type": "array",
+         "items": {
+          "type": "object",
+          "properties": {
+           "index": {
+            "type": "integer"
+           },
+           "quote": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "index",
+           "quote"
+          ],
+          "additionalProperties": false
+         }
+        }
+       },
+       "required": [
+        "evidence"
+       ],
+       "additionalProperties": false
+      }
+     }
+    }
+   }
+  },
+  {
+   "topic": "CD012347",
+   "indices": [
+    "11352373",
+    "22511399",
+    "24555562",
+    "9619472",
+    "25548124",
+    "12917854",
+    "17922939",
+    "23166130",
+    "26929616",
+    "22419944",
+    "25322078",
+    "28150856",
+    "12464831",
+    "25774660",
+    "26049126",
+    "28544504"
+   ],
+   "body": {
+    "model": "gpt-4.1-mini-2025-04-14",
+    "temperature": 0,
+    "max_tokens": 2048,
+    "messages": [
+     {
+      "role": "system",
+      "content": "You are given a clinician watch entry, several papers (title and abstract), and the relevance grade already assigned to each paper. For each paper return ONE short, exact, contiguous excerpt of 8-160 characters copied VERBATIM from its title or abstract that best supports the assigned grade. Do not paraphrase, concatenate separate passages, insert ellipses, or add words. Do not change or comment on the grade. Return JSON {\"evidence\":[{\"index\":<paper index>,\"quote\":\"<excerpt>\"}]} with exactly one entry per paper."
+     },
+     {
+      "role": "user",
+      "content": "{\"watchEntry\": {\"condition\": \"depression\", \"condition2\": \"chronic obstructive pulmonary disease\", \"conditionJoin\": \"and\", \"treatment\": \"psychotherapy\"}, \"papers\": [{\"index\": 0, \"assignedGrade\": 4, \"title\": \"One session cognitive behavioural therapy for elderly patients with chronic obstructive pulmonary disease\", \"abstract\": \"[ABSTRACT REDACTED sha256:2a130876a00d]\"}, {\"index\": 1, \"assignedGrade\": 4, \"title\": \"Effects of an uncertainty management intervention on uncertainty, anxiety, depression, and quality of life of chronic obstructive pulmonary disease outpatients\", \"abstract\": \"[ABSTRACT REDACTED sha256:7553f7e4b28f]\"}, {\"index\": 2, \"assignedGrade\": 1, \"title\": \"Clinical characteristics and quality of life in women with COPD: an observational study\", \"abstract\": \"[ABSTRACT REDACTED sha256:650151ebea15]\"}, {\"index\": 3, \"assignedGrade\": 1, \"title\": \"Psychological and cognitive outcomes of a randomized trial of exercise among patients with chronic obstructive pulmonary disease\", \"abstract\": \"[ABSTRACT REDACTED sha256:acea3c159400]\"}, {\"index\": 4, \"assignedGrade\": 4, \"title\": \"The effect of nurse-led problem-solving therapy on coping, self-efficacy and depressive symptoms for patients with chronic obstructive pulmonary disease: a randomised controlled trial\", \"abstract\": \"[ABSTRACT REDACTED sha256:646031317706]\"}, {\"index\": 5, \"assignedGrade\": 4, \"title\": \"A randomized controlled trial of the effect of psychotherapy on anxiety and depression in chronic obstructive pulmonary disease\", \"abstract\": \"[ABSTRACT REDACTED sha256:32f6dcfd32e8]\"}, {\"index\": 6, \"assignedGrade\": 4, \"title\": \"COPD education and cognitive behavioral therapy group treatment for clinically significant symptoms of depression and anxiety in COPD patients: a randomized controlled trial\", \"abstract\": \"[ABSTRACT REDACTED sha256:2ea58c9cba50]\"}, {\"index\": 7, \"assignedGrade\": 1, \"title\": \"Life event stress and chronic obstructive pulmonary disease (COPD): associations with mental well-being and quality of life in a population-based study\", \"abstract\": \"[ABSTRACT REDACTED sha256:cf5be7b56579]\"}, {\"index\": 8, \"assignedGrade\": 4, \"title\": \"Study protocol for a randomized controlled trial of telephone-delivered cognitive behavior therapy compared with befriending for treating depression and anxiety in older adults with COPD\", \"abstract\": \"[ABSTRACT REDACTED sha256:19388c53272d]\"}, {\"index\": 9, \"assignedGrade\": 1, \"title\": \"Does the professional and working context of United Kingdom clinicians predict if they use practices to support patients with long term conditions to self manage?\", \"abstract\": \"[ABSTRACT REDACTED sha256:6fbe65a63a9f]\"}, {\"index\": 10, \"assignedGrade\": 4, \"title\": \"'The COPD breathlessness manual': a randomised controlled trial to test a cognitive-behavioural manual versus information booklets on health service use, mood and health status, in patients with chronic obstructive pulmonary disease\", \"abstract\": \"[ABSTRACT REDACTED sha256:b79c8e250f6f]\"}, {\"index\": 11, \"assignedGrade\": 4, \"title\": \"Effectiveness of cognitive behavioural therapy in a community-based pulmonary rehabilitation programme: A controlled clinical trial\", \"abstract\": \"[ABSTRACT REDACTED sha256:111754bdc2db]\"}, {\"index\": 12, \"assignedGrade\": 1, \"title\": \"Neurobehavioral improvement after brief rehabilitation in patients with chronic obstructive pulmonary disease\", \"abstract\": \"[ABSTRACT REDACTED sha256:a8d9e54a8615]\"}, {\"index\": 13, \"assignedGrade\": 1, \"title\": \"Patient Anxiety and Depression Moderate the Effects of Increased Self-management Knowledge on Physical Activity: A Secondary Analysis of a Randomised Controlled Trial on Health-Mentoring in COPD\", \"abstract\": \"[ABSTRACT REDACTED sha256:31b223483f6a]\"}, {\"index\": 14, \"assignedGrade\": 4, \"title\": \"Cognitive behaviour therapy reduces dyspnoea ratings in patients with chronic obstructive pulmonary disease (COPD)\", \"abstract\": \"[ABSTRACT REDACTED sha256:725e3886f233]\"}, {\"index\": 15, \"assignedGrade\": 4, \"title\": \"The impact of telephone-delivered cognitive behaviour therapy and befriending on mood disorders in people with chronic obstructive pulmonary disease: A randomized controlled trial\", \"abstract\": \"[ABSTRACT REDACTED sha256:631b9db47c8a]\"}]}"
+     }
+    ],
+    "response_format": {
+     "type": "json_schema",
+     "json_schema": {
+      "name": "evidence",
+      "strict": false,
+      "schema": {
+       "type": "object",
+       "properties": {
+        "evidence": {
+         "type": "array",
+         "items": {
+          "type": "object",
+          "properties": {
+           "index": {
+            "type": "integer"
+           },
+           "quote": {
+            "type": "string"
+           }
+          },
+          "required": [
+           "index",
+           "quote"
+          ],
+          "additionalProperties": false
+         }
+        }
+       },
+       "required": [
+        "evidence"
+       ],
+       "additionalProperties": false
+      }
+     }
+    }
+   }
+  }
+ ]
+}

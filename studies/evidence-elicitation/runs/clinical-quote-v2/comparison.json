@@ -1,0 +1,56 @@
+[
+  {
+    "variant": "clinical-v1",
+    "topic": "CD012347",
+    "positive_entered": 16,
+    "positive_kept": 4,
+    "positive_quote_fail": 12,
+    "controls_kept": 1,
+    "ungraded": 0
+  },
+  {
+    "variant": "clinical-v1",
+    "topic": "CD010558",
+    "positive_entered": 37,
+    "positive_kept": 15,
+    "positive_quote_fail": 6,
+    "controls_kept": 0,
+    "ungraded": 0
+  },
+  {
+    "variant": "clinical-v1",
+    "topic": "CD010753",
+    "positive_entered": 22,
+    "positive_kept": 6,
+    "positive_quote_fail": 16,
+    "controls_kept": 0,
+    "ungraded": 0
+  },
+  {
+    "variant": "clinical-quote-v2",
+    "topic": "CD012347",
+    "positive_entered": 16,
+    "positive_kept": 13,
+    "positive_quote_fail": 1,
+    "controls_kept": 1,
+    "ungraded": 0
+  },
+  {
+    "variant": "clinical-quote-v2",
+    "topic": "CD010558",
+    "positive_entered": 37,
+    "positive_kept": 12,
+    "positive_quote_fail": 6,
+    "controls_kept": 0,
+    "ungraded": 0
+  },
+  {
+    "variant": "clinical-quote-v2",
+    "topic": "CD010753",
+    "positive_entered": 22,
+    "positive_kept": 21,
+    "positive_quote_fail": 0,
+    "controls_kept": 0,
+    "ungraded": 0
+  }
+]

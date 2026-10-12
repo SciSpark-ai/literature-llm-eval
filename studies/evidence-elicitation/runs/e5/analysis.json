@@ -1,0 +1,169 @@
+{
+ "policies": {
+  "J": {
+   "CD010558": {
+    "admitted_positives": 24,
+    "verified_exact": 18,
+    "verified_any_tier": 19,
+    "negatives_admitted": 3,
+    "negatives_verified_any": 3
+   },
+   "CD010753": {
+    "admitted_positives": 22,
+    "verified_exact": 6,
+    "verified_any_tier": 11,
+    "negatives_admitted": 1,
+    "negatives_verified_any": 0
+   },
+   "CD012347": {
+    "admitted_positives": 16,
+    "verified_exact": 4,
+    "verified_any_tier": 9,
+    "negatives_admitted": 6,
+    "negatives_verified_any": 5
+   }
+  },
+  "J+R": {
+   "CD010558": {
+    "admitted_positives": 24,
+    "verified_exact": 24,
+    "verified_any_tier": 24,
+    "negatives_admitted": 3,
+    "negatives_verified_any": 3
+   },
+   "CD010753": {
+    "admitted_positives": 22,
+    "verified_exact": 15,
+    "verified_any_tier": 16,
+    "negatives_admitted": 1,
+    "negatives_verified_any": 0
+   },
+   "CD012347": {
+    "admitted_positives": 16,
+    "verified_exact": 14,
+    "verified_any_tier": 15,
+    "negatives_admitted": 6,
+    "negatives_verified_any": 6
+   }
+  },
+  "D+E": {
+   "CD010558": {
+    "admitted_positives": 34,
+    "verified_exact": 34,
+    "verified_any_tier": 34,
+    "negatives_admitted": 5,
+    "negatives_verified_any": 5
+   },
+   "CD010753": {
+    "admitted_positives": 22,
+    "verified_exact": 22,
+    "verified_any_tier": 22,
+    "negatives_admitted": 0,
+    "negatives_verified_any": 0
+   },
+   "CD012347": {
+    "admitted_positives": 16,
+    "verified_exact": 13,
+    "verified_any_tier": 13,
+    "negatives_admitted": 5,
+    "negatives_verified_any": 1
+   }
+  },
+  "D+S": {
+   "CD010558": {
+    "admitted_positives": 34,
+    "verified_exact": 34,
+    "verified_any_tier": 34,
+    "negatives_admitted": 5,
+    "negatives_verified_any": 5
+   },
+   "CD010753": {
+    "admitted_positives": 22,
+    "verified_exact": 22,
+    "verified_any_tier": 22,
+    "negatives_admitted": 0,
+    "negatives_verified_any": 0
+   },
+   "CD012347": {
+    "admitted_positives": 16,
+    "verified_exact": 16,
+    "verified_any_tier": 16,
+    "negatives_admitted": 5,
+    "negatives_verified_any": 5
+   }
+  },
+  "tier_counts": {
+   "J": {
+    "exact": 33,
+    "normalized": 0,
+    "elided": 14,
+    "none": 25
+   },
+   "J+R": {
+    "exact": 62,
+    "normalized": 1,
+    "elided": 1,
+    "none": 8
+   },
+   "D+E": {
+    "exact": 75,
+    "normalized": 0,
+    "elided": 0,
+    "none": 7
+   },
+   "D+S": {
+    "exact": 82,
+    "normalized": 0,
+    "elided": 0,
+    "none": 0
+   }
+  }
+ },
+ "costs": {
+  "J": {
+   "tokens": {
+    "in": 42592,
+    "out": 6989
+   },
+   "usd": 0.0282192,
+   "verified_positives": 39,
+   "usd_per_verified_positive": 0.0007235692307692307,
+   "tokens_ratio_vs_J": 1.0
+  },
+  "J+R": {
+   "tokens": {
+    "in": 58073,
+    "out": 8132
+   },
+   "usd": 0.0362404,
+   "verified_positives": 55,
+   "usd_per_verified_positive": 0.0006589163636363636,
+   "tokens_ratio_vs_J": 1.3352897279199694
+  },
+  "D+E": {
+   "tokens": {
+    "in": 74767,
+    "out": 6942
+   },
+   "usd": 0.041014,
+   "verified_positives": 69,
+   "usd_per_verified_positive": 0.0005944057971014493,
+   "tokens_ratio_vs_J": 1.6479901575200178
+  },
+  "D+S": {
+   "tokens": {
+    "in": 78720,
+    "out": 4616
+   },
+   "usd": 0.0388736,
+   "verified_positives": 72,
+   "usd_per_verified_positive": 0.0005399111111111111,
+   "tokens_ratio_vs_J": 1.6808051471329744
+  }
+ },
+ "arms_present": [
+  "D+E",
+  "D+S",
+  "J+R"
+ ]
+}

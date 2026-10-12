@@ -1,0 +1,2748 @@
+[
+ {
+  "topic": "CD012347",
+  "query": "psychotherapy for depression AND chronic obstructive pulmonary disease",
+  "candidates": [
+   {
+    "pmid": "22878879",
+    "text": "Short-form Sun-style t'ai chi as an exercise training modality in people with COPD\n[ABSTRACT REDACTED sha256:fef97cf8f299]"
+   },
+   {
+    "pmid": "25186259",
+    "text": "A self-management programme for COPD: a randomised controlled trial\n[ABSTRACT REDACTED sha256:86f411286d84]"
+   },
+   {
+    "pmid": "28282237",
+    "text": "Associations of common noncommunicable medical conditions and chronic diseases with chronotype in a population-based health examination study\n[ABSTRACT REDACTED sha256:4b02f477f073]"
+   },
+   {
+    "pmid": "28139384",
+    "text": "Comorbidity effects on shoulder arthroplasty costs analysis of a nationwide private payer insurance data set\n[ABSTRACT REDACTED sha256:c5cf036216d5]"
+   },
+   {
+    "pmid": "9792578",
+    "text": "Continuous positive airway pressure requirement during the first month of treatment in patients with severe obstructive sleep apnea\n[ABSTRACT REDACTED sha256:8e4b99fb25a0]"
+   },
+   {
+    "pmid": "22107058",
+    "text": "Social comparison and anxious mood in pulmonary rehabilitation: the role of cognitive focus\n[ABSTRACT REDACTED sha256:2bca886a1f36]"
+   },
+   {
+    "pmid": "28457746",
+    "text": "Comparing the Palliative Care Needs of Those With Cancer to Those With Common Non-Cancer Serious Illness\n[ABSTRACT REDACTED sha256:bbc0231cbf11]"
+   },
+   {
+    "pmid": "21714883",
+    "text": "Primary care practice-based care management for chronically ill patients (PraCMan): study protocol for a cluster randomized controlled trial [ISRCTN56104508]\n[ABSTRACT REDACTED sha256:32c2951988dd]"
+   },
+   {
+    "pmid": "18385168",
+    "text": "Health-related quality of life in COPD patients with chronic respiratory failure\n[ABSTRACT REDACTED sha256:de6d3949080c]"
+   },
+   {
+    "pmid": "17978925",
+    "text": "[Compliance to CPAP treatment and effects of treatment on anxiety and depression in patients with obstructive sleep apnea syndrome]\n[ABSTRACT REDACTED sha256:435a62144efb]"
+   },
+   {
+    "pmid": "21737490",
+    "text": "Measuring a change in self-efficacy following pulmonary rehabilitation: an evaluation of the PRAISE tool\n[ABSTRACT REDACTED sha256:8244c76637c3]"
+   },
+   {
+    "pmid": "26932809",
+    "text": "Factors Associated with Depression in COPD: A Multicenter Study\n[ABSTRACT REDACTED sha256:2230a0dc019b]"
+   },
+   {
+    "pmid": "26403459",
+    "text": "The links between chronic obstructive pulmonary disease and comorbid depressive symptoms: role of IL-2 and IFN-γ\n[ABSTRACT REDACTED sha256:571d862d36ca]"
+   },
+   {
+    "pmid": "22402994",
+    "text": "Obstructive sleep apnea severity correlates with cellular and plasma oxidative stress parameters and affective symptoms\n[ABSTRACT REDACTED sha256:405723561339]"
+   },
+   {
+    "pmid": "17889189",
+    "text": "Mortality after heart-lung transplantation experience in a reference center\n[ABSTRACT REDACTED sha256:35c4a9cfa80e]"
+   },
+   {
+    "pmid": "11352373",
+    "text": "One session cognitive behavioural therapy for elderly patients with chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:2a130876a00d]"
+   },
+   {
+    "pmid": "24419588",
+    "text": "Profiles of chronic obstructive lung disease: characteristics of stable chronic obstructive lung disease in different parts of Asia\n[ABSTRACT REDACTED sha256:7813b60be725]"
+   },
+   {
+    "pmid": "23692348",
+    "text": "Perceived breathlessness and psychological distress among patients with chronic obstructive pulmonary disease and their spouses\n[ABSTRACT REDACTED sha256:4f3848ff45ff]"
+   },
+   {
+    "pmid": "27707442",
+    "text": "Nasal Dilator Strip is an Effective Placebo Intervention for Severe Obstructive Sleep Apnea\n[ABSTRACT REDACTED sha256:542668717aeb]"
+   },
+   {
+    "pmid": "22511399",
+    "text": "Effects of an uncertainty management intervention on uncertainty, anxiety, depression, and quality of life of chronic obstructive pulmonary disease outpatients\n[ABSTRACT REDACTED sha256:7553f7e4b28f]"
+   },
+   {
+    "pmid": "29563782",
+    "text": "Depressive status explains a significant amount of the variance in COPD assessment test (CAT) scores\n[ABSTRACT REDACTED sha256:329a1904db79]"
+   },
+   {
+    "pmid": "23616973",
+    "text": "An assessment of the effects of Iyengar yoga practice on the health-related quality of life of patients with chronic respiratory diseases: a pilot study\n[ABSTRACT REDACTED sha256:6a906f89f648]"
+   },
+   {
+    "pmid": "22752718",
+    "text": "Sexual dysfunction in men with COPD: impact on quality of life and survival\n[ABSTRACT REDACTED sha256:a5736b080ea6]"
+   },
+   {
+    "pmid": "19513800",
+    "text": "More evidence that depressive symptoms predict mortality in COPD patients: is type D personality an alternative explanation?\n[ABSTRACT REDACTED sha256:26cc853b66b9]"
+   },
+   {
+    "pmid": "28427543",
+    "text": "Changes in physical activity and sedentary behaviour following pulmonary rehabilitation in patients with COPD\n[ABSTRACT REDACTED sha256:ad458b17bab7]"
+   },
+   {
+    "pmid": "22241810",
+    "text": "Outcomes of a telehealth intervention for homebound older adults with heart or chronic respiratory failure: a randomized controlled trial\n[ABSTRACT REDACTED sha256:6de7ddde6eee]"
+   },
+   {
+    "pmid": "16873924",
+    "text": "Cognitive and functional deterioration in patients with severe COPD\n[ABSTRACT REDACTED sha256:2d43b94fbdfe]"
+   },
+   {
+    "pmid": "26481941",
+    "text": "Selective Phosphodiesterase Inhibitors for Psoriasis: Focus on Apremilast\n[ABSTRACT REDACTED sha256:20cc91be237b]"
+   },
+   {
+    "pmid": "17135861",
+    "text": "A new functional status outcome measure of dyspnea and anxiety for adults with lung disease: the dyspnea management questionnaire\n[ABSTRACT REDACTED sha256:c51f99171529]"
+   },
+   {
+    "pmid": "23409736",
+    "text": "Residual sleepiness in sleep apnea patients treated by continuous positive airway pressure\n[ABSTRACT REDACTED sha256:69b13b205967]"
+   },
+   {
+    "pmid": "26620235",
+    "text": "Loss of Dignity in Severe Chronic Obstructive Pulmonary Disease\n[ABSTRACT REDACTED sha256:b86eddcfeb61]"
+   },
+   {
+    "pmid": "21645873",
+    "text": "The impact of atypical antipsychotic use on obstructive sleep apnea: a pilot study and literature review\n[ABSTRACT REDACTED sha256:55e583589f6f]"
+   },
+   {
+    "pmid": "25485260",
+    "text": "The diagnosis of depression and its treatment in Canadian primary care practices: an epidemiological study\n[ABSTRACT REDACTED sha256:0fadf0b103e0]"
+   },
+   {
+    "pmid": "22497532",
+    "text": "Different COPD disease characteristics are related to different outcomes in the 6-minute walk test\n[ABSTRACT REDACTED sha256:089b1df1b98b]"
+   },
+   {
+    "pmid": "27434597",
+    "text": "Treatments for the prevention of Sudden Unexpected Death in Epilepsy (SUDEP)\n[ABSTRACT REDACTED sha256:ef3a8c0b9ca2]"
+   },
+   {
+    "pmid": "23011487",
+    "text": "Are depressive symptoms related to physical inactivity in chronic obstructive pulmonary disease?\n[ABSTRACT REDACTED sha256:fd05879ba92e]"
+   },
+   {
+    "pmid": "21216563",
+    "text": "Fatigue and functional impairment in early-stage non-small cell lung cancer survivors\n[ABSTRACT REDACTED sha256:40207def6a04]"
+   },
+   {
+    "pmid": "1306634",
+    "text": "[Quality of life and psychologic features of subjects with chronic respiratory diseases]\n[ABSTRACT REDACTED sha256:c80a53a05244]"
+   },
+   {
+    "pmid": "24555562",
+    "text": "Clinical characteristics and quality of life in women with COPD: an observational study\n[ABSTRACT REDACTED sha256:650151ebea15]"
+   },
+   {
+    "pmid": "29731625",
+    "text": "Adherence to COPD treatment in Turkey and Saudi Arabia: results of the ADCARE study\n[ABSTRACT REDACTED sha256:acd31ca94710]"
+   },
+   {
+    "pmid": "21336669",
+    "text": "Which domains of spirituality are associated with anxiety and depression in patients with advanced illness?\n[ABSTRACT REDACTED sha256:de4ccce364e9]"
+   },
+   {
+    "pmid": "25554484",
+    "text": "Prevalence and Predictors of Depression in Korean American Elderly: Findings from the Memory and Aging Study of Koreans (MASK)\n[ABSTRACT REDACTED sha256:8b9428f9a03a]"
+   },
+   {
+    "pmid": "27900466",
+    "text": "Overview of the Impact of Depression and Anxiety in Chronic Obstructive Pulmonary Disease\n[ABSTRACT REDACTED sha256:a1f1a1edf33d]"
+   },
+   {
+    "pmid": "21724041",
+    "text": "Effects of humor and laughter on psychological functioning, quality of life, health status, and pulmonary functioning among patients with chronic obstructive pulmonary disease: a preliminary investigation\n[ABSTRACT REDACTED sha256:2d7ec023255b]"
+   },
+   {
+    "pmid": "27302285",
+    "text": "Risk Factors for Bone Loss in Patients Having Clinical Conditions That Restrict Physical Activity\n[ABSTRACT REDACTED sha256:6189b8a9c65d]"
+   },
+   {
+    "pmid": "24659210",
+    "text": "Attendance at pulmonary rehabilitation classes: an exploration of demographic, physiological and psychological factors that predict completion of treatment\n[ABSTRACT REDACTED sha256:87174cce77d7]"
+   },
+   {
+    "pmid": "23713548",
+    "text": "Psychometric properties of the Hospital Anxiety and Depression Scale and The General Health Questionnaire-20 in COPD inpatients\n[ABSTRACT REDACTED sha256:50af95b6bfdd]"
+   },
+   {
+    "pmid": "19938969",
+    "text": "Screening for depression in chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:b56699be9bc7]"
+   },
+   {
+    "pmid": "21707853",
+    "text": "Prevalence of anxiety and depression among chronic bronchitis patients and the associated factors\n[ABSTRACT REDACTED sha256:be6eb345a9d4]"
+   },
+   {
+    "pmid": "9619472",
+    "text": "Psychological and cognitive outcomes of a randomized trial of exercise among patients with chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:acea3c159400]"
+   },
+   {
+    "pmid": "18229570",
+    "text": "Factors affecting health status in COPD patients with co-morbid anxiety or depression\n[ABSTRACT REDACTED sha256:ba27a686ac0f]"
+   },
+   {
+    "pmid": "22564039",
+    "text": "Depression, but not sleep disorder, is an independent factor affecting exacerbations and hospitalization in patients with chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:f1859bc100e9]"
+   },
+   {
+    "pmid": "27621232",
+    "text": "The impact of depression in older patients with chronic obstructive pulmonary disease and asthma\n[ABSTRACT REDACTED sha256:ec2b9f44decd]"
+   },
+   {
+    "pmid": "26661647",
+    "text": "Potentially inappropriate prescribing according to the STOPP/START criteria for older adults\n[ABSTRACT REDACTED sha256:8d19787625a4]"
+   },
+   {
+    "pmid": "18227667",
+    "text": "Capnography and respiratory depression\n[ABSTRACT REDACTED sha256:6f9f290ad4a6]"
+   },
+   {
+    "pmid": "11001074",
+    "text": "Stages of disease severity and factors that affect the health status of patients with chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:981f375ca1a8]"
+   },
+   {
+    "pmid": "25326140",
+    "text": "Comparison between breathing and aerobic exercise on clinical control in patients with moderate-to-severe asthma: protocol of a randomized trial\n[ABSTRACT REDACTED sha256:35cdd2e78ed8]"
+   },
+   {
+    "pmid": "9692103",
+    "text": "Effect of oral antibiotics on lung mucociliary clearance during exacerbation of chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:78bfde34349c]"
+   },
+   {
+    "pmid": "25548124",
+    "text": "The effect of nurse-led problem-solving therapy on coping, self-efficacy and depressive symptoms for patients with chronic obstructive pulmonary disease: a randomised controlled trial\n[ABSTRACT REDACTED sha256:646031317706]"
+   },
+   {
+    "pmid": "26755087",
+    "text": "Erectile Dysfunction Is Not a Predictor of Atrial Fibrillation: A Population-Based Propensity-Score Matched Cohort Study\n[ABSTRACT REDACTED sha256:9f225b3e151a]"
+   },
+   {
+    "pmid": "28807139",
+    "text": "Recognition of anxiety, depression, and PTSD in patients with COPD and CHF: Who gets missed?\n[ABSTRACT REDACTED sha256:849143615abb]"
+   },
+   {
+    "pmid": "20539765",
+    "text": "Assessment of the effectiveness of sustained release Bupropion and intensive physician advice in smoking cessation\n[ABSTRACT REDACTED sha256:8968b9e41589]"
+   },
+   {
+    "pmid": "15314379",
+    "text": "[The effects of a pulmonary rehabilitation program for chronic obstructive pulmonary disease patients]\n[ABSTRACT REDACTED sha256:bd829883a547]"
+   },
+   {
+    "pmid": "22054636",
+    "text": "Psychosocial risk factors for hospital readmission in COPD patients on early discharge services: a cohort study\n[ABSTRACT REDACTED sha256:9a32cbcfeab4]"
+   },
+   {
+    "pmid": "23849284",
+    "text": "Health consequences of the 'Great Recession' on the employed: evidence from an industrial cohort in aluminum manufacturing\n[ABSTRACT REDACTED sha256:56fa47ae0e74]"
+   },
+   {
+    "pmid": "20132693",
+    "text": "Frequent attendance in primary care: comparison and implications of different definitions\n[ABSTRACT REDACTED sha256:d6cb17cbe9c7]"
+   },
+   {
+    "pmid": "17312844",
+    "text": "[Anxiety and Depression Short Scale: norms for its use in rehabilitation]\n[ABSTRACT REDACTED sha256:580546409c57]"
+   },
+   {
+    "pmid": "29524752",
+    "text": "Correlates of sedentary behavior in 2,375 people with depression from 6 low- and middle-income countries\n[ABSTRACT REDACTED sha256:32d2ef721aeb]"
+   },
+   {
+    "pmid": "18689578",
+    "text": "The risk for depression comorbidity in patients with COPD\n[ABSTRACT REDACTED sha256:119d8b94d963]"
+   },
+   {
+    "pmid": "26731735",
+    "text": "Effect of Acute Intermittent CPAP Depressurization during Sleep in Obese Patients\n[ABSTRACT REDACTED sha256:98c50ce08e0b]"
+   },
+   {
+    "pmid": "15841684",
+    "text": "Clinical and functional outcomes of depression treatment in patients with and without chronic medical illness\n[ABSTRACT REDACTED sha256:4b6c1ac3caf2]"
+   },
+   {
+    "pmid": "18207055",
+    "text": "Depression of chronic medical inpatients in China\n[ABSTRACT REDACTED sha256:9f99281e0a29]"
+   },
+   {
+    "pmid": "17503102",
+    "text": "Effect of a 2 week CPAP treatment on mood states in patients with obstructive sleep apnea: a double-blind trial\n[ABSTRACT REDACTED sha256:cc71210b3812]"
+   },
+   {
+    "pmid": "20810048",
+    "text": "Treatment profile of hepatitis C patients - a comparison of interferon alpha 2a and 2b treatment regimes\n[ABSTRACT REDACTED sha256:efe391a1e62b]"
+   },
+   {
+    "pmid": "29577318",
+    "text": "Mental disorders in chronic obstructive pulmonary diseases\n[ABSTRACT REDACTED sha256:78dc2c08a643]"
+   },
+   {
+    "pmid": "9167458",
+    "text": "Alternative projections of mortality and disability by cause 1990-2020: Global Burden of Disease Study\n[ABSTRACT REDACTED sha256:2383277fafea]"
+   },
+   {
+    "pmid": "26033400",
+    "text": "Assessment of health-related quality of life in end-stage chronic obstructive pulmonary disease and non-small-cell lung cancer patients in Serbia\n[ABSTRACT REDACTED sha256:b6bc4a67540b]"
+   },
+   {
+    "pmid": "25239791",
+    "text": "Can short-term heart rate variability be used to monitor fentanyl-midazolam induced changes in ANS preceding respiratory depression?\n[ABSTRACT REDACTED sha256:699506efdf35]"
+   },
+   {
+    "pmid": "26830204",
+    "text": "Understanding the Association Between Chronic Obstructive Pulmonary Disease and Current Anxiety: A Population-Based Study\n[ABSTRACT REDACTED sha256:a3ef8c04bea2]"
+   },
+   {
+    "pmid": "22563468",
+    "text": "Ghrelin treatment of cachectic patients with chronic obstructive pulmonary disease: a multicenter, randomized, double-blind, placebo-controlled trial\n[ABSTRACT REDACTED sha256:7cbf6df0d0f5]"
+   },
+   {
+    "pmid": "29436160",
+    "text": "Patterns and predictors of exhaustion episodes in patients with stable COPD: A longitudinal study\n[ABSTRACT REDACTED sha256:5671149e72b5]"
+   },
+   {
+    "pmid": "22107031",
+    "text": "Newly diagnosed heart failure: change in quality of life, mood, and illness beliefs in the first 6 months after diagnosis\n[ABSTRACT REDACTED sha256:e802dd3f6aa7]"
+   },
+   {
+    "pmid": "19445356",
+    "text": "[Links between panic disorder, depression, defence mechanisms, coherence and family functioning in patients suffering from severe COPD]\n[ABSTRACT REDACTED sha256:277fb6d64b37]"
+   },
+   {
+    "pmid": "26459357",
+    "text": "More severe hypoxemia is associated with better subjective sleep quality in obstructive sleep apnea\n[ABSTRACT REDACTED sha256:67aa74fd238e]"
+   },
+   {
+    "pmid": "27591046",
+    "text": "Factors associated with experience of fatigue, and functional limitations due to fatigue in patients with stable COPD\n[ABSTRACT REDACTED sha256:3585d5d530ea]"
+   },
+   {
+    "pmid": "21843753",
+    "text": "Mental health problems, obstructive lung disease and lung function: findings from the general population\n[ABSTRACT REDACTED sha256:63e2995f7d15]"
+   },
+   {
+    "pmid": "29411860",
+    "text": "Self-management for bronchiectasis\n[ABSTRACT REDACTED sha256:22d47d8d9a46]"
+   },
+   {
+    "pmid": "12917854",
+    "text": "A randomized controlled trial of the effect of psychotherapy on anxiety and depression in chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:32f6dcfd32e8]"
+   },
+   {
+    "pmid": "17922939",
+    "text": "COPD education and cognitive behavioral therapy group treatment for clinically significant symptoms of depression and anxiety in COPD patients: a randomized controlled trial\n[ABSTRACT REDACTED sha256:2ea58c9cba50]"
+   },
+   {
+    "pmid": "22727926",
+    "text": "Restless legs syndrome, sleep impairment, and fatigue in chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:3bbbedf7bbdd]"
+   },
+   {
+    "pmid": "27492511",
+    "text": "Frequency of comorbidities in chronic obstructive pulmonary disease, and impact on all-cause mortality: A population-based cohort study\n[ABSTRACT REDACTED sha256:79283e52358a]"
+   },
+   {
+    "pmid": "19280068",
+    "text": "Four years' follow up at a smoking cessation clinic\n[ABSTRACT REDACTED sha256:2e56b905ebd2]"
+   },
+   {
+    "pmid": "19714508",
+    "text": "[Assessment of relation among emotional status, pulmonary function test, exercise performance, and quality of life in patients with COPD]\n[ABSTRACT REDACTED sha256:9a68cd8a96ea]"
+   },
+   {
+    "pmid": "29263659",
+    "text": "Real-life feasibility and effectiveness of home-based pulmonary rehabilitation in chronic obstructive pulmonary disease requiring medical equipment\n[ABSTRACT REDACTED sha256:ee0701fcc033]"
+   },
+   {
+    "pmid": "16439924",
+    "text": "Subjective fatigue, influencing variables, and consequences in chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:d9c77651b4db]"
+   },
+   {
+    "pmid": "27638963",
+    "text": "Chronic obstructive pulmonary disease and anxiety disorders: a nationwide population-based study in Taiwan\n[ABSTRACT REDACTED sha256:7a0623921ad3]"
+   },
+   {
+    "pmid": "23166130",
+    "text": "Life event stress and chronic obstructive pulmonary disease (COPD): associations with mental well-being and quality of life in a population-based study\n[ABSTRACT REDACTED sha256:cf5be7b56579]"
+   },
+   {
+    "pmid": "17324283",
+    "text": "Cost-effectiveness of collaborative care for chronically ill patients with comorbid depressive disorder in the general hospital setting, a randomised controlled trial\n[ABSTRACT REDACTED sha256:9ae8f8dd6c79]"
+   },
+   {
+    "pmid": "27888992",
+    "text": "IL-17 protein levels in both induced sputum and plasma are increased in stable but not acute asthma individuals with obesity\n[ABSTRACT REDACTED sha256:4f0981958d9c]"
+   },
+   {
+    "pmid": "14533284",
+    "text": "Impact of comprehensive pulmonary rehabilitation on anxiety and depression in hospitalized COPD patients\n[ABSTRACT REDACTED sha256:66cff4d78095]"
+   },
+   {
+    "pmid": "27720789",
+    "text": "Assessment of Breathlessness in Lung Cancer: Psychometric Properties of the Dyspnea-12 Questionnaire\n[ABSTRACT REDACTED sha256:e010da6fea98]"
+   },
+   {
+    "pmid": "26929616",
+    "text": "Study protocol for a randomized controlled trial of telephone-delivered cognitive behavior therapy compared with befriending for treating depression and anxiety in older adults with COPD\n[ABSTRACT REDACTED sha256:19388c53272d]"
+   },
+   {
+    "pmid": "10921765",
+    "text": "Development and validation of a standardized measure of activity of daily living in patients with severe COPD: the London Chest Activity of Daily Living scale (LCADL)\n[ABSTRACT REDACTED sha256:cef155480487]"
+   },
+   {
+    "pmid": "21893506",
+    "text": "Good friends, high income or resilience? What matters most for elderly patients?\n[ABSTRACT REDACTED sha256:199b7b3bfb74]"
+   },
+   {
+    "pmid": "23980584",
+    "text": "CPAP-induced mania in bipolar disorder: a case report\n[ABSTRACT REDACTED sha256:60a489422f74]"
+   },
+   {
+    "pmid": "23324308",
+    "text": "Comorbidity in patients with chronic obstructive pulmonary disease in family practice: a cross sectional study\n[ABSTRACT REDACTED sha256:abf5fdf00a2d]"
+   },
+   {
+    "pmid": "22419944",
+    "text": "Does the professional and working context of United Kingdom clinicians predict if they use practices to support patients with long term conditions to self manage?\n[ABSTRACT REDACTED sha256:6fbe65a63a9f]"
+   },
+   {
+    "pmid": "23645147",
+    "text": "The impact of age on outcomes in chronic obstructive pulmonary disease differs by relationship status\n[ABSTRACT REDACTED sha256:547fb46430ba]"
+   },
+   {
+    "pmid": "12006426",
+    "text": "Mortality after hospitalization for COPD\n[ABSTRACT REDACTED sha256:4a235d365d8f]"
+   },
+   {
+    "pmid": "12883097",
+    "text": "Depressive symptoms and mortality two years after coronary artery bypass graft surgery (CABG) in men\n[ABSTRACT REDACTED sha256:75e8591a7ac1]"
+   },
+   {
+    "pmid": "26754527",
+    "text": "The real-world evidence of heart failure: findings from 41 413 patients of the ARNO database\n[ABSTRACT REDACTED sha256:ea9c4f8a3f43]"
+   },
+   {
+    "pmid": "25322078",
+    "text": "'The COPD breathlessness manual': a randomised controlled trial to test a cognitive-behavioural manual versus information booklets on health service use, mood and health status, in patients with chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:b79c8e250f6f]"
+   },
+   {
+    "pmid": "25979684",
+    "text": "Comorbidity associated with obesity in a large population: The APNA study\n[ABSTRACT REDACTED sha256:832ecce5c442]"
+   },
+   {
+    "pmid": "11083886",
+    "text": "Hyperventilation and asymptomatic chronic asthma\n[ABSTRACT REDACTED sha256:bf3e98f228dc]"
+   },
+   {
+    "pmid": "25498317",
+    "text": "A Breathlessness Catastrophizing Scale for chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:8d7ea71fe709]"
+   },
+   {
+    "pmid": "28150856",
+    "text": "Effectiveness of cognitive behavioural therapy in a community-based pulmonary rehabilitation programme: A controlled clinical trial\n[ABSTRACT REDACTED sha256:111754bdc2db]"
+   },
+   {
+    "pmid": "18713091",
+    "text": "The efficacy and applicability of a pulmonary rehabilitation programme for patients with COPD in a secondary-care community hospital\n[ABSTRACT REDACTED sha256:fb0a227b5126]"
+   },
+   {
+    "pmid": "17506903",
+    "text": "Do supervised weekly exercise programs maintain functional exercise capacity and quality of life, twelve months after pulmonary rehabilitation in COPD?\n[ABSTRACT REDACTED sha256:16cb7d2815a9]"
+   },
+   {
+    "pmid": "24138872",
+    "text": "Increased risk and related factors of depression among patients with COPD: a population-based cohort study\n[ABSTRACT REDACTED sha256:303f57289544]"
+   },
+   {
+    "pmid": "12464831",
+    "text": "Neurobehavioral improvement after brief rehabilitation in patients with chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:a8d9e54a8615]"
+   },
+   {
+    "pmid": "3965263",
+    "text": "Prevalence of depression and anxiety in patients with COPD. Relationship to functional capacity\n[ABSTRACT REDACTED sha256:c6f6241cc77e]"
+   },
+   {
+    "pmid": "15654000",
+    "text": "Association of depression and life-sustaining treatment preferences in patients with COPD\n[ABSTRACT REDACTED sha256:8ead11726d85]"
+   },
+   {
+    "pmid": "23853488",
+    "text": "Chronic obstructive pulmonary disease assessment test can predict depression: a prospective multi-center study\n[ABSTRACT REDACTED sha256:97531ab9e548]"
+   },
+   {
+    "pmid": "8728734",
+    "text": "[Clinical effects of inspiratory muscle training in patients with chronic airflow limitation]\n[ABSTRACT REDACTED sha256:96f22a0dc110]"
+   },
+   {
+    "pmid": "24084060",
+    "text": "Evaluation of multidimensional COPD-related subjective fatigue following a pulmonary rehabilitation programme\n[ABSTRACT REDACTED sha256:ca96b76e2f51]"
+   },
+   {
+    "pmid": "8795672",
+    "text": "Functional status and well being in chronic obstructive pulmonary disease with regard to clinical parameters and smoking: a descriptive and comparative study\n[ABSTRACT REDACTED sha256:4f8f22e2bb44]"
+   },
+   {
+    "pmid": "16278081",
+    "text": "Clinical co-morbidities in obstructive sleep apnea syndrome treated with mandibular repositioning appliance\n[ABSTRACT REDACTED sha256:b3c8c47c8246]"
+   },
+   {
+    "pmid": "27763623",
+    "text": "Change in health status in COPD: a seven-year follow-up cohort study\n[ABSTRACT REDACTED sha256:4bb784e6e768]"
+   },
+   {
+    "pmid": "20825511",
+    "text": "Association of breathlessness with multiple symptoms in chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:d41b0ecd2b77]"
+   },
+   {
+    "pmid": "18714782",
+    "text": "Neural alterations and depressive symptoms in obstructive sleep apnea patients\n[ABSTRACT REDACTED sha256:625090085335]"
+   },
+   {
+    "pmid": "20040088",
+    "text": "Action Plan to enhance self-management and early detection of exacerbations in COPD patients; a multicenter RCT\n[ABSTRACT REDACTED sha256:ee0087cb9b00]"
+   },
+   {
+    "pmid": "25826354",
+    "text": "Adherence to positive airway pressure therapy in U.S. military personnel with sleep apnea improves sleepiness, sleep quality, and depressive symptoms\n[ABSTRACT REDACTED sha256:33f3d8cc8189]"
+   },
+   {
+    "pmid": "25774660",
+    "text": "Patient Anxiety and Depression Moderate the Effects of Increased Self-management Knowledge on Physical Activity: A Secondary Analysis of a Randomised Controlled Trial on Health-Mentoring in COPD\n[ABSTRACT REDACTED sha256:31b223483f6a]"
+   },
+   {
+    "pmid": "23470990",
+    "text": "Mood Predicts Response to Placebo CPAP\n[ABSTRACT REDACTED sha256:5d024f59a04d]"
+   },
+   {
+    "pmid": "23606418",
+    "text": "Association between depression and maintenance medication adherence among Medicare beneficiaries with chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:050e00e568d0]"
+   },
+   {
+    "pmid": "26298205",
+    "text": "Psychological distress and mortality in patients with acute dyspnea: data from the Akershus Cardiac Examination (ACE) 2 Study\n[ABSTRACT REDACTED sha256:7cdf1f8c9280]"
+   },
+   {
+    "pmid": "22575851",
+    "text": "What motivates secondary rhinoplasty? A study of 150 consecutive patients\n[ABSTRACT REDACTED sha256:b6f5c4750dd9]"
+   },
+   {
+    "pmid": "18027157",
+    "text": "Prevalence of anxiety and depression in patients with severe COPD: similar high levels with and without LTOT\n[ABSTRACT REDACTED sha256:b2265c2f4728]"
+   },
+   {
+    "pmid": "18729534",
+    "text": "Approved and investigational uses of modafinil : an evidence-based review\n[ABSTRACT REDACTED sha256:51e8b9aa2797]"
+   },
+   {
+    "pmid": "22135491",
+    "text": "Dyadic coping, quality of life, and psychological distress among chronic obstructive pulmonary disease patients and their partners\n[ABSTRACT REDACTED sha256:4bc69ba22b5a]"
+   },
+   {
+    "pmid": "20936544",
+    "text": "Relationship between anxiety and dyspnea on exertion in patients with chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:121a9c1e853c]"
+   },
+   {
+    "pmid": "26049126",
+    "text": "Cognitive behaviour therapy reduces dyspnoea ratings in patients with chronic obstructive pulmonary disease (COPD)\n[ABSTRACT REDACTED sha256:725e3886f233]"
+   },
+   {
+    "pmid": "19136238",
+    "text": "Co-morbid association of depression and COPD: a population-based study\n[ABSTRACT REDACTED sha256:b985fdab5947]"
+   },
+   {
+    "pmid": "29092747",
+    "text": "Pediatric airway study: Endoscopic grading system for quantifying tonsillar size in comparison to standard adenotonsillar grading systems\n[ABSTRACT REDACTED sha256:5aa97b4a78a4]"
+   },
+   {
+    "pmid": "28544504",
+    "text": "The impact of telephone-delivered cognitive behaviour therapy and befriending on mood disorders in people with chronic obstructive pulmonary disease: A randomized controlled trial\n[ABSTRACT REDACTED sha256:631b9db47c8a]"
+   },
+   {
+    "pmid": "24935686",
+    "text": "Alcohol at bedtime induces minor changes in sleep stages and blood gases in stable chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:485d47e06e3a]"
+   },
+   {
+    "pmid": "28459060",
+    "text": "Chronic Health Conditions as a Risk Factor for Falls among the Community-Dwelling US Older Adults: A Zero-Inflated Regression Modeling Approach\n[ABSTRACT REDACTED sha256:022db4f5b8d4]"
+   },
+   {
+    "pmid": "18755925",
+    "text": "Independent effect of depression and anxiety on chronic obstructive pulmonary disease exacerbations and hospitalizations\n[ABSTRACT REDACTED sha256:e15cfd5f9ba2]"
+   },
+   {
+    "pmid": "18230945",
+    "text": "Effects of progressive muscle relaxation training on anxiety and depression in patients enrolled in an outpatient pulmonary rehabilitation program\n[ABSTRACT REDACTED sha256:72b3d5535e90]"
+   },
+   {
+    "pmid": "12086116",
+    "text": "The impact of anxiety, depression and living alone in chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:5f8e64e91a6b]"
+   },
+   {
+    "pmid": "24176784",
+    "text": "2013 SYR Accepted Poster Abstracts\n[ABSTRACT REDACTED sha256:460b376387da]"
+   },
+   {
+    "pmid": "17304686",
+    "text": "Pulmonary rehabilitation improves depression, anxiety, dyspnea and health status in patients with COPD\n[ABSTRACT REDACTED sha256:435c3de6deac]"
+   },
+   {
+    "pmid": "16246996",
+    "text": "Efficacy of bupropion and nortriptyline for smoking cessation among people at risk for or with chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:cc510f70c651]"
+   },
+   {
+    "pmid": "19845947",
+    "text": "Evaluation of psychological and physiological predictors of fatigue in patients with COPD\n[ABSTRACT REDACTED sha256:95a647399974]"
+   },
+   {
+    "pmid": "22197576",
+    "text": "Have we underestimated the efficacy of pulmonary rehabilitation in improving mood?\n[ABSTRACT REDACTED sha256:38c14df7f3d8]"
+   },
+   {
+    "pmid": "22742463",
+    "text": "[Prevention of COPD exacerbation: a fundamental challenge]\n[ABSTRACT REDACTED sha256:3796d419fc4c]"
+   },
+   {
+    "pmid": "26513112",
+    "text": "The COPD Assessment Test: What Do We Know So Far?: A Systematic Review and Meta-Analysis About Clinical Outcomes Prediction and Classification of Patients Into GOLD Stages\n[ABSTRACT REDACTED sha256:4bae72a2edee]"
+   },
+   {
+    "pmid": "19285363",
+    "text": "[Hospitalizations due to chronic obstructive pulmonary disease in the elderly]\n[ABSTRACT REDACTED sha256:63bfaca1619b]"
+   },
+   {
+    "pmid": "27089450",
+    "text": "Personality Traits and Mental Symptoms are Associated with Impact of Chronic Obstructive Pulmonary Disease on Patients' Daily Life\n[ABSTRACT REDACTED sha256:e6b279d2c80e]"
+   },
+   {
+    "pmid": "21116091",
+    "text": "[Gender difference characteristics in the sociodemographic background of care recipients]\n[ABSTRACT REDACTED sha256:381b5215bf05]"
+   },
+   {
+    "pmid": "12586046",
+    "text": "[Asthma patients' perception of dyspnea during acute bronchoconstriction]\n[ABSTRACT REDACTED sha256:dc8bd2470c37]"
+   },
+   {
+    "pmid": "24434956",
+    "text": "Comprehensive meta-analysis of excess mortality in depression in the general community versus patients with specific illnesses\n[ABSTRACT REDACTED sha256:35cbc3aa56ee]"
+   },
+   {
+    "pmid": "26836938",
+    "text": "Long-term Course of Depression Trajectories in Patients With COPD: A 3-Year Follow-up Analysis of the Evaluation of COPD Longitudinally to Identify Predictive Surrogate Endpoints Cohort\n[ABSTRACT REDACTED sha256:52d2bf234499]"
+   },
+   {
+    "pmid": "18415809",
+    "text": "Costs of pulmonary rehabilitation and predictors of adherence in the National Emphysema Treatment Trial\n[ABSTRACT REDACTED sha256:8068afe4d9f2]"
+   },
+   {
+    "pmid": "19948303",
+    "text": "Underuse of indicated medications among physically frail older US veterans at the time of hospital discharge: results of a cross-sectional analysis of data from the Geriatric Evaluation and Management Drug Study\n[ABSTRACT REDACTED sha256:3c8ce50f2d4a]"
+   },
+   {
+    "pmid": "27636232",
+    "text": "Self-reported obstructive sleep apnea is associated with nonresponse to antidepressant pharmacotherapy in late-life depression\n[ABSTRACT REDACTED sha256:eed1fd30b983]"
+   },
+   {
+    "pmid": "23844588",
+    "text": "Patient outcomes according to COPD action plan adherence\n[ABSTRACT REDACTED sha256:83988045ea73]"
+   },
+   {
+    "pmid": "25331383",
+    "text": "Observational study to characterise 24-hour COPD symptoms and their relationship with patient-reported outcomes: results from the ASSESS study\n[ABSTRACT REDACTED sha256:d8bc45bde883]"
+   },
+   {
+    "pmid": "18787488",
+    "text": "Factors related to depressed mood in adults with chronic obstructive pulmonary disease after hospitalization\n[ABSTRACT REDACTED sha256:80bc763b709b]"
+   },
+   {
+    "pmid": "26366639",
+    "text": "Psychosocial Predictors of Mortality Following Lung Transplantation\n[ABSTRACT REDACTED sha256:22bafb5ea570]"
+   },
+   {
+    "pmid": "16790039",
+    "text": "Effectiveness and cost-effectiveness of a minimal psychological intervention to reduce non-severe depression in chronically ill elderly patients: the design of a randomised controlled trial [ISRCTN92331982]\n[ABSTRACT REDACTED sha256:c95f46951786]"
+   },
+   {
+    "pmid": "23070669",
+    "text": "A responder analysis of the effects of yoga for individuals with COPD: who benefits and how?\n[ABSTRACT REDACTED sha256:d2421e3f472e]"
+   },
+   {
+    "pmid": "22490901",
+    "text": "[Clinical observation of home noninvasive positive pressure ventilation in hypercapnic patient with stable severe chronic obstructive pulmonary disease]\n[ABSTRACT REDACTED sha256:6a23c2cbac8e]"
+   },
+   {
+    "pmid": "20880872",
+    "text": "A telemedicine intervention to improve adherence to continuous positive airway pressure: a randomised controlled trial\n[ABSTRACT REDACTED sha256:02a25b50b742]"
+   },
+   {
+    "pmid": "9429193",
+    "text": "Outpatient pulmonary rehabilitation in severe chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:cccfcc403800]"
+   },
+   {
+    "pmid": "17627407",
+    "text": "Health conditions among women with a disability\n[ABSTRACT REDACTED sha256:2719643dfab3]"
+   },
+   {
+    "pmid": "19449146",
+    "text": "Effect of comorbidity on quality of life of male veterans with prevalent primary total knee arthroplasty\n[ABSTRACT REDACTED sha256:601d441da0dc]"
+   },
+   {
+    "pmid": "27846245",
+    "text": "Non-Communicable Disease Clinical Practice Guidelines in Brazil: A Systematic Assessment of Methodological Quality and Transparency\n[ABSTRACT REDACTED sha256:84ee881eccea]"
+   },
+   {
+    "pmid": "24439691",
+    "text": "Illness perceptions predict exercise capacity and psychological well-being after pulmonary rehabilitation in COPD patients\n[ABSTRACT REDACTED sha256:0d826e9f3553]"
+   },
+   {
+    "pmid": "15541323",
+    "text": "Association of body weight with condition-specific quality of life in male veterans\n[ABSTRACT REDACTED sha256:b6f4d593f4dc]"
+   },
+   {
+    "pmid": "2941471",
+    "text": "Depression and physical illness among elderly general medical clinic patients\n[ABSTRACT REDACTED sha256:66f6d0691578]"
+   },
+   {
+    "pmid": "23585837",
+    "text": "The effect of complex interventions on depression and anxiety in chronic obstructive pulmonary disease: systematic review and meta-analysis\n[ABSTRACT REDACTED sha256:3be6443c0dd9]"
+   },
+   {
+    "pmid": "27140193",
+    "text": "Frequent Exacerbator: The Phenotype at Risk of Depressive Symptoms in Geriatric COPD Patients\n[ABSTRACT REDACTED sha256:db2c27766a15]"
+   },
+   {
+    "pmid": "9792561",
+    "text": "Perception of fatigue and quality of life in patients with COPD\n[ABSTRACT REDACTED sha256:dce5ad7c0ce1]"
+   },
+   {
+    "pmid": "28528563",
+    "text": "Chronic obstructive pulmonary disease associated with increased risk of bipolar disorder\n[ABSTRACT REDACTED sha256:85c538e6b9df]"
+   },
+   {
+    "pmid": "17073294",
+    "text": "[The effects of a respiratory education class on psychological status for patients with chronic respiratory disease]\n[ABSTRACT REDACTED sha256:37fb98b99f2c]"
+   },
+   {
+    "pmid": "18700955",
+    "text": "Discriminative and predictive properties of disease-specific and generic health status indexes in elderly COPD patients\n[ABSTRACT REDACTED sha256:13bf6a94ad8b]"
+   },
+   {
+    "pmid": "16676728",
+    "text": "Factors related to chronic obstructive pulmonary disease readmission in Taiwan\n[ABSTRACT REDACTED sha256:de820653ceb5]"
+   },
+   {
+    "pmid": "28536998",
+    "text": "Life Impact and Treatment Preferences of Individuals with Asthma and Chronic Obstructive Pulmonary Disease: Results from Qualitative Interviews and Focus Groups\n[ABSTRACT REDACTED sha256:2f39a5c89c2a]"
+   },
+   {
+    "pmid": "19553290",
+    "text": "Does anxiety affect risk of dementia? Findings from the Caerphilly Prospective Study\n[ABSTRACT REDACTED sha256:d6ba4749fbdf]"
+   },
+   {
+    "pmid": "19874607",
+    "text": "The effect of provider- and workflow-focused strategies for guideline implementation on provider acceptance\n[ABSTRACT REDACTED sha256:24ba1767df92]"
+   },
+   {
+    "pmid": "16119431",
+    "text": "Can morbidity be inferred from prescription drug use? Results from a nation-wide prison population study\n[ABSTRACT REDACTED sha256:d114fbd04e20]"
+   },
+   {
+    "pmid": "9660321",
+    "text": "The specificity of the CDT assay in general practice: the influence of common chronic diseases and medication on the serum CDT concentration\n[ABSTRACT REDACTED sha256:c91d257444a3]"
+   },
+   {
+    "pmid": "19711730",
+    "text": "[Anxiety and depression in patients with obstructive diseases]\n[ABSTRACT REDACTED sha256:c420dff3a067]"
+   },
+   {
+    "pmid": "18438201",
+    "text": "Depressive symptoms moderated the effect of chronic illness self-management training on self-efficacy\n[ABSTRACT REDACTED sha256:f9a1bfaeedf3]"
+   },
+   {
+    "pmid": "22783599",
+    "text": "Symptoms of anxiety and depression in patients with chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:cd9e2792b9b8]"
+   },
+   {
+    "pmid": "9230251",
+    "text": "Effects of psychotherapy in moderately severe COPD: a pilot study\n[ABSTRACT REDACTED sha256:408246f38cb6]"
+   },
+   {
+    "pmid": "22162648",
+    "text": "Cognitive behavioral therapy for insomnia comorbid with COPD is feasible with preliminary evidence of positive sleep and fatigue effects\n[ABSTRACT REDACTED sha256:5632a38bc5e9]"
+   },
+   {
+    "pmid": "23370503",
+    "text": "Patients with COPD with higher levels of anxiety are more physically active\n[ABSTRACT REDACTED sha256:239a4b80b9da]"
+   },
+   {
+    "pmid": "22348927",
+    "text": "Psychosocial condition of family caregivers of patients with chronic obstructive pulmonary disease in Hong Kong\n[ABSTRACT REDACTED sha256:d27a2b94ef5e]"
+   },
+   {
+    "pmid": "20836635",
+    "text": "Understanding breathlessness: cross-sectional comparison of symptom burden and palliative care needs in chronic obstructive pulmonary disease and cancer\n[ABSTRACT REDACTED sha256:4e0f52206d3a]"
+   },
+   {
+    "pmid": "24431406",
+    "text": "The association between co-morbidities and physical performance in people with chronic obstructive pulmonary disease: a systematic review\n[ABSTRACT REDACTED sha256:cdd53372d888]"
+   },
+   {
+    "pmid": "21592607",
+    "text": "Impact of disease management programs on healthcare expenditures for patients with diabetes, depression, heart failure or chronic obstructive pulmonary disease: a systematic review of the literature\n[ABSTRACT REDACTED sha256:243ee108421b]"
+   },
+   {
+    "pmid": "27242272",
+    "text": "Impact of continuous positive airway pressure (CPAP) on quality of life in patients with obstructive sleep apnea (OSA)\n[ABSTRACT REDACTED sha256:05c933097b37]"
+   },
+   {
+    "pmid": "20461339",
+    "text": "Characteristics of patients with chronic obstructive pulmonary disease choosing rehabilitation\n[ABSTRACT REDACTED sha256:18413b17d8a5]"
+   },
+   {
+    "pmid": "20346640",
+    "text": "A randomized controlled trial of cognitive behavioral therapy for anxiety and depression in COPD\n[ABSTRACT REDACTED sha256:0af3d9917e92]"
+   },
+   {
+    "pmid": "8899931",
+    "text": "Prevalence and correlates of snoring and observed apneas in 5,201 older adults\n[ABSTRACT REDACTED sha256:47c9717d387b]"
+   },
+   {
+    "pmid": "9769297",
+    "text": "Acute delirium as a manifestation of obstructive sleep apnea syndrome\n[ABSTRACT REDACTED sha256:dc7de1fb732e]"
+   },
+   {
+    "pmid": "23917153",
+    "text": "Functional balance in older adults with chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:a86b8ff25a05]"
+   },
+   {
+    "pmid": "27997252",
+    "text": "Outcomes of Pulmonary Rehabilitation for COPD in Older Patients: A Comparative Study\n[ABSTRACT REDACTED sha256:788fb511ec48]"
+   },
+   {
+    "pmid": "23516025",
+    "text": "Predicting uptake of continuous positive airway pressure (CPAP) therapy in obstructive sleep apnoea (OSA): a belief-based theoretical approach\n[ABSTRACT REDACTED sha256:2d5bd8f0a134]"
+   },
+   {
+    "pmid": "24294301",
+    "text": "A feasibility study of a telephone-supported self-care intervention for depression among adults with a comorbid chronic physical illness in primary care\n[ABSTRACT REDACTED sha256:c83af21025ed]"
+   },
+   {
+    "pmid": "25230736",
+    "text": "Depression and heart failure associated with clinical COPD questionnaire outcome in primary care COPD patients: a cross-sectional study\n[ABSTRACT REDACTED sha256:57de1d79b0a1]"
+   },
+   {
+    "pmid": "21037472",
+    "text": "Postintensive care unit psychological burden in patients with chronic obstructive pulmonary disease and informal caregivers: A multicenter study\n[ABSTRACT REDACTED sha256:383c93efddc2]"
+   },
+   {
+    "pmid": "17306185",
+    "text": "[Depressive symptoms in the elderly. Prevalence and associated factors]\n[ABSTRACT REDACTED sha256:a23a24d7e467]"
+   },
+   {
+    "pmid": "21446223",
+    "text": "Prevalence of depression in stable chronic obstructive pulmonary disease\n[ABSTRACT REDACTED sha256:80c2c9991885]"
+   }
+  ]
+ },
+ {
+  "topic": "CD010558",
+  "query": "psychotherapy for treatment-resistant depression in adults",
+  "candidates": [
+   {
+    "pmid": "14521477",
+    "text": "Towards the pharmacotherapy of eating disorders\n[ABSTRACT REDACTED sha256:9dd03df54dc6]"
+   },
+   {
+    "pmid": "10796725",
+    "text": "Psychotherapy for bulimia nervosa and binging\n[ABSTRACT REDACTED sha256:53cb9ada7b32]"
+   },
+   {
+    "pmid": "18583104",
+    "text": "Agomelatine: a novel mechanism of antidepressant action involving the melatonergic and the serotonergic system\n[ABSTRACT REDACTED sha256:ec7caa45f6aa]"
+   },
+   {
+    "pmid": "19034753",
+    "text": "Factors predicting reduced antidepressant response: experience with the SNRI duloxetine in patients with major depression\n[ABSTRACT REDACTED sha256:443140544a5b]"
+   },
+   {
+    "pmid": "22686185",
+    "text": "Tavistock Adult Depression Study (TADS): a randomised controlled trial of psychoanalytic psychotherapy for treatment-resistant/treatment-refractory forms of depression\n[ABSTRACT REDACTED sha256:3a5748430b94]"
+   },
+   {
+    "pmid": "7573590",
+    "text": "Early nonresponse to fluoxetine as a predictor of poor 8-week outcome\n[ABSTRACT REDACTED sha256:6e2d7dd35dfe]"
+   },
+   {
+    "pmid": "2156644",
+    "text": "Electrocardiographic changes induced by inhaled salbutamol after treatment with bendrofluazide: effects of replacement therapy with potassium, magnesium and triamterene\n[ABSTRACT REDACTED sha256:24f1c9cc37a8]"
+   },
+   {
+    "pmid": "25731777",
+    "text": "Meditation Interventions for Chronic Disease Populations: A Systematic Review\n[ABSTRACT REDACTED sha256:20ddd43091a4]"
+   },
+   {
+    "pmid": "8775769",
+    "text": "Refractory depression: a review with particular reference to the use of lithium augmentation\n[ABSTRACT REDACTED sha256:2aa1faca0869]"
+   },
+   {
+    "pmid": "7613276",
+    "text": "Treatment discontinuation with selective serotonin reuptake inhibitors compared with tricyclic antidepressants: a meta-analysis\n[ABSTRACT REDACTED sha256:01924ebd0af3]"
+   },
+   {
+    "pmid": "24574930",
+    "text": "Facebook enhances antidepressant pharmacotherapy effects\n[ABSTRACT REDACTED sha256:613bda82f7f9]"
+   },
+   {
+    "pmid": "22993524",
+    "text": "Effects of percutaneous coronary intervention on depressive symptoms in chronic stable angina patients\n[ABSTRACT REDACTED sha256:89064cd16c98]"
+   },
+   {
+    "pmid": "16834824",
+    "text": "Secondary insomnia in the primary care setting: review of diagnosis, treatment, and management\n[ABSTRACT REDACTED sha256:2a3afbebaee6]"
+   },
+   {
+    "pmid": "2188436",
+    "text": "Potentiation of pain relief with hydroxyzine: a therapeutic myth?\n[ABSTRACT REDACTED sha256:e042750bb7d1]"
+   },
+   {
+    "pmid": "22925198",
+    "text": "Preventing relapse in recurrent depression using mindfulness-based cognitive therapy, antidepressant medication or the combination: trial design and protocol of the MOMENT study\n[ABSTRACT REDACTED sha256:bd93f18ade32]"
+   },
+   {
+    "pmid": "16904172",
+    "text": "Pindolol does not augment central serotonin function increases to citalopram in humans: an auditory evoked potential investigation\n[ABSTRACT REDACTED sha256:59b42e62c091]"
+   },
+   {
+    "pmid": "10357038",
+    "text": "Post-seizure EEG fractal dimension of first ECT predicts antidepressant response at two weeks\n[ABSTRACT REDACTED sha256:7090f3170a17]"
+   },
+   {
+    "pmid": "25957940",
+    "text": "Augmentation of cognitive and behavioural therapies (CBT) with d-cycloserine for anxiety and related disorders\n[ABSTRACT REDACTED sha256:92c81e8090d6]"
+   },
+   {
+    "pmid": "8968175",
+    "text": "Interactions between midazolam and remifentanil during monitored anesthesia care\n[ABSTRACT REDACTED sha256:e2b3ee0faa8b]"
+   },
+   {
+    "pmid": "21208500",
+    "text": "Evidence-based pharmacotherapy of schizophrenia\n[ABSTRACT REDACTED sha256:626f616f3e78]"
+   },
+   {
+    "pmid": "9219044",
+    "text": "Fast onset: an open study of the treatment of major depressive disorder with nefazodone and pindolol combination therapy\n[ABSTRACT REDACTED sha256:375a0676817b]"
+   },
+   {
+    "pmid": "20633419",
+    "text": "Deep transcranial magnetic stimulation over the prefrontal cortex: evaluation of antidepressant and cognitive effects in depressive patients\n[ABSTRACT REDACTED sha256:f08c4c02ba8f]"
+   },
+   {
+    "pmid": "23945444",
+    "text": "Lamotrigine in psychiatric disorders\n[ABSTRACT REDACTED sha256:ed9f46f6f163]"
+   },
+   {
+    "pmid": "26173890",
+    "text": "Treatment manuals and the advancement of psychoanalytic knowledge: The Treatment Manual of the Tavistock Adult Depression Study\n[ABSTRACT REDACTED sha256:612419baf46f]"
+   },
+   {
+    "pmid": "19287552",
+    "text": "Examining the efficacy of adjunctive aripiprazole in major depressive disorder: a pooled analysis of 2 studies\n[ABSTRACT REDACTED sha256:bafec2a528a6]"
+   },
+   {
+    "pmid": "19193343",
+    "text": "Evidence that patients with single versus recurrent depressive episodes are differentially sensitive to treatment discontinuation: a meta-analysis of placebo-controlled randomized trials\n[ABSTRACT REDACTED sha256:ece2ff804ce0]"
+   },
+   {
+    "pmid": "16282000",
+    "text": "Deciding who gets treatment for depression and anxiety: a study of consecutive GP attenders\n[ABSTRACT REDACTED sha256:682b00326368]"
+   },
+   {
+    "pmid": "19800634",
+    "text": "Clinical characteristics and treatment outcome of depression in patients with and without a history of emotional and physical abuse\n[ABSTRACT REDACTED sha256:67da1ffb4ef1]"
+   },
+   {
+    "pmid": "18079286",
+    "text": "Therapy of interferon-induced depression in chronic hepatitis C with citalopram: a randomised, double-blind, placebo-controlled study\n[ABSTRACT REDACTED sha256:fbf1c7fc0801]"
+   },
+   {
+    "pmid": "24886116",
+    "text": "A written self-help intervention for depressed adults comparing behavioural activation combined with physical activity promotion with a self-help intervention based upon behavioural activation alone: study protocol for a parallel group pilot randomised controlled trial (BAcPAc)\n[ABSTRACT REDACTED sha256:eb8ade0cdaab]"
+   },
+   {
+    "pmid": "18704101",
+    "text": "Daily left prefrontal repetitive transcranial magnetic stimulation in the acute treatment of major depression: clinical predictors of outcome in a multisite, randomized controlled clinical trial\n[ABSTRACT REDACTED sha256:927223be0b83]"
+   },
+   {
+    "pmid": "25004496",
+    "text": "The treatment of nonmelancholic depression: when antidepressants fail, does psychotherapy work?\n[ABSTRACT REDACTED sha256:aba5086be947]"
+   },
+   {
+    "pmid": "22983558",
+    "text": "A web-delivered care management and patient self-management program for recurrent depression: a randomized trial\n[ABSTRACT REDACTED sha256:0757e3759957]"
+   },
+   {
+    "pmid": "17906602",
+    "text": "Acupuncture--self-appraisal and the reward system\n[ABSTRACT REDACTED sha256:87871e160c67]"
+   },
+   {
+    "pmid": "25816046",
+    "text": "Religious vs. conventional cognitive behavioral therapy for major depression in persons with chronic medical illness: a pilot randomized trial\n[ABSTRACT REDACTED sha256:3f39c5d8eb5d]"
+   },
+   {
+    "pmid": "17963300",
+    "text": "Early prediction of major depression in chronic hepatitis C patients during peg-interferon alpha-2b treatment by assessment of vegetative-depressive symptoms after four weeks\n[ABSTRACT REDACTED sha256:4dddec3d7317]"
+   },
+   {
+    "pmid": "20305585",
+    "text": "Management of depression in the presence of pain symptoms\n[ABSTRACT REDACTED sha256:c831c86a4515]"
+   },
+   {
+    "pmid": "23244367",
+    "text": "Gender-specific effects of an augmented written emotional disclosure intervention on posttraumatic, depressive, and HIV-disease-related outcomes: a randomized, controlled trial\n[ABSTRACT REDACTED sha256:2857ad81724a]"
+   },
+   {
+    "pmid": "18221624",
+    "text": "The STAR*D Project results: a comprehensive review of findings\n[ABSTRACT REDACTED sha256:1d3eca449dfa]"
+   },
+   {
+    "pmid": "15652875",
+    "text": "Transcranial magnetic stimulation accelerates the antidepressant effect of amitriptyline in severe depression: a double-blind placebo-controlled study\n[ABSTRACT REDACTED sha256:1d00f2f91adf]"
+   },
+   {
+    "pmid": "24486892",
+    "text": "Personality dimensions and deep repetitive transcranial magnetic stimulation (DTMS) for treatment-resistant depression: a pilot trial on five-factor prediction of antidepressant response\n[ABSTRACT REDACTED sha256:0e997ce4f21f]"
+   },
+   {
+    "pmid": "15502599",
+    "text": "Fluoxetine treatment for prevention of relapse of depression in children and adolescents: a double-blind, placebo-controlled study\n[ABSTRACT REDACTED sha256:81d46d100ebc]"
+   },
+   {
+    "pmid": "15259834",
+    "text": "Clinical response augments NK cell activity independent of treatment modality: a randomized double-blind placebo controlled antidepressant trial\n[ABSTRACT REDACTED sha256:d2706041579a]"
+   },
+   {
+    "pmid": "17873681",
+    "text": "Does serotonin augmentation have any effect on cognition and activities of daily living in Alzheimer's dementia? A double-blind, placebo-controlled clinical trial\n[ABSTRACT REDACTED sha256:caa9eaa8020c]"
+   },
+   {
+    "pmid": "26119013",
+    "text": "Does rumination mediate the relationship between mindfulness and depressive relapse?\n[ABSTRACT REDACTED sha256:0afdcad9861b]"
+   },
+   {
+    "pmid": "17096458",
+    "text": "Treating late-life depression with interpersonal psychotherapy in the primary care sector\n[ABSTRACT REDACTED sha256:a5dce1932547]"
+   },
+   {
+    "pmid": "26799332",
+    "text": "Interpersonal psychotherapy as add-on for treatment-resistant depression: A pragmatic randomized controlled trial\n[ABSTRACT REDACTED sha256:a6eb001c4357]"
+   },
+   {
+    "pmid": "22677092",
+    "text": "Cost-effectiveness of nurse-led self-help for recurrent depression in the primary care setting: design of a pragmatic randomised controlled trial\n[ABSTRACT REDACTED sha256:2cf77a556399]"
+   },
+   {
+    "pmid": "18294022",
+    "text": "Transcranial magnetic stimulation in the acute treatment of major depressive disorder: clinical response in an open-label extension trial\n[ABSTRACT REDACTED sha256:10a83ad72aff]"
+   },
+   {
+    "pmid": "25657584",
+    "text": "Levomilnacipran for the treatment of major depressive disorder: a review\n[ABSTRACT REDACTED sha256:0bdd48faed20]"
+   },
+   {
+    "pmid": "11199945",
+    "text": "Augmentation of fluoxetine's antidepressant action by pindolol: analysis of clinical, pharmacokinetic, and methodologic factors\n[ABSTRACT REDACTED sha256:2d9e5b2f7e03]"
+   },
+   {
+    "pmid": "24458008",
+    "text": "The integrative management of treatment-resistant depression: a comprehensive review and perspectives\n[ABSTRACT REDACTED sha256:6b61ca0628b6]"
+   },
+   {
+    "pmid": "18312042",
+    "text": "Osmotic-release oral system methylphenidate augmentation of antidepressant monotherapy in major depressive disorder: results of a double-blind, randomized, placebo-controlled trial\n[ABSTRACT REDACTED sha256:a20af919080e]"
+   },
+   {
+    "pmid": "26872253",
+    "text": "The Level of Anxiety and Depression in Dialysis Patients Undertaking Regular Physical Exercise Training--a Preliminary Study\n[ABSTRACT REDACTED sha256:e2f1878117e5]"
+   },
+   {
+    "pmid": "2258364",
+    "text": "Labetalol in the control of cardiovascular responses to electroconvulsive therapy in high-risk depressed medical patients\n[ABSTRACT REDACTED sha256:3d2edf8f551c]"
+   },
+   {
+    "pmid": "26729245",
+    "text": "Systemic therapy for vulval Erosive Lichen Planus (the 'hELP' trial): study protocol for a randomised controlled trial\n[ABSTRACT REDACTED sha256:b9504040bcd1]"
+   },
+   {
+    "pmid": "9108811",
+    "text": "A double-blind study of long-term treatment with sertraline or fluvoxamine for prevention of highly recurrent unipolar depression\n[ABSTRACT REDACTED sha256:5dfeb3f414db]"
+   },
+   {
+    "pmid": "18772702",
+    "text": "Efficacy of maintenance electroconvulsive therapy in recurrent depression: a naturalistic study\n[ABSTRACT REDACTED sha256:c3c1654b569a]"
+   },
+   {
+    "pmid": "23962405",
+    "text": "Augmentative transcranial direct current stimulation (tDCS) in poor responder depressed patients: a follow-up study\n[ABSTRACT REDACTED sha256:8c42cad4f203]"
+   },
+   {
+    "pmid": "11687168",
+    "text": "Antidepressants for cocaine dependence\n[ABSTRACT REDACTED sha256:1bafbe6d6a19]"
+   },
+   {
+    "pmid": "9489974",
+    "text": "Effects of propanolol in patients entered in the Beta-Blocker Heart Attack Trial with their first myocardial infarction and persistent electrocardiographic ST-segment depression\n[ABSTRACT REDACTED sha256:a3b67bd1f529]"
+   },
+   {
+    "pmid": "11548984",
+    "text": "Interferon beta-1 a and depression in relapsing-remitting multiple sclerosis: an analysis of depression data from the PRISMS clinical trial\n[ABSTRACT REDACTED sha256:1eb8999545b6]"
+   },
+   {
+    "pmid": "26847975",
+    "text": "Sleep quality changes in chronically depressed patients treated with Mindfulness-based Cognitive Therapy or the Cognitive Behavioral Analysis System of Psychotherapy: a pilot study\n[ABSTRACT REDACTED sha256:73cd86daf6e4]"
+   },
+   {
+    "pmid": "23482508",
+    "text": "A patient-level meta-analysis of studies evaluating vagus nerve stimulation therapy for treatment-resistant depression\n[ABSTRACT REDACTED sha256:d3d90dcdf4f9]"
+   },
+   {
+    "pmid": "24108149",
+    "text": "Aripiprazole augmentation for major depressive disorder: dosing patterns in a naturalistic treatment setting\n[ABSTRACT REDACTED sha256:787fa9ab2986]"
+   },
+   {
+    "pmid": "15172205",
+    "text": "Sleep disturbances and chronic disease in older adults: results of the 2003 National Sleep Foundation Sleep in America Survey\n[ABSTRACT REDACTED sha256:e1f8502f659b]"
+   },
+   {
+    "pmid": "12706955",
+    "text": "Acceleration and augmentation strategies for treating bipolar depression\n[ABSTRACT REDACTED sha256:aef0da16e635]"
+   },
+   {
+    "pmid": "24048387",
+    "text": "Quetiapine as combination treatment with citalopram in unipolar depression with prominent somatic symptoms: a randomised, double-blind, placebo-controlled pilot study\n[ABSTRACT REDACTED sha256:eccc21460a52]"
+   },
+   {
+    "pmid": "26123243",
+    "text": "Ketamine amplifies induced gamma frequency oscillations in the human cerebral cortex\n[ABSTRACT REDACTED sha256:7d870cbbb3d4]"
+   },
+   {
+    "pmid": "24268616",
+    "text": "Augmentation of response and remission to serial intravenous subanesthetic ketamine in treatment resistant depression\n[ABSTRACT REDACTED sha256:91a93df30f67]"
+   },
+   {
+    "pmid": "23750462",
+    "text": "Detecting critical decision points in psychotherapy and psychotherapy + medication for chronic depression\n[ABSTRACT REDACTED sha256:ff4cc4bc8991]"
+   },
+   {
+    "pmid": "19197234",
+    "text": "Repetitive transcranial magnetic stimulation (TMS) for medication-resistant depression\n[ABSTRACT REDACTED sha256:9bbb3d7a0db3]"
+   },
+   {
+    "pmid": "26022410",
+    "text": "Cognitive Behavioral Analysis System of Psychotherapy versus Escitalopram in Chronic Major Depression\n[ABSTRACT REDACTED sha256:3a626ec19a19]"
+   },
+   {
+    "pmid": "21889560",
+    "text": "Is switching antidepressants following early nonresponse more beneficial in acute-phase treatment of depression?: a randomized open-label trial\n[ABSTRACT REDACTED sha256:4e8c5de7ca74]"
+   },
+   {
+    "pmid": "26553106",
+    "text": "A randomized controlled trial of Mindfulness-Based Cognitive Therapy (MBCT) versus treatment-as-usual (TAU) for chronic, treatment-resistant depression: study protocol\n[ABSTRACT REDACTED sha256:54ff8d1c3078]"
+   },
+   {
+    "pmid": "24979578",
+    "text": "Persistent depressive symptoms and pain after cardiac surgery\n[ABSTRACT REDACTED sha256:e53e456b5575]"
+   },
+   {
+    "pmid": "20054280",
+    "text": "Vestibular-evoked myogenic potential in the prediction of recovery from acute low-tone sensorineural hearing loss\n[ABSTRACT REDACTED sha256:452bcac8fa43]"
+   },
+   {
+    "pmid": "18277222",
+    "text": "Adaptation of dialectical behavior therapy skills training group for treatment-resistant depression\n[ABSTRACT REDACTED sha256:102a7cf9dfb2]"
+   },
+   {
+    "pmid": "18465372",
+    "text": "New-generation antidepressants, suicide and depressed adolescents: how should clinicians respond to changing evidence?\n[ABSTRACT REDACTED sha256:38de75f8e64b]"
+   },
+   {
+    "pmid": "19647524",
+    "text": "Winter depression recurrence one year after cognitive-behavioral therapy, light therapy, or combination treatment\n[ABSTRACT REDACTED sha256:44a59cadaaaa]"
+   },
+   {
+    "pmid": "3131389",
+    "text": "Adjunct low dose lithium carbonate in treatment-resistant depression: a placebo-controlled study\n[ABSTRACT REDACTED sha256:2cfce0cc1eb1]"
+   },
+   {
+    "pmid": "24910102",
+    "text": "Pilot dose-response trial of i.v. ketamine in treatment-resistant depression\n[ABSTRACT REDACTED sha256:5ae76341f08d]"
+   },
+   {
+    "pmid": "20975817",
+    "text": "An Evidence-Based Approach to Augmentation and Combination Strategies for: Treatment-Resistant Depression\n[ABSTRACT REDACTED sha256:26f082977276]"
+   },
+   {
+    "pmid": "25963932",
+    "text": "Transcutaneous Vagus Nerve Stimulation Modulates Default Mode Network in Major Depressive Disorder\n[ABSTRACT REDACTED sha256:8feae72d10c8]"
+   },
+   {
+    "pmid": "26371617",
+    "text": "A randomized controlled trial on the efficacy of mindfulness-based cognitive therapy and a group version of cognitive behavioral analysis system of psychotherapy for chronically depressed patients\n[ABSTRACT REDACTED sha256:94b42c04a0d5]"
+   },
+   {
+    "pmid": "27835725",
+    "text": "Bright Light Therapy as Augmentation of Pharmacotherapy for Treatment of Depression: A Systematic Review and Meta-Analysis\n[ABSTRACT REDACTED sha256:49270eac0493]"
+   },
+   {
+    "pmid": "17685886",
+    "text": "Novel uses for risperidone: focus on depressive, anxiety and behavioral disorders\n[ABSTRACT REDACTED sha256:cc2f4387c2d1]"
+   },
+   {
+    "pmid": "15993857",
+    "text": "Riluzole augmentation in treatment-resistant obsessive-compulsive disorder: an open-label trial\n[ABSTRACT REDACTED sha256:21345c8480eb]"
+   },
+   {
+    "pmid": "25527998",
+    "text": "Moderators of response to cognitive behavioural therapy as an adjunct to pharmacotherapy for treatment-resistant depression in primary care\n[ABSTRACT REDACTED sha256:a3bd87b51d8f]"
+   },
+   {
+    "pmid": "24236174",
+    "text": "Effects of interval and continuous exercise training on CD4 lymphocyte apoptotic and autophagic responses to hypoxic stress in sedentary men\n[ABSTRACT REDACTED sha256:6e814822185f]"
+   },
+   {
+    "pmid": "25205008",
+    "text": "Cost-effectiveness of cognitive behavioral therapy for insomnia comorbid with depression: Analysis of a randomized controlled trial\n[ABSTRACT REDACTED sha256:c85a69452bb2]"
+   },
+   {
+    "pmid": "23896849",
+    "text": "Cognitive remediation for treatment-resistant depression: effects on cognition and functioning and the role of online homework\n[ABSTRACT REDACTED sha256:0b826b8c4bcc]"
+   },
+   {
+    "pmid": "17352847",
+    "text": "A pilot effectiveness study: placebo-controlled trial of adjunctive L-triiodothyronine (T3) used to accelerate and potentiate the antidepressant response\n[ABSTRACT REDACTED sha256:a8bfda60692f]"
+   },
+   {
+    "pmid": "17038140",
+    "text": "Atrioventricular junction ablation followed by resynchronization therapy in patients with congestive heart failure and atrial fibrillation (AVERT-AF) study design\n[ABSTRACT REDACTED sha256:797bad721d10]"
+   },
+   {
+    "pmid": "22498310",
+    "text": "Metacognitive therapy in treatment-resistant depression: a platform trial\n[ABSTRACT REDACTED sha256:d61de47563f5]"
+   },
+   {
+    "pmid": "25052061",
+    "text": "A comparison of MEmory Specificity Training (MEST) to education and support (ES) in the treatment of recurrent depression: study protocol for a cluster randomised controlled trial\n[ABSTRACT REDACTED sha256:05ec05b5d00b]"
+   },
+   {
+    "pmid": "24824481",
+    "text": "Clinical effectiveness and cost-effectiveness of cognitive behavioural therapy as an adjunct to pharmacotherapy for treatment-resistant depression in primary care: the CoBalT randomised controlled trial\n[ABSTRACT REDACTED sha256:bde75fc07172]"
+   },
+   {
+    "pmid": "22466058",
+    "text": "Efficacy of adjunctive aripiprazole in patients with major depressive disorder who showed minimal response to initial antidepressant therapy\n[ABSTRACT REDACTED sha256:889ed7dcca40]"
+   },
+   {
+    "pmid": "10494048",
+    "text": "Potentiation of antidepressants with lithium or carbamazepine in treatment-resistant depression\n[ABSTRACT REDACTED sha256:fd194d2199f7]"
+   },
+   {
+    "pmid": "2693074",
+    "text": "[Recurrence of unipolar depression and efficacy of maprotiline]\n[ABSTRACT REDACTED sha256:e3fdf5d27eba]"
+   },
+   {
+    "pmid": "26107820",
+    "text": "Safety and tolerability of antipsychotic-mood stabilizer co-treatment in the management of acute bipolar disorder: results from a systematic review and exploratory meta-analysis\n[ABSTRACT REDACTED sha256:8c9c9a93587e]"
+   },
+   {
+    "pmid": "18404015",
+    "text": "A brief review of antidepressant efficacy, effectiveness, indications, and usage for major depressive disorder\n[ABSTRACT REDACTED sha256:a51c8ac1ebdd]"
+   },
+   {
+    "pmid": "19318972",
+    "text": "Remission, response without remission, and nonresponse in major depressive disorder: impact on functioning\n[ABSTRACT REDACTED sha256:ceb1ffaab6c9]"
+   },
+   {
+    "pmid": "23554581",
+    "text": "Adjunctive atypical antipsychotic treatment for major depressive disorder: a meta-analysis of depression, quality of life, and safety outcomes\n[ABSTRACT REDACTED sha256:3cbd66f45e07]"
+   },
+   {
+    "pmid": "2729315",
+    "text": "Prior treatment with diuretic augments the hypokalemic and electrocardiographic effects of inhaled albuterol\n[ABSTRACT REDACTED sha256:9b8a11c0a874]"
+   },
+   {
+    "pmid": "19040324",
+    "text": "Pharmacogenetics and the serotonin transporter in late-life depression\n[ABSTRACT REDACTED sha256:09cc879617f4]"
+   },
+   {
+    "pmid": "8306757",
+    "text": "Two studies of the clinical effectiveness of the nicotine patch with different counseling treatments\n[ABSTRACT REDACTED sha256:ce195a700d56]"
+   },
+   {
+    "pmid": "21184287",
+    "text": "Examination of the utility of psychotherapy for patients with treatment resistant depression: a systematic review\n[ABSTRACT REDACTED sha256:4f17efb5a2de]"
+   },
+   {
+    "pmid": "9113250",
+    "text": "Effect of bedtime alcohol on inspiratory resistance and respiratory drive in snoring and nonsnoring men\n[ABSTRACT REDACTED sha256:685c8e242527]"
+   },
+   {
+    "pmid": "23851972",
+    "text": "Patients' experiences of participating in a large-scale trial of cognitive behavioural therapy for depression: a mixed methods study\n[ABSTRACT REDACTED sha256:2f6283382234]"
+   },
+   {
+    "pmid": "10803857",
+    "text": "Differential pharmacokinetics of lithium in elderly patients\n[ABSTRACT REDACTED sha256:67194744a677]"
+   },
+   {
+    "pmid": "18504902",
+    "text": "Vagal nerve stimulation versus deep brain stimulation for treatment-resistant depression: show me the data\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "23339536",
+    "text": "The relationship between the therapeutic alliance and treatment outcome in two distinct psychotherapies for chronic depression\n[ABSTRACT REDACTED sha256:fcdf38a1cc0c]"
+   },
+   {
+    "pmid": "22901348",
+    "text": "A randomized controlled trial of duloxetine versus placebo in the treatment of nonmajor chronic depression\n[ABSTRACT REDACTED sha256:2dac96dfac81]"
+   },
+   {
+    "pmid": "18854724",
+    "text": "Assessing the efficacy of 2 years of maintenance treatment with venlafaxine extended release 75-225 mg/day in patients with recurrent major depression: a secondary analysis of data from the PREVENT study\n[ABSTRACT REDACTED sha256:13aba56bb5c9]"
+   },
+   {
+    "pmid": "24011203",
+    "text": "[Ketamine for treatment of acute depression]\n[ABSTRACT REDACTED sha256:23059039810f]"
+   },
+   {
+    "pmid": "17392541",
+    "text": "Efficacy of sertraline in prevention of depression recurrence in older versus younger adults with diabetes\n[ABSTRACT REDACTED sha256:9470801f4e3e]"
+   },
+   {
+    "pmid": "19769599",
+    "text": "RESEARCH: Validation of the Massachusetts General Hospital Antidepressant Treatment History Questionnaire (ATRQ)\n[ABSTRACT REDACTED sha256:66bdb9116236]"
+   },
+   {
+    "pmid": "16877898",
+    "text": "Risperidone monotherapy for post-traumatic stress disorder related to sexual assault and domestic abuse in women\n[ABSTRACT REDACTED sha256:ce5a8973f9e0]"
+   },
+   {
+    "pmid": "20141796",
+    "text": "[Severe depression : pharmacological treatments]\n[ABSTRACT REDACTED sha256:c4e7c9927997]"
+   },
+   {
+    "pmid": "6350313",
+    "text": "Toxicity associated with combination chemotherapy for osteosarcoma: a report of the cooperative osteosarcoma study (COSS 80)\n[ABSTRACT REDACTED sha256:bc53e14705a2]"
+   },
+   {
+    "pmid": "20034172",
+    "text": "The systolic blood pressure response of depressed patients to infused norepinephrine\n[ABSTRACT REDACTED sha256:042879d31e6a]"
+   },
+   {
+    "pmid": "26407787",
+    "text": "Pragmatic randomized controlled trial of long-term psychoanalytic psychotherapy for treatment-resistant depression: the Tavistock Adult Depression Study (TADS)\n[ABSTRACT REDACTED sha256:057032fadabd]"
+   },
+   {
+    "pmid": "20675972",
+    "text": "Therapeutic armamentarium for treating depression\n[ABSTRACT REDACTED sha256:235be1ed21e2]"
+   },
+   {
+    "pmid": "10570726",
+    "text": "Personality and response to repeated visual stimulation in migraine and tension-type headaches\n[ABSTRACT REDACTED sha256:2021a9de5c05]"
+   },
+   {
+    "pmid": "27254237",
+    "text": "Can Probiotics Improve Your Surgical Outcomes?\n[ABSTRACT REDACTED sha256:4a515578f17c]"
+   },
+   {
+    "pmid": "15826846",
+    "text": "Repetitive transcranial magnetic stimulation (rTMS) at high and low frequency: an efficacious therapy for major drug-resistant depression?\n[ABSTRACT REDACTED sha256:1a715eda44c9]"
+   },
+   {
+    "pmid": "23519225",
+    "text": "A double-blind, placebo-controlled study of the impact of galantamine on anterograde memory impairment during electroconvulsive therapy\n[ABSTRACT REDACTED sha256:e8453152dc84]"
+   },
+   {
+    "pmid": "27056608",
+    "text": "A Double-Blind, Randomized, Placebo-Controlled, Dose-Frequency Study of Intravenous Ketamine in Patients With Treatment-Resistant Depression\n[ABSTRACT REDACTED sha256:02f87d7f79c0]"
+   },
+   {
+    "pmid": "16644769",
+    "text": "Pharmacological approaches to the treatment of residual symptoms\n[ABSTRACT REDACTED sha256:14bdf9468d08]"
+   },
+   {
+    "pmid": "23975354",
+    "text": "Concurrent trajectories of change in adolescent and maternal depressive symptoms in the TORDIA study\n[ABSTRACT REDACTED sha256:76158ca2ccec]"
+   },
+   {
+    "pmid": "26219426",
+    "text": "EFFECTS OF RELIGIOUS VERSUS STANDARD COGNITIVE-BEHAVIORAL THERAPY ON OPTIMISM IN PERSONS WITH MAJOR DEPRESSION AND CHRONIC MEDICAL ILLNESS\n[ABSTRACT REDACTED sha256:e829f94c039d]"
+   },
+   {
+    "pmid": "24262818",
+    "text": "Cost-effectiveness of cognitive-behavioural therapy as an adjunct to pharmacotherapy for treatment-resistant depression in primary care: economic evaluation of the CoBalT Trial\n[ABSTRACT REDACTED sha256:b4c7bac69f22]"
+   },
+   {
+    "pmid": "23870427",
+    "text": "Psychotherapy for depression: a randomized clinical trial comparing schema therapy and cognitive behavior therapy\n[ABSTRACT REDACTED sha256:b23d2af3e5ce]"
+   },
+   {
+    "pmid": "2248062",
+    "text": "Antidepressants, alcohol and psychomotor performance\n[ABSTRACT REDACTED sha256:e1cb7a5448d5]"
+   },
+   {
+    "pmid": "17429407",
+    "text": "Deep brain stimulation to reward circuitry alleviates anhedonia in refractory major depression\n[ABSTRACT REDACTED sha256:233b95a84478]"
+   },
+   {
+    "pmid": "28351399",
+    "text": "Effects of hyperthermic baths on depression, sleep and heart rate variability in patients with depressive disorder: a randomized clinical pilot trial\n[ABSTRACT REDACTED sha256:695c3633fb53]"
+   },
+   {
+    "pmid": "20166064",
+    "text": "WITHDRAWN: Antidepressants for cocaine dependence\n[ABSTRACT REDACTED sha256:6e512b76a3fd]"
+   },
+   {
+    "pmid": "26132688",
+    "text": "The association of childhood trauma and personality disorders with chronic depression: A cross-sectional study in depressed outpatients\n[ABSTRACT REDACTED sha256:73a5e4b1ac6c]"
+   },
+   {
+    "pmid": "19232571",
+    "text": "Change in emotional processing during a dialectical behavior therapy-based skills group for major depressive disorder\n[ABSTRACT REDACTED sha256:e749339fdf2e]"
+   },
+   {
+    "pmid": "25211400",
+    "text": "Antidepressant treatment for postnatal depression\n[ABSTRACT REDACTED sha256:8c4d2ab46bfe]"
+   },
+   {
+    "pmid": "24233282",
+    "text": "Neurobehavioral functioning and survival following lung transplantation\n[ABSTRACT REDACTED sha256:16445047c6c0]"
+   },
+   {
+    "pmid": "9755737",
+    "text": "Relapse of depression in primary care. Rate and clinical predictors\n[ABSTRACT REDACTED sha256:fb50645bdec0]"
+   },
+   {
+    "pmid": "23928104",
+    "text": "Antidepressant efficacy of high and low frequency rTMS at 110% of motor threshold versus sham stimulation over left prefrontal cortex\n[ABSTRACT REDACTED sha256:f8ac8951031b]"
+   },
+   {
+    "pmid": "25721182",
+    "text": "Cognitive-behavioral therapy for child anxiety confers long-term protection from suicidality\n[ABSTRACT REDACTED sha256:3930ca3e989a]"
+   },
+   {
+    "pmid": "20520293",
+    "text": "Ziprasidone treatment of refractory generalized anxiety disorder: a placebo-controlled, double-blind study\n[ABSTRACT REDACTED sha256:4ce6f0d08f37]"
+   },
+   {
+    "pmid": "24330897",
+    "text": "Modafinil augmentation therapy in unipolar and bipolar depression: a systematic review and meta-analysis of randomized controlled trials\n[ABSTRACT REDACTED sha256:9a38a47daeb1]"
+   },
+   {
+    "pmid": "19293925",
+    "text": "Placebo response of non-pharmacological and pharmacological trials in major depression: a systematic review and meta-analysis\n[ABSTRACT REDACTED sha256:0e824253b69c]"
+   },
+   {
+    "pmid": "727903",
+    "text": "A comparison of electroconvulsive therapy and combined phenelzine-amitriptyline in refractory depression\n[ABSTRACT REDACTED sha256:01c3a8d62f6e]"
+   },
+   {
+    "pmid": "23914988",
+    "text": "Study protocol for the randomised controlled trial: antiglucocorticoid augmentation of anti-Depressants in Depression (The ADD Study)\n[ABSTRACT REDACTED sha256:c457a4cc4f8e]"
+   },
+   {
+    "pmid": "17045894",
+    "text": "Enhanced baroreceptor control of the cardiovascular system by polyunsaturated Fatty acids in heart failure patients\n[ABSTRACT REDACTED sha256:065d5f47fe70]"
+   },
+   {
+    "pmid": "11822991",
+    "text": "Does psychosocial functioning improve independent of depressive symptoms? A comparison of nefazodone, psychotherapy, and their combination\n[ABSTRACT REDACTED sha256:c230efe3651b]"
+   },
+   {
+    "pmid": "2148340",
+    "text": "Fluoxetine in tricyclic refractory major depressive disorder\n[ABSTRACT REDACTED sha256:b0f685fb9ff9]"
+   },
+   {
+    "pmid": "25420474",
+    "text": "Magnetic seizure therapy in treatment-resistant depression: clinical, neuropsychological and metabolic effects\n[ABSTRACT REDACTED sha256:205164d91877]"
+   },
+   {
+    "pmid": "14601942",
+    "text": "Risk, Helsinki 2000 and the use of placebo in medical research\n[ABSTRACT REDACTED sha256:125b15f4f748]"
+   },
+   {
+    "pmid": "17729016",
+    "text": "Modafinil augmentation of selective serotonin reuptake inhibitor therapy in MDD partial responders with persistent fatigue and sleepiness\n[ABSTRACT REDACTED sha256:68647c2c0c95]"
+   },
+   {
+    "pmid": "10526631",
+    "text": "[Administration of thyroid hormones in therapy of psychiatric illnesses]\n[ABSTRACT REDACTED sha256:093730d51ccd]"
+   },
+   {
+    "pmid": "25372575",
+    "text": "\"Just like talking to someone about like shit in your life and stuff, and they help you\": Hopes and expectations for therapy among depressed adolescents\n[ABSTRACT REDACTED sha256:0674594c7382]"
+   },
+   {
+    "pmid": "21114826",
+    "text": "Randomised controlled trial of the clinical and cost effectiveness of a specialist team for managing refractory unipolar depressive disorder\n[ABSTRACT REDACTED sha256:b788aa4b3510]"
+   },
+   {
+    "pmid": "15003438",
+    "text": "A placebo-controlled cross-over trial of adjunctive EPA in OCD\n[ABSTRACT REDACTED sha256:044ee4177994]"
+   },
+   {
+    "pmid": "23764521",
+    "text": "The effects of aripiprazole on the subscales of the Kellner Symptom Questionnaire in treatment resistant depression\n[ABSTRACT REDACTED sha256:c4ff76eefeac]"
+   },
+   {
+    "pmid": "22994901",
+    "text": "Divergent modulation of clinical measures of volitional and reflexive motor behaviors following serotonergic medications in human incomplete spinal cord injury\n[ABSTRACT REDACTED sha256:6c0f3c03a2ca]"
+   },
+   {
+    "pmid": "21931319",
+    "text": "Omega-3 fatty acids for the treatment of depression: systematic review and meta-analysis\n[ABSTRACT REDACTED sha256:7ad9a4618825]"
+   },
+   {
+    "pmid": "22409641",
+    "text": "Treatment-specific changes in decentering following mindfulness-based cognitive therapy versus antidepressant medication or placebo for prevention of depressive relapse\n[ABSTRACT REDACTED sha256:24978c5cf95d]"
+   },
+   {
+    "pmid": "1378369",
+    "text": "Comparative efficacy of antidepressants\n[ABSTRACT REDACTED sha256:d5ea06b9936c]"
+   },
+   {
+    "pmid": "22260629",
+    "text": "The DARE study of relapse prevention in depression: design for a phase 1/2 translational randomised controlled trial involving mindfulness-based cognitive therapy and supported self monitoring\n[ABSTRACT REDACTED sha256:23f85fba309a]"
+   },
+   {
+    "pmid": "26278222",
+    "text": "Organized Self-Management Support Services for Chronic Depressive Symptoms: A Randomized Controlled Trial\n[ABSTRACT REDACTED sha256:f75de64f6ee8]"
+   },
+   {
+    "pmid": "19666195",
+    "text": "Depression relapse prophylaxis with Mindfulness-Based Cognitive Therapy: replication and extension in the Swiss health care system\n[ABSTRACT REDACTED sha256:75686dbac155]"
+   },
+   {
+    "pmid": "24911437",
+    "text": "Augmentation of clozapine with agomelatine in partial-responder schizophrenia: a 16-week, open-label, uncontrolled pilot study\n[ABSTRACT REDACTED sha256:b603c4c6ad3c]"
+   },
+   {
+    "pmid": "11115207",
+    "text": "Can depression treatment in primary care reduce disability? A stepped care approach\n[ABSTRACT REDACTED sha256:46afe637852a]"
+   },
+   {
+    "pmid": "8497353",
+    "text": "A randomized trial of intrapartum electronic fetal heart rate monitoring versus intermittent auscultation\n[ABSTRACT REDACTED sha256:481ecabf2fb6]"
+   },
+   {
+    "pmid": "20370963",
+    "text": "Advancing bipolar disorder: key lessons from the Systematic Treatment Enhancement Program for Bipolar Disorder (STEP-BD)\n[ABSTRACT REDACTED sha256:55620ff5b71d]"
+   },
+   {
+    "pmid": "23511694",
+    "text": "Pharmacovigilance: a review of opioid-induced respiratory depression in chronic pain patients\n[ABSTRACT REDACTED sha256:2b42aaf97dd4]"
+   },
+   {
+    "pmid": "16805717",
+    "text": "Managing psychiatric disorders with antidiabetic agents: translational research and treatment opportunities\n[ABSTRACT REDACTED sha256:06f3041029ab]"
+   },
+   {
+    "pmid": "21148807",
+    "text": "Exercise and pharmacotherapy in patients with major depression: one-year follow-up of the SMILE study\n[ABSTRACT REDACTED sha256:587d55a006d4]"
+   },
+   {
+    "pmid": "20821367",
+    "text": "Identifying patients with therapy-resistant depression by using factor analysis\n[ABSTRACT REDACTED sha256:dc5490921894]"
+   },
+   {
+    "pmid": "11417922",
+    "text": "Characteristics of responders and nonresponders to brief-pulse right unilateral ECT in a controlled clinical trial\n[ABSTRACT REDACTED sha256:a88b692b55a3]"
+   },
+   {
+    "pmid": "22959705",
+    "text": "[Transcranial direct current stimulation: a new tool for neurostimulation]\n[ABSTRACT REDACTED sha256:8609993bc1a3]"
+   },
+   {
+    "pmid": "10757081",
+    "text": "Partial review of immunotherapeutic pharmacology in stem cell transplantation\n[ABSTRACT REDACTED sha256:816899170bdb]"
+   },
+   {
+    "pmid": "19884606",
+    "text": "Cognitive behavioral analysis system of psychotherapy and brief supportive psychotherapy for augmentation of antidepressant nonresponse in chronic depression: the REVAMP Trial\n[ABSTRACT REDACTED sha256:453fdac5e712]"
+   },
+   {
+    "pmid": "22962030",
+    "text": "Treatment response in type 2 diabetes patients with major depression\n[ABSTRACT REDACTED sha256:32b7498919a4]"
+   },
+   {
+    "pmid": "12055991",
+    "text": "The hypothalamic-pituitary-gonadal axis in mood disorders\n[ABSTRACT REDACTED sha256:190972b0220a]"
+   },
+   {
+    "pmid": "5907814",
+    "text": "The clinical determination of unique effect of potentiation of phenothiazine medication by nylidrin hydrochloride\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "25406046",
+    "text": "Effect of pregabalin augmentation in treatment of patients with combat-related chronic posttraumatic stress disorder: a randomized controlled trial\n[ABSTRACT REDACTED sha256:511760a0e22c]"
+   },
+   {
+    "pmid": "17224718",
+    "text": "A randomized, double-blind, crossover trial of modafinil on mood\n[ABSTRACT REDACTED sha256:bd346b5b2310]"
+   },
+   {
+    "pmid": "10023500",
+    "text": "Combination of inositol and serotonin reuptake inhibitors in the treatment of depression\n[ABSTRACT REDACTED sha256:8344c4786fe2]"
+   },
+   {
+    "pmid": "10974357",
+    "text": "Serotonin dysregulation in adolescents with major depression: hormone response to meta-chlorophenylpiperazine (mCPP) infusion\n[ABSTRACT REDACTED sha256:962d9f140cd0]"
+   },
+   {
+    "pmid": "19505198",
+    "text": "Validation of the sleep impact scale in patients with major depressive disorder and insomnia\n[ABSTRACT REDACTED sha256:cb78b6701b9c]"
+   },
+   {
+    "pmid": "26479487",
+    "text": "Considering Eligibility for Studies of Deep Brain Stimulation for Treatment-Resistant Depression: Insights From a Clinical Trial in Unipolar and Bipolar Depression\n[ABSTRACT REDACTED sha256:6246611c63d2]"
+   },
+   {
+    "pmid": "21135325",
+    "text": "Antidepressant monotherapy vs sequential pharmacotherapy and mindfulness-based cognitive therapy, or placebo, for relapse prophylaxis in recurrent depression\n[ABSTRACT REDACTED sha256:5337ec21b0cd]"
+   },
+   {
+    "pmid": "9919319",
+    "text": "EEG sleep measures in later-life bereavement depression. A randomized, double-blind, placebo-controlled evaluation of nortriptyline\n[ABSTRACT REDACTED sha256:db76cb141a2a]"
+   },
+   {
+    "pmid": "17335320",
+    "text": "A randomized, double-blind comparison of olanzapine/fluoxetine combination, olanzapine, and fluoxetine in treatment-resistant major depressive disorder\n[ABSTRACT REDACTED sha256:98548b9e5a54]"
+   },
+   {
+    "pmid": "22101205",
+    "text": "Cognitive behavioural therapy as an adjunct to pharmacotherapy for treatment resistant depression in primary care: the CoBalT randomised controlled trial protocol\n[ABSTRACT REDACTED sha256:9f25ccce80f5]"
+   },
+   {
+    "pmid": "23338224",
+    "text": "Paroxetine : a review of its pharmacology and therapeutic potential in the management of panic disorder\n[ABSTRACT REDACTED sha256:770c4dde9311]"
+   },
+   {
+    "pmid": "19682111",
+    "text": "Use of the late-life function and disability instrument to assess disability in major depression\n[ABSTRACT REDACTED sha256:686916b44e7b]"
+   },
+   {
+    "pmid": "21778171",
+    "text": "Rumination-focused cognitive-behavioural therapy for residual depression: phase II randomised controlled trial\n[ABSTRACT REDACTED sha256:d8f73e309466]"
+   },
+   {
+    "pmid": "14960293",
+    "text": "Repetitive transcranial magnetic stimulation as treatment of poststroke depression: a preliminary study\n[ABSTRACT REDACTED sha256:772a3178893d]"
+   },
+   {
+    "pmid": "10591288",
+    "text": "Stepped collaborative care for primary care patients with persistent symptoms of depression: a randomized trial\n[ABSTRACT REDACTED sha256:65fb37f467e5]"
+   },
+   {
+    "pmid": "19015627",
+    "text": "REVAMP - Research Evaluating the Value of Augmenting Medication with Psychotherapy: rationale and design\n[ABSTRACT REDACTED sha256:f1d9a18b2ba1]"
+   },
+   {
+    "pmid": "14628981",
+    "text": "Adjunct modafinil for the short-term treatment of fatigue and sleepiness in patients with major depressive disorder: a preliminary double-blind, placebo-controlled study\n[ABSTRACT REDACTED sha256:37bb2f8e0613]"
+   },
+   {
+    "pmid": "16401159",
+    "text": "Does rTMS hasten the response to escitalopram, sertraline, or venlafaxine in patients with major depressive disorder? A double-blind, randomized, sham-controlled trial\n[ABSTRACT REDACTED sha256:c5fe1079f3b3]"
+   },
+   {
+    "pmid": "16959055",
+    "text": "A randomized trial of low-frequency right-prefrontal-cortex transcranial magnetic stimulation as augmentation in treatment-resistant major depression\n[ABSTRACT REDACTED sha256:834949ca31f0]"
+   },
+   {
+    "pmid": "18759541",
+    "text": "Olanzapine/fluoxetine combination for treatment-resistant depression: efficacy and clinical utility\n[ABSTRACT REDACTED sha256:dcdf1e23495f]"
+   },
+   {
+    "pmid": "24501728",
+    "text": "Impact of exogenous testosterone on mood: a systematic review and meta-analysis of randomized placebo-controlled trials\n[ABSTRACT REDACTED sha256:ded164ba186f]"
+   },
+   {
+    "pmid": "22198447",
+    "text": "Treating depression after initial treatment failure: directly comparing switch and augmenting strategies in STAR*D\n[ABSTRACT REDACTED sha256:f5285fff8fa1]"
+   },
+   {
+    "pmid": "3083722",
+    "text": "Variability of the respiratory response to diazepam\n[ABSTRACT REDACTED sha256:274f7fbd74f6]"
+   },
+   {
+    "pmid": "19697180",
+    "text": "Depressive rumination: investigating mechanisms to improve cognitive behavioural treatments\n[ABSTRACT REDACTED sha256:93ede29c822b]"
+   },
+   {
+    "pmid": "2126745",
+    "text": "The effect of total parenteral nutrition and morphine on ventilation\n[ABSTRACT REDACTED sha256:894a258666b4]"
+   },
+   {
+    "pmid": "6587299",
+    "text": "The nonsurgical treatment of microstomia in scleroderma: a pilot study\n[ABSTRACT REDACTED sha256:918a626ea50a]"
+   },
+   {
+    "pmid": "3117877",
+    "text": "Lithium versus placebo in acute depression: a clinical trial\n[ABSTRACT REDACTED sha256:65e3c1126898]"
+   },
+   {
+    "pmid": "24885980",
+    "text": "A community-based cluster randomized survey of noncommunicable disease and risk factors in a peri-urban shantytown in Lima, Peru\n[ABSTRACT REDACTED sha256:82dd8993687c]"
+   },
+   {
+    "pmid": "15777104",
+    "text": "Eszopiclone: esopiclone, estorra, S-zopiclone, zopiclone--Sepracor\n[ABSTRACT REDACTED sha256:da83cf459725]"
+   },
+   {
+    "pmid": "24149694",
+    "text": "Caffeine attenuates acute growth hormone response to a single bout of resistance exercise\n[ABSTRACT REDACTED sha256:6df6edd65da1]"
+   },
+   {
+    "pmid": "21849054",
+    "text": "Comparative efficacy of the Cognitive Behavioral Analysis System of Psychotherapy versus supportive psychotherapy for early onset chronic depression: design and rationale of a multisite randomized controlled trial\n[ABSTRACT REDACTED sha256:606f93be701a]"
+   },
+   {
+    "pmid": "8008800",
+    "text": "Intervention for minor depression in primary care patients\n[ABSTRACT REDACTED sha256:8f887d012530]"
+   },
+   {
+    "pmid": "12622302",
+    "text": "A randomized controlled trial to evaluate the effectiveness and cost-effectiveness of psychodynamic counselling for general practice patients with chronic depression\n[ABSTRACT REDACTED sha256:c68d08bcded9]"
+   },
+   {
+    "pmid": "16555165",
+    "text": "High-frequency repetitive transcranial magnetic stimulation improves refractory depression by influencing catecholamine and brain-derived neurotrophic factors\n[ABSTRACT REDACTED sha256:a89e546e3fef]"
+   },
+   {
+    "pmid": "3421805",
+    "text": "How effective and safe is continuation therapy in elderly depressed patients? Factors affecting relapse rate\n[ABSTRACT REDACTED sha256:a3cc472eac72]"
+   },
+   {
+    "pmid": "19858762",
+    "text": "Substance use and the treatment of resistant depression in adolescents\n[ABSTRACT REDACTED sha256:277adf485276]"
+   },
+   {
+    "pmid": "25335963",
+    "text": "Effectiveness of cognitive behavioural therapy augmentation in major depression treatment (ECAM study): study protocol for a randomised clinical trial\n[ABSTRACT REDACTED sha256:df6cb0a3ddd7]"
+   },
+   {
+    "pmid": "18772703",
+    "text": "Moderate hyperventilation prolongs electroencephalogram seizure duration of the first electroconvulsive therapy\n[ABSTRACT REDACTED sha256:0ae44a3edae2]"
+   },
+   {
+    "pmid": "26478208",
+    "text": "Single i.v. ketamine augmentation of newly initiated escitalopram for major depression: results from a randomized, placebo-controlled 4-week study\n[ABSTRACT REDACTED sha256:3878cd49660a]"
+   },
+   {
+    "pmid": "23219570",
+    "text": "Cognitive behavioural therapy as an adjunct to pharmacotherapy for primary care based patients with treatment resistant depression: results of the CoBalT randomised controlled trial\n[ABSTRACT REDACTED sha256:bb4c6d5d8f70]"
+   },
+   {
+    "pmid": "18458732",
+    "text": "What Are the Implications of the STAR*D Trial for Primary Care? A Review and Synthesis\n[ABSTRACT REDACTED sha256:12130d8f670a]"
+   },
+   {
+    "pmid": "16298721",
+    "text": "The influence of depressive symptoms on smoking cessation among African Americans in a randomized trial of bupropion\n[ABSTRACT REDACTED sha256:beae237b081e]"
+   },
+   {
+    "pmid": "22070769",
+    "text": "Acupuncture for depression: exploring model validity and the related issue of credibility in the context of designing a pragmatic trial\n[ABSTRACT REDACTED sha256:2603c980a192]"
+   },
+   {
+    "pmid": "9338113",
+    "text": "Refractory depression in children and adolescents\n[ABSTRACT REDACTED sha256:9b38c85547b6]"
+   },
+   {
+    "pmid": "22835846",
+    "text": "Total sleep deprivation followed by sleep phase advance and bright light therapy in drug-resistant mood disorders\n[ABSTRACT REDACTED sha256:8be62a04659e]"
+   },
+   {
+    "pmid": "16585942",
+    "text": "A systematic review: antipsychotic augmentation with treatment refractory obsessive-compulsive disorder\n[ABSTRACT REDACTED sha256:e9123b48ba3d]"
+   },
+   {
+    "pmid": "22750085",
+    "text": "Effects of lamotrigine on human motor cortex plasticity\n[ABSTRACT REDACTED sha256:2e270fab7342]"
+   },
+   {
+    "pmid": "9172969",
+    "text": "[Value of tianeptine in treating major recurrent unipolar depression. Study versus placebo for 16 1/2 months of treatment]\n[ABSTRACT REDACTED sha256:d1b02cfcad5e]"
+   },
+   {
+    "pmid": "2244793",
+    "text": "Three-year outcomes for maintenance therapies in recurrent depression\n[ABSTRACT REDACTED sha256:88d41dfb8d5c]"
+   },
+   {
+    "pmid": "22017808",
+    "text": "The efficacy of mindfulness-based cognitive therapy in recurrent depressed patients with and without a current depressive episode: a randomized controlled trial\n[ABSTRACT REDACTED sha256:8648eae7b135]"
+   },
+   {
+    "pmid": "20822814",
+    "text": "Cognitive behavioral analysis system of psychotherapy versus interpersonal psychotherapy for early-onset chronic depression: a randomized pilot study\n[ABSTRACT REDACTED sha256:34a527e96fe2]"
+   },
+   {
+    "pmid": "12716247",
+    "text": "Lithium carbonate versus cognitive therapy as sequential combination treatment strategies in partial responders to antidepressant medication: an exploratory trial\n[ABSTRACT REDACTED sha256:2002b991f2ff]"
+   },
+   {
+    "pmid": "6810962",
+    "text": "Chronic depression: response to amitriptyline after discontinuation\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "24621985",
+    "text": "Quality of life and psychosocial measures influenced by exercise modality in patients with coronary artery disease\n[ABSTRACT REDACTED sha256:df60c50a244e]"
+   }
+  ]
+ },
+ {
+  "topic": "CD010753",
+  "query": "antidepressants for insomnia in adults",
+  "candidates": [
+   {
+    "pmid": "22703642",
+    "text": "The effect of escitalopram versus placebo on perceived stress and salivary cortisol in healthy first-degree relatives of patients with depression-A randomised trial\n[ABSTRACT REDACTED sha256:bcad4ef6ec48]"
+   },
+   {
+    "pmid": "8895944",
+    "text": "Nocturnal melatonin secretion and sleep after doxepin administration in chronic primary insomnia\n[ABSTRACT REDACTED sha256:bdfa0add8b91]"
+   },
+   {
+    "pmid": "9646878",
+    "text": "Comparative effects of nefazodone and fluoxetine on sleep in outpatients with major depressive disorder\n[ABSTRACT REDACTED sha256:9be9746a4891]"
+   },
+   {
+    "pmid": "7097267",
+    "text": "Electroencephalographic sleep in unipolar depressive subtypes: support for a biological and familial classification\n[ABSTRACT REDACTED sha256:2c297e473181]"
+   },
+   {
+    "pmid": "16968624",
+    "text": "Combination pharmacotherapy for adult ADHD\n[ABSTRACT REDACTED sha256:aa445a0324f0]"
+   },
+   {
+    "pmid": "27396868",
+    "text": "Effects of chronic l-theanine administration in patients with major depressive disorder: an open-label study\n[ABSTRACT REDACTED sha256:6dc376c0c614]"
+   },
+   {
+    "pmid": "17564414",
+    "text": "A parent's nightmare\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "17221848",
+    "text": "Actimetric evidence that CLOCK 3111 T/C SNP influences sleep and activity patterns in patients affected by bipolar depression\n[ABSTRACT REDACTED sha256:40213ab590e6]"
+   },
+   {
+    "pmid": "7799242",
+    "text": "Sleep in panic disorders\n[ABSTRACT REDACTED sha256:5fa40311ac75]"
+   },
+   {
+    "pmid": "6919940",
+    "text": "Psychotropic drugs and the elderly patient\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "23446098",
+    "text": "Depressive symptoms associated with changes in circadian rhythms. Concordance in perception between doctor and patient, clinical impact and its response to current antidepressant drugs\n[ABSTRACT REDACTED sha256:6fa4de94f3aa]"
+   },
+   {
+    "pmid": "23541189",
+    "text": "Effectiveness of lurasidone for patients with schizophrenia following 6 weeks of acute treatment with lurasidone, olanzapine, or placebo: a 6-month, open-label, extension study\n[ABSTRACT REDACTED sha256:d912bf5a56c6]"
+   },
+   {
+    "pmid": "11465523",
+    "text": "Doxepin in the treatment of primary insomnia: a placebo-controlled, double-blind, polysomnographic study\n[ABSTRACT REDACTED sha256:5198dffff683]"
+   },
+   {
+    "pmid": "11314681",
+    "text": "Subchronic effects of the GABA-agonist lorazepam and the 5-HT2A/2C antagonist ritanserin on driving performance, slow wave sleep and daytime sleepiness in healthy volunteers\n[ABSTRACT REDACTED sha256:0715cd3f2973]"
+   },
+   {
+    "pmid": "9376454",
+    "text": "Sleep electroencephalographic abnormalities in adolescent depressives: effects of scopolamine\n[ABSTRACT REDACTED sha256:15c29b28ea7a]"
+   },
+   {
+    "pmid": "26371623",
+    "text": "New clinical trials for nonmotor manifestations of Parkinson's disease\n[ABSTRACT REDACTED sha256:5af76996c7ac]"
+   },
+   {
+    "pmid": "29059134",
+    "text": "Aripiprazole for Post-traumatic Stress Disorder: A Systematic Review\n[ABSTRACT REDACTED sha256:8921d94a96dd]"
+   },
+   {
+    "pmid": "12422064",
+    "text": "Effects of opipramol as an evening anaesthesiologic premedication\n[ABSTRACT REDACTED sha256:c061532967ac]"
+   },
+   {
+    "pmid": "21977353",
+    "text": "A 10-month, open-label evaluation of desvenlafaxine in outpatients with major depressive disorder\n[ABSTRACT REDACTED sha256:7d22df67a362]"
+   },
+   {
+    "pmid": "21966075",
+    "text": "Efficacy and safety of doxepin 3 and 6 mg in a 35-day sleep laboratory trial in adults with chronic primary insomnia\n[ABSTRACT REDACTED sha256:ecff69b25445]"
+   },
+   {
+    "pmid": "9310521",
+    "text": "Side effects of methylphenidate and dexamphetamine in children with attention deficit hyperactivity disorder: a double-blind, crossover trial\n[ABSTRACT REDACTED sha256:c62f4312524b]"
+   },
+   {
+    "pmid": "4918922",
+    "text": "Clinical and quantitative electroencephalographical effects of MK 940\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "25253684",
+    "text": "Drug Holidays From ADHD Medication: International Experience Over the Past Four Decades\n[ABSTRACT REDACTED sha256:90c9c4cc3245]"
+   },
+   {
+    "pmid": "16192839",
+    "text": "Amisulpride versus quetiapine for the treatment of delirium: a randomized, open prospective study\n[ABSTRACT REDACTED sha256:b8fc01dd430d]"
+   },
+   {
+    "pmid": "8408980",
+    "text": "Monoamine oxidase inhibitors in resistant major depression. A double-blind comparison of brofaromine and tranylcypromine in patients resistant to tricyclic antidepressants\n[ABSTRACT REDACTED sha256:e526561c2d47]"
+   },
+   {
+    "pmid": "9892856",
+    "text": "Amisulpride versus amineptine and placebo for the treatment of dysthymia\n[ABSTRACT REDACTED sha256:4c3ea65507ac]"
+   },
+   {
+    "pmid": "12184015",
+    "text": "[Cappuccino coffee treatment of xerostomia in patients taking tricyclic antidepressants: preliminary report]\n[ABSTRACT REDACTED sha256:16b6287174ca]"
+   },
+   {
+    "pmid": "8885956",
+    "text": "Methylphenidate dosing: twice daily versus three times daily\n[ABSTRACT REDACTED sha256:47f34f1f1c8f]"
+   },
+   {
+    "pmid": "1621023",
+    "text": "Prominent eye movements during NREM sleep and REM sleep behavior disorder associated with fluoxetine treatment of depression and obsessive-compulsive disorder\n[ABSTRACT REDACTED sha256:b977a7840a27]"
+   },
+   {
+    "pmid": "17561634",
+    "text": "Oral nonprescription treatment for insomnia: an evaluation of products with limited evidence\n[ABSTRACT REDACTED sha256:eec09c77ad9e]"
+   },
+   {
+    "pmid": "21105284",
+    "text": "Next-day residual sedative effect after nighttime administration of an over-the-counter antihistamine sleep aid, diphenhydramine, measured by positron emission tomography\n[ABSTRACT REDACTED sha256:968c7feef722]"
+   },
+   {
+    "pmid": "21474905",
+    "text": "Effect size of lisdexamfetamine dimesylate in adults with attention-deficit/hyperactivity disorder\n[ABSTRACT REDACTED sha256:ba5c2bac7008]"
+   },
+   {
+    "pmid": "15252704",
+    "text": "Pretreatment neurophysiological and clinical characteristics of placebo responders in treatment trials for major depression\n[ABSTRACT REDACTED sha256:9435bb7c6cd6]"
+   },
+   {
+    "pmid": "17514183",
+    "text": "Prospective study to evaluate the efficacy of aripiprazole as a monotherapy in patients with severe chronic posttraumatic stress disorder: an open trial\n[ABSTRACT REDACTED sha256:0e460a3128ac]"
+   },
+   {
+    "pmid": "10030529",
+    "text": "Unsafe and potentially safe herbal therapies\n[ABSTRACT REDACTED sha256:436810e9b4fc]"
+   },
+   {
+    "pmid": "21687754",
+    "text": "Nonmotor symptoms groups in Parkinson's disease patients: results of a pilot, exploratory study\n[ABSTRACT REDACTED sha256:eba714c76657]"
+   },
+   {
+    "pmid": "12128237",
+    "text": "Is extended clonazepam cotherapy of fluoxetine effective for outpatients with major depression?\n[ABSTRACT REDACTED sha256:c6f3094f9d08]"
+   },
+   {
+    "pmid": "1534836",
+    "text": "Chronic demyelinating polyneuropathy associated with eosinophilia-myalgia syndrome\n[ABSTRACT REDACTED sha256:a363306d03f5]"
+   },
+   {
+    "pmid": "15165499",
+    "text": "Safety and efficacy of herbal sedatives in cancer care\n[ABSTRACT REDACTED sha256:02447349fa81]"
+   },
+   {
+    "pmid": "1028632",
+    "text": "Short-term and long-term clinical evaluation of a non-amphetaminic anorexiant (mazindol) in the treatment of obesity\n[ABSTRACT REDACTED sha256:b34a91dbdf48]"
+   },
+   {
+    "pmid": "24434525",
+    "text": "Agomelatine is effective in reducing insomnia in abstinent alcohol-dependent patients\n[ABSTRACT REDACTED sha256:dc6fa166c0e8]"
+   },
+   {
+    "pmid": "18041488",
+    "text": "Efficacy and safety of doxepin 1 mg, 3 mg, and 6 mg in adults with primary insomnia\n[ABSTRACT REDACTED sha256:cd9e8a2bdd8b]"
+   },
+   {
+    "pmid": "9019872",
+    "text": "[Religious affiliation and mental health--is there a connection? Health survey in Finnmark 1990]\n[ABSTRACT REDACTED sha256:1d2abec2b9c0]"
+   },
+   {
+    "pmid": "7491373",
+    "text": "The effects of fluoxetine on symptoms of insomnia in depressed patients\n[ABSTRACT REDACTED sha256:2ac09bac43eb]"
+   },
+   {
+    "pmid": "5717282",
+    "text": "Non-psychoactive drugs for psychiatric symptom suppression\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "4339630",
+    "text": "Changes during weeks in effects of tricyclic drugs on the human sleeping brain\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "21623982",
+    "text": "Cognitive, psychomotor and polysomnographic effects of trazodone in primary insomniacs\n[ABSTRACT REDACTED sha256:f50712659587]"
+   },
+   {
+    "pmid": "27842706",
+    "text": "Insomnia From Drug Treatments: Evidence From Meta-analyses of Randomized Trials and Concordance With Prescribing Information\n[ABSTRACT REDACTED sha256:dd2640cb3812]"
+   },
+   {
+    "pmid": "28460563",
+    "text": "A review of sleep disorders and melatonin\n[ABSTRACT REDACTED sha256:c1b369a61aea]"
+   },
+   {
+    "pmid": "19803876",
+    "text": "Duloxetine in the treatment of stress urinary incontinence\n[ABSTRACT REDACTED sha256:5845ab083948]"
+   },
+   {
+    "pmid": "9035990",
+    "text": "[The elderly, sleep habits and use of psychotropic drugs by the French population]\n[ABSTRACT REDACTED sha256:472228439ca0]"
+   },
+   {
+    "pmid": "18484805",
+    "text": "Atypical antipsychotics: sedation versus efficacy\n[ABSTRACT REDACTED sha256:c7968c28e048]"
+   },
+   {
+    "pmid": "10628889",
+    "text": "Reboxetine versus imipramine in the treatment of elderly patients with depressive disorders: a double-blind randomised trial\n[ABSTRACT REDACTED sha256:3842c286e730]"
+   },
+   {
+    "pmid": "1748233",
+    "text": "Indole-3-pyruvic acid as a possible hypnotic agent in insomniac subjects\n[ABSTRACT REDACTED sha256:2bce43935260]"
+   },
+   {
+    "pmid": "18253995",
+    "text": "Selective serotonin re-uptake inhibitors (SSRIs) versus placebo for obsessive compulsive disorder (OCD)\n[ABSTRACT REDACTED sha256:32cb26ec46c2]"
+   },
+   {
+    "pmid": "2050650",
+    "text": "Diagnosis and treatment of insomnia and depression\n[ABSTRACT REDACTED sha256:919a2646d9fe]"
+   },
+   {
+    "pmid": "10549683",
+    "text": "Zolpidem for persistent insomnia in SSRI-treated depressed patients\n[ABSTRACT REDACTED sha256:da1c9f799a7c]"
+   },
+   {
+    "pmid": "1644987",
+    "text": "The timing of partial sleep deprivation in depression\n[ABSTRACT REDACTED sha256:99f77fd13b0b]"
+   },
+   {
+    "pmid": "1546144",
+    "text": "Effects of moclobemide and mianserin on highway driving, psychometric performance and subjective parameters, relative to placebo\n[ABSTRACT REDACTED sha256:04a17103a9c8]"
+   },
+   {
+    "pmid": "15062207",
+    "text": "The treatment of chronic insomnia: drug indications, chronic use and abuse liability. Summary of a 2001 New Clinical Drug Evaluation Unit meeting symposium\n[ABSTRACT REDACTED sha256:d719416b1f6e]"
+   },
+   {
+    "pmid": "10327902",
+    "text": "Olanzapine versus placebo in the treatment of acute mania. Olanzapine HGEH Study Group\n[ABSTRACT REDACTED sha256:4c309f88e80e]"
+   },
+   {
+    "pmid": "12920414",
+    "text": "Double-blind, placebo-controlled study of the efficacy of trazodone in alcohol post-withdrawal syndrome: polysomnographic and clinical evaluations\n[ABSTRACT REDACTED sha256:e38554416471]"
+   },
+   {
+    "pmid": "6235082",
+    "text": "Differential effects of amitriptyline and of zimelidine on the sleep electroencephalogram of depressed patients\n[ABSTRACT REDACTED sha256:36b28e065e5b]"
+   },
+   {
+    "pmid": "2570687",
+    "text": "Effect of maprotiline combined with conventional neuroleptics against negative symptoms of chronic schizophrenia\n[ABSTRACT REDACTED sha256:c819b7c3d063]"
+   },
+   {
+    "pmid": "21596429",
+    "text": "Novel melatonin-based therapies: potential advances in the treatment of major depression\n[ABSTRACT REDACTED sha256:aef7456e6dea]"
+   },
+   {
+    "pmid": "10663415",
+    "text": "The effect of bupropion on nicotine craving and withdrawal\n[ABSTRACT REDACTED sha256:a22da8f11cb0]"
+   },
+   {
+    "pmid": "9930635",
+    "text": "Is anxious-agitated major depression responsive to fluoxetine? A double-blind comparison with amitriptyline\n[ABSTRACT REDACTED sha256:8c36d027e729]"
+   },
+   {
+    "pmid": "19389246",
+    "text": "Effectiveness of the psychological and pharmacological treatment of catastrophization in patients with fibromyalgia: a randomized controlled trial\n[ABSTRACT REDACTED sha256:2b2ae0e96ccd]"
+   },
+   {
+    "pmid": "8204563",
+    "text": "Tryptophan in the treatment of late luteal phase dysphoric disorder: a pilot study\n[ABSTRACT REDACTED sha256:062829a1d60f]"
+   },
+   {
+    "pmid": "6376485",
+    "text": "Side effects of isocarboxazid\n[ABSTRACT REDACTED sha256:2e98e5d74d69]"
+   },
+   {
+    "pmid": "17564408",
+    "text": "A double-blind, placebo-controlled study demonstrates sodium oxybate is effective for the treatment of excessive daytime sleepiness in narcolepsy\n[ABSTRACT REDACTED sha256:e732f7030231]"
+   },
+   {
+    "pmid": "27482970",
+    "text": "A Phase 2 Randomized Dose-Finding Study With Esmirtazapine in Patients With Primary Insomnia\n[ABSTRACT REDACTED sha256:67283b561e87]"
+   },
+   {
+    "pmid": "227180",
+    "text": "Effects of L-tryptophan on sleep onset insomniacs\n[ABSTRACT REDACTED sha256:96be97dd52dc]"
+   },
+   {
+    "pmid": "18973954",
+    "text": "Long-term depression versus episodic major depression: results from the prospective Zurich study of a community sample\n[ABSTRACT REDACTED sha256:d62ae13a877f]"
+   },
+   {
+    "pmid": "2859273",
+    "text": "Trimipramine and maprotiline: antidepressant, anxiolytic, and cardiotoxic comparison\n[ABSTRACT REDACTED sha256:d348431afdc1]"
+   },
+   {
+    "pmid": "25943238",
+    "text": "Neuromyotonia with polyneuropathy, prominent psychoorganic syndrome, insomnia, and suicidal behavior without antibodies: a case report\n[ABSTRACT REDACTED sha256:0ad8da7f66a0]"
+   },
+   {
+    "pmid": "24217831",
+    "text": "Treatment of resistant insomnia and major depression\n[ABSTRACT REDACTED sha256:158c5757537b]"
+   },
+   {
+    "pmid": "17162985",
+    "text": "Insomnia comorbidity and impact and hypnotic use by age group in a national survey population aged 16 to 74 years\n[ABSTRACT REDACTED sha256:188034cf7a47]"
+   },
+   {
+    "pmid": "24983745",
+    "text": "Management of severe chronic pain with tapentadol prolonged release - long-term data from pain specialists\n[ABSTRACT REDACTED sha256:21c40a2d396a]"
+   },
+   {
+    "pmid": "10459685",
+    "text": "Effects of trazodone on polysomnography, blood concentration and core body temperature in healthy volunteers\n[ABSTRACT REDACTED sha256:ac2c6dd30911]"
+   },
+   {
+    "pmid": "12858150",
+    "text": "Duloxetine for the treatment of major depressive disorder\n[ABSTRACT REDACTED sha256:462dea654345]"
+   },
+   {
+    "pmid": "22197474",
+    "text": "Efficacy and safety of doxepin 6 mg in a four-week outpatient trial of elderly adults with chronic primary insomnia\n[ABSTRACT REDACTED sha256:5b5d18d169a8]"
+   },
+   {
+    "pmid": "2615932",
+    "text": "Effects of L-tryptophan on daytime arousal\n[ABSTRACT REDACTED sha256:93db296c8461]"
+   },
+   {
+    "pmid": "11098416",
+    "text": "Efficacy of venlafaxine in geriatric depression\n[ABSTRACT REDACTED sha256:4384328e5b9f]"
+   },
+   {
+    "pmid": "25393652",
+    "text": "Self-reported sleep lengths ≥ 9 hours among Swedish patients with stress-related exhaustion: Associations with depression, quality of sleep and levels of fatigue\n[ABSTRACT REDACTED sha256:abaabcb64871]"
+   },
+   {
+    "pmid": "18609422",
+    "text": "The effect of melatonergic and non-melatonergic antidepressants on sleep: weighing the alternatives\n[ABSTRACT REDACTED sha256:4abe77284aee]"
+   },
+   {
+    "pmid": "375688",
+    "text": "[The place of mianserin among the antidepressants (author's transl)]\n[ABSTRACT REDACTED sha256:9fe89e11efdd]"
+   },
+   {
+    "pmid": "26390335",
+    "text": "The value of mindfulness meditation in the treatment of insomnia\n[ABSTRACT REDACTED sha256:0b0cd60eb451]"
+   },
+   {
+    "pmid": "15644992",
+    "text": "The effects of nefazodone on women with seasonal affective disorder: clinical and polysomnographic analyses\n[ABSTRACT REDACTED sha256:426c739d7190]"
+   },
+   {
+    "pmid": "22176292",
+    "text": "Trazodone-induced severe headache\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "26000689",
+    "text": "The Successful Treatment of Opioid Withdrawal-Induced Refractory Muscle Spasms with 5-HTP in a Patient Intolerant to Clonidine\n[ABSTRACT REDACTED sha256:3afd28413227]"
+   },
+   {
+    "pmid": "8204996",
+    "text": "Adverse effects associated with the short-term treatment of panic disorder with imipramine, alprazolam or placebo\n[ABSTRACT REDACTED sha256:53a5f47bf7c0]"
+   },
+   {
+    "pmid": "15378676",
+    "text": "Efficacy and tolerability of mirtazapine and sertraline in Korean veterans with posttraumatic stress disorder: a randomized open label trial\n[ABSTRACT REDACTED sha256:a5d5ec89fc42]"
+   },
+   {
+    "pmid": "9036168",
+    "text": "[Terminal care. II. Easing of symptoms of cancer patients. 4. Application of psychotropic agents]\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "23861638",
+    "text": "Pharmacotherapy of insomnia with ramelteon: safety, efficacy and clinical applications\n[ABSTRACT REDACTED sha256:0677ad563796]"
+   },
+   {
+    "pmid": "12505555",
+    "text": "On the comparability of pharmacotherapy and behavior therapy for chronic insomnia. Commentary and implications\n[ABSTRACT REDACTED sha256:5872250b74d7]"
+   },
+   {
+    "pmid": "12637112",
+    "text": "Weight management and current options in pharmacotherapy: orlistat and sibutramine\n[ABSTRACT REDACTED sha256:fc26373c3244]"
+   },
+   {
+    "pmid": "12007762",
+    "text": "An open-label, crossover trial of mirtazapine (15 and 30 mg) in cancer patients with pain and other distressing symptoms\n[ABSTRACT REDACTED sha256:e3a9ed0c0457]"
+   },
+   {
+    "pmid": "23070803",
+    "text": "Double-blind, randomized study of extended release quetiapine fumarate (quetiapine XR) monotherapy in older patients with generalized anxiety disorder\n[ABSTRACT REDACTED sha256:4235dad943a0]"
+   },
+   {
+    "pmid": "24501113",
+    "text": "Acupuncture in the treatment of cancer-related psychological symptoms\n[ABSTRACT REDACTED sha256:239e14e3c3a7]"
+   },
+   {
+    "pmid": "18206909",
+    "text": "Sensitivity of the individual items of the Hamilton depression rating scale to response and its consequences for the assessment of efficacy\n[ABSTRACT REDACTED sha256:201b9bc1561e]"
+   },
+   {
+    "pmid": "1410141",
+    "text": "Absence of withdrawal effects of ritanserin following chronic dosing in healthy volunteers\n[ABSTRACT REDACTED sha256:889bb545cb55]"
+   },
+   {
+    "pmid": "28073810",
+    "text": "Cognitive-behavioural therapy for non-motor symptoms of Parkinson's disease: a clinical review\n[ABSTRACT REDACTED sha256:9be6a03ed637]"
+   },
+   {
+    "pmid": "4562464",
+    "text": "Effects of dextroamphetamine, chlorpromazine, and hydroxyzine on behavior and performance in hyperactive children\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "21798674",
+    "text": "Trazodone for sleep disturbance during methadone maintenance: a double-blind, placebo-controlled trial\n[ABSTRACT REDACTED sha256:455af8e314de]"
+   },
+   {
+    "pmid": "16542050",
+    "text": "A review of non-hormonal options for the relief of menopausal symptoms\n[ABSTRACT REDACTED sha256:dbe8afae9915]"
+   },
+   {
+    "pmid": "12119986",
+    "text": "An assessment of the safety and efficacy of sibutramine, an anti-obesity drug with a novel mechanism of action\n[ABSTRACT REDACTED sha256:6414414811e6]"
+   },
+   {
+    "pmid": "23823799",
+    "text": "Efficacy of agomelatine and escitalopram on depression, subjective sleep and emotional experiences in patients with major depressive disorder: a 24-wk randomized, controlled, double-blind trial\n[ABSTRACT REDACTED sha256:9d2117be1de7]"
+   },
+   {
+    "pmid": "4272666",
+    "text": "Clinical effects of para-chlorophenylalanine in Parkinson's disease\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "15206657",
+    "text": "Fluvoxamine-controlled release formulation for the treatment of generalized social anxiety disorder\n[ABSTRACT REDACTED sha256:a92074644280]"
+   },
+   {
+    "pmid": "22057726",
+    "text": "Effects of escitalopram on sleep problems in patients with major depression or generalized anxiety disorder\n[ABSTRACT REDACTED sha256:c0160d339bb5]"
+   },
+   {
+    "pmid": "6106886",
+    "text": "Drugs for psychiatric disorders\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "20831796",
+    "text": "Trazodone for the treatment of fibromyalgia: an open-label, 12-week study\n[ABSTRACT REDACTED sha256:535baa1a5d59]"
+   },
+   {
+    "pmid": "23650468",
+    "text": "Sentra PM (a Medical Food) and Trazodone in the Management of Sleep Disorders\n[ABSTRACT REDACTED sha256:ccb7b67271f4]"
+   },
+   {
+    "pmid": "5554941",
+    "text": "Physiologic, subjective, and behavioral effects of amphetamine, methamphetamine, ephedrine, phenmetrazine, and methylphenidate in man\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "23171815",
+    "text": "Does exercise improve self-reported sleep quality in non-remitted major depressive disorder?\n[ABSTRACT REDACTED sha256:7f0d9d30ed3a]"
+   },
+   {
+    "pmid": "2258379",
+    "text": "Double-blind, multicenter comparison of sertraline and amitriptyline in elderly depressed patients\n[ABSTRACT REDACTED sha256:120a960df762]"
+   },
+   {
+    "pmid": "2669092",
+    "text": "The effect of L-tryptophan on daytime sleep latency in normals: correlation with blood levels\n[ABSTRACT REDACTED sha256:72f493593a27]"
+   },
+   {
+    "pmid": "12410369",
+    "text": "Using acupuncture to treat premenstrual syndrome\n[ABSTRACT REDACTED sha256:7215e8240479]"
+   },
+   {
+    "pmid": "1139148",
+    "text": "Psychological medicine. Sleep difficulties\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "24114426",
+    "text": "Depression, impulsiveness, sleep, and memory in past and present polydrug users of 3,4-methylenedioxymethamphetamine (MDMA, ecstasy)\n[ABSTRACT REDACTED sha256:c7923a191b1f]"
+   },
+   {
+    "pmid": "530374",
+    "text": "One gram of L-tryptophan fails to alter the time taken to fall asleep\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "3700344",
+    "text": "A comparison of the effects of trazodone and amitriptyline on skills performance by geriatric subjects\n[ABSTRACT REDACTED sha256:d0646566dba6]"
+   },
+   {
+    "pmid": "26776243",
+    "text": "Association Between Zolpidem and Suicide: A Nationwide Population-Based Case-Control Study\n[ABSTRACT REDACTED sha256:b68b572fee5a]"
+   },
+   {
+    "pmid": "5339995",
+    "text": "Clinical observations on reserpine reversal after prolonged MAO inhibition\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "17694729",
+    "text": "Prior authorization of newer insomnia medications in managed care: is it cost saving?\n[ABSTRACT REDACTED sha256:8d5fa060307f]"
+   },
+   {
+    "pmid": "11910258",
+    "text": "Acute efficacy of fluoxetine versus sertraline and paroxetine in major depressive disorder including effects of baseline insomnia\n[ABSTRACT REDACTED sha256:c0f729203079]"
+   },
+   {
+    "pmid": "19092112",
+    "text": "A controlled trial of antidepressants in patients with Parkinson disease and depression\n[ABSTRACT REDACTED sha256:21c30ad94e4d]"
+   },
+   {
+    "pmid": "12387707",
+    "text": "Escitalopram\n[ABSTRACT REDACTED sha256:f75a09c108a6]"
+   },
+   {
+    "pmid": "22014221",
+    "text": "Chronic psychotropic drug use among frail elderly women receiving home care services\n[ABSTRACT REDACTED sha256:cd2e741d4e96]"
+   },
+   {
+    "pmid": "6396969",
+    "text": "[Effect of nootropic drugs on normal and disturbed sleep of the elderly: controlled studies with pyridoxilate and street noise]\n[ABSTRACT REDACTED sha256:073c101bfcfe]"
+   },
+   {
+    "pmid": "26922522",
+    "text": "Emerging role of orexin antagonists in insomnia therapeutics: An update on SORAs and DORAs\n[ABSTRACT REDACTED sha256:1276381866c5]"
+   },
+   {
+    "pmid": "7916942",
+    "text": "Psychoactive medications in the long-term care setting: differing perspectives among physicians, nursing staff, and patients\n[ABSTRACT REDACTED sha256:594a75daf91c]"
+   },
+   {
+    "pmid": "20921864",
+    "text": "Persistent insomnia in chronic hypnotic users presenting to a sleep medical center: a retrospective chart review of 137 consecutive patients\n[ABSTRACT REDACTED sha256:336bc75d5b39]"
+   },
+   {
+    "pmid": "16876255",
+    "text": "Treating insomnia: Current and investigational pharmacological approaches\n[ABSTRACT REDACTED sha256:910df3ab9cbe]"
+   },
+   {
+    "pmid": "22766394",
+    "text": "Association of a deficit of arousal with fatigue in multiple sclerosis: effect of modafinil\n[ABSTRACT REDACTED sha256:3f05413b2a8a]"
+   },
+   {
+    "pmid": "10511018",
+    "text": "Dietary supplements and natural products as psychotherapeutic agents\n[ABSTRACT REDACTED sha256:30db544e695a]"
+   },
+   {
+    "pmid": "22284853",
+    "text": "Vilazodone for major depressive disorder: a systematic review of the efficacy and safety profile for this newly approved antidepressant - what is the number needed to treat, number needed to harm and likelihood to be helped or harmed?\n[ABSTRACT REDACTED sha256:81c7746bf3eb]"
+   },
+   {
+    "pmid": "4359148",
+    "text": "Updating the sleeping pill\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "12237787",
+    "text": "Trimipramine in primary insomnia: results of a polysomnographic double-blind controlled study\n[ABSTRACT REDACTED sha256:6c6f1e27ec74]"
+   },
+   {
+    "pmid": "26994634",
+    "text": "Early supportive medication use and end-of-life care among Medicare beneficiaries with advanced breast cancer\n[ABSTRACT REDACTED sha256:be4a7320c8da]"
+   },
+   {
+    "pmid": "14725822",
+    "text": "The effects of trazodone on sleep in patients treated with stimulant antidepressants\n[ABSTRACT REDACTED sha256:c3d50294d6d5]"
+   },
+   {
+    "pmid": "26558418",
+    "text": "Second-generation antidepressants for preventing seasonal affective disorder in adults\n[ABSTRACT REDACTED sha256:e4c27d7e08bc]"
+   },
+   {
+    "pmid": "2055761",
+    "text": "[Eosinophilia-myalgia syndrome]\n[ABSTRACT REDACTED sha256:0944004ddc22]"
+   },
+   {
+    "pmid": "22342027",
+    "text": "Effectiveness of a cognitive behavioral self-help program for patients with primary insomnia in general practice - a pilot study\n[ABSTRACT REDACTED sha256:d0c3851cb512]"
+   },
+   {
+    "pmid": "7881496",
+    "text": "Sleep terror disorder and insomnia treated with trazodone: a case report\n[ABSTRACT REDACTED sha256:eaaaaff1dd55]"
+   },
+   {
+    "pmid": "9376452",
+    "text": "Maintenance nortriptyline effects on electroencephalographic sleep in elderly patients with recurrent major depression: double-blind, placebo- and plasma-level-controlled evaluation\n[ABSTRACT REDACTED sha256:a666d3e6b498]"
+   },
+   {
+    "pmid": "24041408",
+    "text": "Escitalopram in the treatment of adolescent depression: a randomized, double-blind, placebo-controlled extension trial\n[ABSTRACT REDACTED sha256:2a8b50384dab]"
+   },
+   {
+    "pmid": "28199710",
+    "text": "Cognitive Behavioral Insomnia Therapy for Those With Insomnia and Depression: A Randomized Controlled Clinical Trial\n[ABSTRACT REDACTED sha256:304e7efc0521]"
+   },
+   {
+    "pmid": "26626429",
+    "text": "Reversible Fluoxetine-Induced Hyperthyroidism: A Case Report\n[ABSTRACT REDACTED sha256:9431f3247249]"
+   },
+   {
+    "pmid": "768967",
+    "text": "Subjective effects of two anorexigenic agents--fenfluramine and AN 448 in normal subjects\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "3091188",
+    "text": "5-Hydroxytryptamine-2 antagonist increases human slow wave sleep\n[ABSTRACT REDACTED sha256:1d71a203c992]"
+   },
+   {
+    "pmid": "8525856",
+    "text": "Moclobemide and sertraline in the treatment of depressive disorders: a comparative study\n[ABSTRACT REDACTED sha256:d095ee8dfacd]"
+   },
+   {
+    "pmid": "4594557",
+    "text": "The effects of cocaine on depressed patients\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "8101629",
+    "text": "Drugs used for psychiatric disorders\n[ABSTRACT REDACTED sha256:cf7c10120ad0]"
+   },
+   {
+    "pmid": "10073394",
+    "text": "Anticonvulsant therapy and suicide risk in affective disorders\n[ABSTRACT REDACTED sha256:c9ca263af0d6]"
+   },
+   {
+    "pmid": "21102997",
+    "text": "Efficacy and Safety of Doxepin 1 mg and 3 mg in a 12-week Sleep Laboratory and Outpatient Trial of Elderly Subjects with Chronic Primary Insomnia\n[ABSTRACT REDACTED sha256:d8d32500752c]"
+   },
+   {
+    "pmid": "16648332",
+    "text": "A randomized, placebo-controlled trial of sertraline in the treatment of night eating syndrome\n[ABSTRACT REDACTED sha256:f642b7fe3a61]"
+   },
+   {
+    "pmid": "22540407",
+    "text": "A placebo-controlled, double-blind study of the efficacy and safety of aripiprazole for the treatment of acute manic or mixed episodes in Asian patients with bipolar I disorder (the AMAZE study)\n[ABSTRACT REDACTED sha256:21bb5c5b4bba]"
+   },
+   {
+    "pmid": "9184611",
+    "text": "A comparison of nefazodone and fluoxetine on mood and on objective, subjective, and clinician-rated measures of sleep in depressed patients: a double-blind, 8-week clinical trial\n[ABSTRACT REDACTED sha256:7ab7e239b23a]"
+   },
+   {
+    "pmid": "2408846",
+    "text": "Effect of clonidine and yohimbine on sleep in man: polygraphic study and EEG analysis by normalized slope descriptors\n[ABSTRACT REDACTED sha256:3d9a0bd857be]"
+   },
+   {
+    "pmid": "20728318",
+    "text": "A comparison of two fixed doses of aripiprazole with placebo in acutely relapsed, hospitalized patients with bipolar disorder I (manic or mixed) in subpopulations (CN138-007)\n[ABSTRACT REDACTED sha256:0f9dbd6525db]"
+   },
+   {
+    "pmid": "28686987",
+    "text": "Morning administration of oral methamphetamine dose-dependently disrupts nighttime sleep in recreational stimulant users\n[ABSTRACT REDACTED sha256:03930054aac1]"
+   },
+   {
+    "pmid": "26864543",
+    "text": "The safety and tolerability of vortioxetine: Analysis of data from randomized placebo-controlled trials and open-label extension studies\n[ABSTRACT REDACTED sha256:bfc048f0b798]"
+   },
+   {
+    "pmid": "12590206",
+    "text": "Gabapentin effect on neuropathic pain compared among patients with spinal cord injury and different durations of symptoms\n[ABSTRACT REDACTED sha256:3607d9a93233]"
+   },
+   {
+    "pmid": "22828285",
+    "text": "Hot flashes and antidepressant agents: uneasy bedfellows\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "18753279",
+    "text": "Treating each and every depressed patient\n[ABSTRACT REDACTED sha256:04d7635e5445]"
+   },
+   {
+    "pmid": "8894060",
+    "text": "Are neurovegetative symptoms stable in relapsing or recurrent atypical depressive episodes?\n[ABSTRACT REDACTED sha256:e8aa4a30102a]"
+   },
+   {
+    "pmid": "6337611",
+    "text": "Placebo-controlled trial of mianserin and maprotiline in primary depressive illness: a preliminary report\n[ABSTRACT REDACTED sha256:92ad437cb1f0]"
+   },
+   {
+    "pmid": "18953212",
+    "text": "Depression treatment with selective serotonin reuptake inhibitors for the postacute coronary syndrome population: a literature review\n[ABSTRACT REDACTED sha256:873b79b39e0e]"
+   },
+   {
+    "pmid": "14527649",
+    "text": "Correlation of subjective and objective sleep measurements at different stages of the treatment of depression\n[ABSTRACT REDACTED sha256:5f9ec23dcfa0]"
+   },
+   {
+    "pmid": "15892588",
+    "text": "Antidepressants and sleep: a qualitative review of the literature\n[ABSTRACT REDACTED sha256:34e8455f7525]"
+   },
+   {
+    "pmid": "10392587",
+    "text": "Insomnia: assessment and management in primary care. National Heart, Lung, and Blood Institute Working Group on Insomnia\n[ABSTRACT REDACTED sha256:e794182499d0]"
+   },
+   {
+    "pmid": "15341891",
+    "text": "'Hypnotic' prescription patterns in a large managed-care population\n[ABSTRACT REDACTED sha256:72b61c6e3016]"
+   },
+   {
+    "pmid": "15323587",
+    "text": "A double-blind, randomized, placebo-controlled trial of quetiapine addition in patients with obsessive-compulsive disorder refractory to serotonin reuptake inhibitors\n[ABSTRACT REDACTED sha256:9cee36bf4770]"
+   },
+   {
+    "pmid": "7969965",
+    "text": "Selegiline in the treatment of narcolepsy\n[ABSTRACT REDACTED sha256:3635460f6bb3]"
+   },
+   {
+    "pmid": "28093029",
+    "text": "Low doses of mirtazapine or quetiapine for transient insomnia: A randomised, double-blind, cross-over, placebo-controlled trial\n[ABSTRACT REDACTED sha256:dd80b52b5cbf]"
+   },
+   {
+    "pmid": "21057240",
+    "text": "Diazepam discontinuation through agomelatine in schizophrenia with insomnia and depression\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "2688037",
+    "text": "Effects on sleep: a double-blind study comparing trimipramine to imipramine in depressed insomniac patients\n[ABSTRACT REDACTED sha256:06773c78ea1b]"
+   },
+   {
+    "pmid": "18569138",
+    "text": "Hypnotherapy in the treatment of chronic combat-related PTSD patients suffering from insomnia: a randomized, zolpidem-controlled clinical trial\n[ABSTRACT REDACTED sha256:dacf8092b601]"
+   },
+   {
+    "pmid": "22334811",
+    "text": "Objective vs. subjective measurements of sleep in depressed insomniacs: first night effect or reverse first night effect?\n[ABSTRACT REDACTED sha256:f82c2b4d3103]"
+   },
+   {
+    "pmid": "16436938",
+    "text": "Efficacy and tolerance profile of agomelatine and practical use in depressed patients\n[ABSTRACT REDACTED sha256:e5e8578e0157]"
+   },
+   {
+    "pmid": "18616688",
+    "text": "Trazodone for sleep disturbance after alcohol detoxification: a double-blind, placebo-controlled trial\n[ABSTRACT REDACTED sha256:7b7c77e8264b]"
+   },
+   {
+    "pmid": "19942638",
+    "text": "Searching for perfect sleep: the continuing evolution of GABAA receptor modulators as hypnotics\n[ABSTRACT REDACTED sha256:f7a0d085af8f]"
+   },
+   {
+    "pmid": "16943177",
+    "text": "Paroxetine treatment of primary insomnia in older adults\n[ABSTRACT REDACTED sha256:087ebe0b8194]"
+   },
+   {
+    "pmid": "11883552",
+    "text": "Effects of pyridoxine on dreaming: a preliminary study\n[ABSTRACT REDACTED sha256:4333b9be6de7]"
+   },
+   {
+    "pmid": "12046635",
+    "text": "\"As needed\" pharmacotherapy combined with stimulus control treatment in chronic insomnia--assessment of a novel intervention strategy in a primary care setting\n[ABSTRACT REDACTED sha256:29bb49afc68c]"
+   },
+   {
+    "pmid": "22240653",
+    "text": "The effect of MELatOnin on Depression, anxietY, cognitive function and sleep disturbances in patients with breast cancer. The MELODY trial: protocol for a randomised, placebo-controlled, double-blinded trial\n[ABSTRACT REDACTED sha256:7f0d04a2d78a]"
+   },
+   {
+    "pmid": "10633478",
+    "text": "Age-related effects of scopolamine on REM sleep regulation in normal control subjects: relationship to sleep abnormalities in depression\n[ABSTRACT REDACTED sha256:6ed1c1823f51]"
+   },
+   {
+    "pmid": "17904226",
+    "text": "Efficacy and safety of aripiprazole in subpopulations with acute manic or mixed episodes of bipolar I disorder\n[ABSTRACT REDACTED sha256:00ea0b69ed6b]"
+   },
+   {
+    "pmid": "8961776",
+    "text": "A double-blind trial of low- and high-dose ranges of gepirone-ER compared with placebo in the treatment of depressed outpatients\n[ABSTRACT REDACTED sha256:824f3a4ceda5]"
+   },
+   {
+    "pmid": "17381183",
+    "text": "Depression and anxiety in individuals with amyotrophic lateral sclerosis: epidemiology and management\n[ABSTRACT REDACTED sha256:e506ebc15589]"
+   },
+   {
+    "pmid": "28470399",
+    "text": "Predicting relapse with individual residual symptoms in major depressive disorder: a reanalysis of the STAR*D data\n[ABSTRACT REDACTED sha256:f68eff26187b]"
+   },
+   {
+    "pmid": "20098527",
+    "text": "Safety and Tolerability of Adjunctive Aripiprazole in Major Depressive Disorder: A Pooled Post Hoc Analysis (studies CN138-139 and CN138-163)\n[ABSTRACT REDACTED sha256:7b8ee88e0813]"
+   },
+   {
+    "pmid": "6161320",
+    "text": "Deprenyl in Parkinson disease\n[ABSTRACT REDACTED sha256:2836808cb700]"
+   },
+   {
+    "pmid": "23208340",
+    "text": "Sleep medicine pharmacotherapeutics overview: today, tomorrow, and the future (Part 1: insomnia and circadian rhythm disorders)\n[ABSTRACT REDACTED sha256:877239ff38b8]"
+   },
+   {
+    "pmid": "24655622",
+    "text": "Comparable efficacy and safety of 8 weeks treatment with agomelatine 25-50mg or fluoxetine 20-40mg in Asian out-patients with major depressive disorder\n[ABSTRACT REDACTED sha256:fdd72c05c3db]"
+   },
+   {
+    "pmid": "23857869",
+    "text": "Real-world, open-label study to evaluate the effectiveness of mirtazapine on sleep quality in outpatients with major depressive disorder\n[ABSTRACT REDACTED sha256:3ee6abc1c100]"
+   },
+   {
+    "pmid": "19340759",
+    "text": "[Diagnosis and treatment of sleep disorders]\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "23561946",
+    "text": "Doxepin and cognitive behavioural therapy for insomnia in patients with Parkinson's disease -- a randomized study\n[ABSTRACT REDACTED sha256:8f26f68eba4f]"
+   },
+   {
+    "pmid": "12499712",
+    "text": "Complaints of poststroke insomnia and its treatment with mianserin\n[ABSTRACT REDACTED sha256:18643ed6bc8f]"
+   },
+   {
+    "pmid": "19745649",
+    "text": "Randomized controlled trial of atomoxetine for cognitive dysfunction in early Huntington disease\n[ABSTRACT REDACTED sha256:c39b527ca5c9]"
+   },
+   {
+    "pmid": "25325487",
+    "text": "Antidepressants Increase REM Sleep Muscle Tone in Patients with and without REM Sleep Behavior Disorder\n[ABSTRACT REDACTED sha256:6d0f533783e6]"
+   },
+   {
+    "pmid": "14982688",
+    "text": "A multicenter, randomized, double-blind, placebo-controlled, 6-month trial of bupropion hydrochloride sustained-release tablets as an aid to smoking cessation in hospital employees\n[ABSTRACT REDACTED sha256:ebe9d50412a8]"
+   },
+   {
+    "pmid": "19192438",
+    "text": "Efficacy and safety of doxepin 1 mg, 3 mg, and 6 mg in elderly patients with primary insomnia: a randomized, double-blind, placebo-controlled crossover study\n[ABSTRACT REDACTED sha256:2b0cb781eef1]"
+   },
+   {
+    "pmid": "9331522",
+    "text": "Sensitivity of cyclic alternating pattern to prolonged pharmacotherapy: a 5-week study evaluating zolpidem in insomniac patients\n[ABSTRACT REDACTED sha256:ee4839c9e0e5]"
+   },
+   {
+    "pmid": "3907742",
+    "text": "The sexual side-effects of antidepressant medication: a double-blind comparison of two antidepressants in a non-psychiatric population\n[ABSTRACT REDACTED sha256:036d20313bb4]"
+   },
+   {
+    "pmid": "19445548",
+    "text": "Atomoxetine: a review of its use in attention-deficit hyperactivity disorder in children and adolescents\n[ABSTRACT REDACTED sha256:5367c0542963]"
+   },
+   {
+    "pmid": "19256583",
+    "text": "Non-pharmacologic treatment of insomnia in persons with dementia\n[ABSTRACT REDACTED sha256:54f41cfa5a8e]"
+   },
+   {
+    "pmid": "9714263",
+    "text": "Randomized, double-blind comparison of venlafaxine and fluoxetine in outpatients with major depression\n[ABSTRACT REDACTED sha256:ef1462bbba3d]"
+   },
+   {
+    "pmid": "23993464",
+    "text": "Insomnia treatment in the third trimester of pregnancy reduces postpartum depression symptoms: a randomized clinical trial\n[ABSTRACT REDACTED sha256:ddd8ad4c13c4]"
+   },
+   {
+    "pmid": "3095093",
+    "text": "[Comparison of masked and endogenous depression using psychometric scales, endocrinological markers and pharmacological responses. Masked depression versus endogenous depression]\n[ABSTRACT REDACTED sha256:d8532dcebd8c]"
+   },
+   {
+    "pmid": "16772861",
+    "text": "Signs and symptoms of sleep-disordered breathing in trauma survivors: a matched comparison with classic sleep apnea patients\n[ABSTRACT REDACTED sha256:839bba209085]"
+   },
+   {
+    "pmid": "18635695",
+    "text": "Eight-week, placebo-controlled, double-blind comparison of the antidepressant efficacy and tolerability of bupropion XR and venlafaxine XR\n[ABSTRACT REDACTED sha256:b4ff9d2157ee]"
+   },
+   {
+    "pmid": "1912107",
+    "text": "Dose dependent inhibition of REM sleep in normal volunteers by biperiden, a muscarinic antagonist\n[ABSTRACT REDACTED sha256:46a77bf501f3]"
+   },
+   {
+    "pmid": "6406455",
+    "text": "Methodologic approach to adverse events applied to bupropion clinical trials\n[ABSTRACT REDACTED sha256:335e4cf52c0d]"
+   },
+   {
+    "pmid": "10357519",
+    "text": "Electroconvulsive treatment of a bipolar adolescent postcraniotomy for brain stem astrocytoma\n[ABSTRACT REDACTED sha256:0a8e635b5119]"
+   },
+   {
+    "pmid": "3554306",
+    "text": "Therapy for sleep disorders in depressives\n[ABSTRACT REDACTED sha256:7e2c1b32ed64]"
+   },
+   {
+    "pmid": "26346638",
+    "text": "Lisdexamfetamine Dimesylate for Adults with Moderate to Severe Binge Eating Disorder: Results of Two Pivotal Phase 3 Randomized Controlled Trials\n[ABSTRACT REDACTED sha256:da40365e6fe2]"
+   },
+   {
+    "pmid": "8884035",
+    "text": "Psychotropic medication and insomnia complaints in two epidemiological studies\n[ABSTRACT REDACTED sha256:8a4c595c2dd2]"
+   },
+   {
+    "pmid": "20021666",
+    "text": "Tetrabenazine as anti-chorea therapy in Huntington disease: an open-label continuation study. Huntington Study Group/TETRA-HD Investigators\n[ABSTRACT REDACTED sha256:fbfce01f61f1]"
+   },
+   {
+    "pmid": "2663150",
+    "text": "United States experience and perspectives with trazodone\n[ABSTRACT REDACTED sha256:1d46396b243c]"
+   },
+   {
+    "pmid": "8665543",
+    "text": "Selegeline hydrochloride treatment in narcolepsy. A double-blind, placebo-controlled study\n[ABSTRACT REDACTED sha256:a1ec73562bb9]"
+   },
+   {
+    "pmid": "12716248",
+    "text": "The effect of nefazodone on subjective and objective sleep quality in posttraumatic stress disorder\n[ABSTRACT REDACTED sha256:5d040100a23d]"
+   },
+   {
+    "pmid": "15132761",
+    "text": "REM sleep and cortisol responses to scopolamine during depression and remission in women\n[ABSTRACT REDACTED sha256:5877fae4e75c]"
+   },
+   {
+    "pmid": "18350966",
+    "text": "Rapid resolution of intense suicidal ideation after treatment of severe obstructive sleep apnea\n[ABSTRACT REDACTED sha256:bd1d0ed2abd6]"
+   },
+   {
+    "pmid": "11015028",
+    "text": "Depression and sleep disorders: clinical relevance, economic burden and pharmacological treatment\n[ABSTRACT REDACTED sha256:b06414a03b99]"
+   },
+   {
+    "pmid": "353833",
+    "text": "L-tryptophan + oxprenolol: a new approach to the treatment of insomnia\n[ABSTRACT REDACTED sha256:e3b0c44298fc]"
+   },
+   {
+    "pmid": "22784311",
+    "text": "Summary of the comparative effectiveness review on off-label use of atypical antipsychotics\n[ABSTRACT REDACTED sha256:9cbd94c25766]"
+   }
+  ]
+ }
+]

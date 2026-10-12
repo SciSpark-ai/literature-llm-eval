@@ -1,0 +1,2772 @@
+[
+  {
+    "topic": "CD012347",
+    "failedBatches": 0,
+    "records": [
+      {
+        "pmid": "9792578",
+        "grade": {
+          "key": "9792578",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "9792578",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "clinical-trial"
+      },
+      {
+        "pmid": "17889189",
+        "grade": {
+          "key": "17889189",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "17889189",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "cohort"
+      },
+      {
+        "pmid": "11352373",
+        "grade": {
+          "key": "11352373",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "11352373",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22511399",
+        "grade": {
+          "key": "22511399",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "22511399",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23409736",
+        "grade": {
+          "key": "23409736",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "23409736",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "cohort"
+      },
+      {
+        "pmid": "24555562",
+        "grade": {
+          "key": "24555562",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "24555562",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "cohort"
+      },
+      {
+        "pmid": "9619472",
+        "grade": {
+          "key": "9619472",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "9619472",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "25548124",
+        "grade": {
+          "key": "25548124",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "25548124",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "12917854",
+        "grade": {
+          "key": "12917854",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "12917854",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "17922939",
+        "grade": {
+          "key": "17922939",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "17922939",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23166130",
+        "grade": {
+          "key": "23166130",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "23166130",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "other"
+      },
+      {
+        "pmid": "26929616",
+        "grade": {
+          "key": "26929616",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "26929616",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22419944",
+        "grade": {
+          "key": "22419944",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "22419944",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "other"
+      },
+      {
+        "pmid": "26754527",
+        "grade": {
+          "key": "26754527",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "26754527",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "cohort"
+      },
+      {
+        "pmid": "25322078",
+        "grade": {
+          "key": "25322078",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "25322078",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "28150856",
+        "grade": {
+          "key": "28150856",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "28150856",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "clinical-trial"
+      },
+      {
+        "pmid": "12464831",
+        "grade": {
+          "key": "12464831",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "12464831",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "other"
+      },
+      {
+        "pmid": "25774660",
+        "grade": {
+          "key": "25774660",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "25774660",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26049126",
+        "grade": {
+          "key": "26049126",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "26049126",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "28544504",
+        "grade": {
+          "key": "28544504",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "28544504",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26836938",
+        "grade": {
+          "key": "26836938",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "cohort"
+        },
+        "verified": {
+          "key": "26836938",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "cohort"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "cohort"
+      },
+      {
+        "pmid": "16790039",
+        "grade": {
+          "key": "16790039",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "16790039",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23585837",
+        "grade": {
+          "key": "23585837",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "systematic-review"
+        },
+        "verified": {
+          "key": "23585837",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "systematic-review"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "meta-analysis"
+      },
+      {
+        "pmid": "9230251",
+        "grade": {
+          "key": "9230251",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "clinical-trial"
+        },
+        "verified": {
+          "key": "9230251",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "clinical-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "other"
+      },
+      {
+        "pmid": "22162648",
+        "grade": {
+          "key": "22162648",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "22162648",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "20346640",
+        "grade": {
+          "key": "20346640",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "20346640",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      }
+    ]
+  },
+  {
+    "topic": "CD010558",
+    "failedBatches": 0,
+    "records": [
+      {
+        "pmid": "22686185",
+        "grade": {
+          "key": "22686185",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "22686185",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "24574930",
+        "grade": {
+          "key": "24574930",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "24574930",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22925198",
+        "grade": {
+          "key": "22925198",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "22925198",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "24886116",
+        "grade": {
+          "key": "24886116",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "protocol"
+        },
+        "verified": {
+          "key": "24886116",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "protocol"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "18221624",
+        "grade": {
+          "key": "18221624",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "review"
+        },
+        "verified": {
+          "key": "18221624",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "review"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26119013",
+        "grade": {
+          "key": "26119013",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "cohort"
+        },
+        "verified": {
+          "key": "26119013",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "cohort"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26799332",
+        "grade": {
+          "key": "26799332",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "26799332",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22677092",
+        "grade": {
+          "key": "22677092",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "22677092",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "18294022",
+        "grade": {
+          "key": "18294022",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "18294022",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26847975",
+        "grade": {
+          "key": "26847975",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "26847975",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23750462",
+        "grade": {
+          "key": "23750462",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "23750462",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26022410",
+        "grade": {
+          "key": "26022410",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "26022410",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26553106",
+        "grade": {
+          "key": "26553106",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "26553106",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "18277222",
+        "grade": {
+          "key": "18277222",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "18277222",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26371617",
+        "grade": {
+          "key": "26371617",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "26371617",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "25527998",
+        "grade": {
+          "key": "25527998",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "25527998",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23896849",
+        "grade": {
+          "key": "23896849",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "23896849",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "24824481",
+        "grade": {
+          "key": "24824481",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "24824481",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23851972",
+        "grade": {
+          "key": "23851972",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "verified": {
+          "key": "23851972",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23339536",
+        "grade": {
+          "key": "23339536",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "23339536",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "16877898",
+        "grade": {
+          "key": "16877898",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "16877898",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26407787",
+        "grade": {
+          "key": "26407787",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "26407787",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26219426",
+        "grade": {
+          "key": "26219426",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "26219426",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "24262818",
+        "grade": {
+          "key": "24262818",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "verified": {
+          "key": "24262818",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "19232571",
+        "grade": {
+          "key": "19232571",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "19232571",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "25211400",
+        "grade": {
+          "key": "25211400",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "systematic-review"
+        },
+        "verified": {
+          "key": "25211400",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "systematic-review"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "meta-analysis"
+      },
+      {
+        "pmid": "21114826",
+        "grade": {
+          "key": "21114826",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "21114826",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "26278222",
+        "grade": {
+          "key": "26278222",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "26278222",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "11115207",
+        "grade": {
+          "key": "11115207",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "11115207",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "10757081",
+        "grade": {
+          "key": "10757081",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "verified": {
+          "key": "10757081",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "19884606",
+        "grade": {
+          "key": "19884606",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "19884606",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22962030",
+        "grade": {
+          "key": "22962030",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "22962030",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22101205",
+        "grade": {
+          "key": "22101205",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "protocol"
+        },
+        "verified": {
+          "key": "22101205",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "protocol"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "21778171",
+        "grade": {
+          "key": "21778171",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "21778171",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "19015627",
+        "grade": {
+          "key": "19015627",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "review"
+        },
+        "verified": {
+          "key": "19015627",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "review"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "clinical-trial"
+      },
+      {
+        "pmid": "16959055",
+        "grade": {
+          "key": "16959055",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "16959055",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22198447",
+        "grade": {
+          "key": "22198447",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "cohort"
+        },
+        "verified": {
+          "key": "22198447",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "cohort"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "19697180",
+        "grade": {
+          "key": "19697180",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "review"
+        },
+        "verified": {
+          "key": "19697180",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "review"
+        },
+        "layer": null,
+        "modelDesignDropped": true,
+        "design": "other"
+      },
+      {
+        "pmid": "21849054",
+        "grade": {
+          "key": "21849054",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "protocol"
+        },
+        "verified": {
+          "key": "21849054",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "protocol"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "25335963",
+        "grade": {
+          "key": "25335963",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "25335963",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23219570",
+        "grade": {
+          "key": "23219570",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "23219570",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22070769",
+        "grade": {
+          "key": "22070769",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "other"
+        },
+        "verified": {
+          "key": "22070769",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "other"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "20822814",
+        "grade": {
+          "key": "20822814",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "20822814",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "12716247",
+        "grade": {
+          "key": "12716247",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "12716247",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      }
+    ]
+  },
+  {
+    "topic": "CD010753",
+    "failedBatches": 0,
+    "records": [
+      {
+        "pmid": "8895944",
+        "grade": {
+          "key": "8895944",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "8895944",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "9646878",
+        "grade": {
+          "key": "9646878",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "9646878",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "11465523",
+        "grade": {
+          "key": "11465523",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "11465523",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "9310521",
+        "grade": {
+          "key": "9310521",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "9310521",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "18041488",
+        "grade": {
+          "key": "18041488",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "18041488",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "7491373",
+        "grade": {
+          "key": "7491373",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "other"
+        },
+        "verified": {
+          "key": "7491373",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "other"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "21623982",
+        "grade": {
+          "key": "21623982",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "21623982",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "12920414",
+        "grade": {
+          "key": "12920414",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "12920414",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "27482970",
+        "grade": {
+          "key": "27482970",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "27482970",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "1410141",
+        "grade": {
+          "key": "1410141",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "1410141",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23823799",
+        "grade": {
+          "key": "23823799",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "23823799",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "22057726",
+        "grade": {
+          "key": "22057726",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "meta-analysis"
+        },
+        "verified": {
+          "key": "22057726",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "meta-analysis"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "meta-analysis"
+      },
+      {
+        "pmid": "11910258",
+        "grade": {
+          "key": "11910258",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "11910258",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "12237787",
+        "grade": {
+          "key": "12237787",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "12237787",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "clinical-trial"
+      },
+      {
+        "pmid": "14725822",
+        "grade": {
+          "key": "14725822",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "14725822",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "9376452",
+        "grade": {
+          "key": "9376452",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "9376452",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "28199710",
+        "grade": {
+          "key": "28199710",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "28199710",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "21102997",
+        "grade": {
+          "key": "21102997",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "21102997",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "9184611",
+        "grade": {
+          "key": "9184611",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "9184611",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 3,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "12590206",
+        "grade": {
+          "key": "12590206",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "12590206",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "clinical-trial"
+      },
+      {
+        "pmid": "6337611",
+        "grade": {
+          "key": "6337611",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "6337611",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "15323587",
+        "grade": {
+          "key": "15323587",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "15323587",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "28093029",
+        "grade": {
+          "key": "28093029",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "28093029",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "2688037",
+        "grade": {
+          "key": "2688037",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "2688037",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "18616688",
+        "grade": {
+          "key": "18616688",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "18616688",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 1,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "28470399",
+        "grade": {
+          "key": "28470399",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "cohort"
+        },
+        "verified": {
+          "key": "28470399",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "cohort"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "other"
+      },
+      {
+        "pmid": "24655622",
+        "grade": {
+          "key": "24655622",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "24655622",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23561946",
+        "grade": {
+          "key": "23561946",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "23561946",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 0,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "12499712",
+        "grade": {
+          "key": "12499712",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "12499712",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      },
+      {
+        "pmid": "23993464",
+        "grade": {
+          "key": "23993464",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "verified": {
+          "key": "23993464",
+          "entryId": null,
+          "grade": 0,
+          "topicGrade": 0,
+          "quote": "",
+          "quoteVerified": false,
+          "ungraded": false,
+          "modelGrade": 4,
+          "modelDesign": "randomized-trial"
+        },
+        "layer": null,
+        "modelDesignDropped": false,
+        "design": "randomized-trial"
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "topic": "CD012347",
+    "candidates": 216,
+    "positive": 16,
+    "positive_at10": 7,
+    "ndcg10": 0.7312625444731047,
+    "recall50": 1.0,
+    "positive_at50": 16
+  }
+]
