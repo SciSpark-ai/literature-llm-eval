@@ -86,4 +86,4 @@ Three topics that were also used during development; a candidate set deliberatel
 
 ## License
 
-Code: MIT (see `LICENSE`). Labels and topic files: CLEF TAR, MIT; SYNERGY index, CC0 (see `data/reference-audit/THIRD-PARTY.md`). Abstract text: not included; refetch from PubMed for research use.
+Code: MIT (see `LICENSE`). Labels and topic files: CLEF TAR, MIT; SYNERGY index, CC0 (see `data/reference-audit/THIRD-PARTY.md`). Abstract text: not included; refetch from PubMed for research use. Prompts quoted from the product and its upstream project are Apache-2.0; see `NOTICE.md`.
