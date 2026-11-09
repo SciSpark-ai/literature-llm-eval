@@ -1,0 +1,39 @@
+[
+  {
+    "topic": "CD012347",
+    "ce_query": "psychotherapy for depression AND chronic obstructive pulmonary disease",
+    "llm_watch_entries": [
+      {
+        "id": "CD012347",
+        "condition": "depression",
+        "condition2": "chronic obstructive pulmonary disease",
+        "conditionJoin": "and",
+        "treatment": "psychotherapy"
+      }
+    ]
+  },
+  {
+    "topic": "CD010558",
+    "ce_query": "psychotherapy for treatment-resistant depression in adults",
+    "llm_watch_entries": [
+      {
+        "id": "CD010558",
+        "condition": "treatment-resistant depression",
+        "treatment": "psychotherapy",
+        "population": "adults"
+      }
+    ]
+  },
+  {
+    "topic": "CD010753",
+    "ce_query": "antidepressants for insomnia in adults",
+    "llm_watch_entries": [
+      {
+        "id": "CD010753",
+        "condition": "insomnia",
+        "treatment": "antidepressants",
+        "population": "adults"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+# Third-party data and prompt attribution
+
+- **CLEF TAR 2019 labels and topic metadata:** CLEF eHealth Technology-Assisted Reviews in Empirical Medicine, [CLEF-TAR/tar](https://github.com/CLEF-TAR/tar), revision `dbc13d02bb3e2f8ebc90e62ff47f5eb591e5ca20`. The selected PMID/label records in `data/pool-config.json` and `runs/expanded-clinical-pointwise-v1/analysis.json` derive from that collection. Its MIT license is reproduced in `LICENSES/CLEF-TAR-MIT.txt`. Cite Kanoulas, Li, Azzopardi and Spijker, *CLEF 2019 Technology Assisted Reviews in Empirical Medicine Overview*.
+- **Clinical relevance prompt:** `data/llm-request-template.json` reproduces the clinical triage instructions from SciSpark Psychiatry, based on [SciSpark wiki](https://github.com/SciSpark-ai/scispark_wiki), with the study's single-object serialization adapter. Copyright 2026 SciSpark contributors; Apache License 2.0, reproduced in `LICENSES/Apache-2.0.txt`. Paper text and topic entries in the example request are replaced by placeholders; common instructions and the output schema are retained.
+- **Model scores:** outputs of the configured Jina reranking service and GPT-4o-mini, retained for the reported evaluation. This export contains no model weights or provider credentials. The services and dataset providers do not endorse the study.
+- **Paper text:** titles, abstracts, and raw model prose are omitted from this export. Input hashes identify the original submitted text without redistributing it.
+
+The analysis scripts and reports are covered by the MIT license at the repository root. Product-prompt licensing is not replaced by that license.

@@ -1,0 +1,198 @@
+{
+  "ranking": [
+    {
+      "topic": "CD012347",
+      "label": "abstract_label",
+      "arm": "cross-encoder",
+      "n": 216,
+      "positive": 16,
+      "ndcg10": 0.7312625444731047,
+      "precision10": 0.7,
+      "recall50": 1.0,
+      "recall100": 1.0,
+      "unique_scores": 196
+    },
+    {
+      "topic": "CD012347",
+      "label": "abstract_label",
+      "arm": "clinical-original-pointwise",
+      "n": 216,
+      "positive": 16,
+      "ndcg10": 0.8999999999999997,
+      "precision10": 0.9000000000000001,
+      "recall50": 0.7877604166666682,
+      "recall100": 0.8520408163265342,
+      "unique_scores": 5
+    },
+    {
+      "topic": "CD012347",
+      "label": "content_label",
+      "arm": "cross-encoder",
+      "n": 216,
+      "positive": 11,
+      "ndcg10": 0.6212166613240646,
+      "precision10": 0.6,
+      "recall50": 1.0,
+      "recall100": 1.0,
+      "unique_scores": 196
+    },
+    {
+      "topic": "CD012347",
+      "label": "content_label",
+      "arm": "clinical-original-pointwise",
+      "n": 216,
+      "positive": 11,
+      "ndcg10": 0.8,
+      "precision10": 0.7999999999999999,
+      "recall50": 1.0000000000000002,
+      "recall100": 1.0000000000000002,
+      "unique_scores": 5
+    },
+    {
+      "topic": "CD010558",
+      "label": "abstract_label",
+      "arm": "cross-encoder",
+      "n": 237,
+      "positive": 37,
+      "ndcg10": 0.576323354912681,
+      "precision10": 0.5,
+      "recall50": 0.5945945945945946,
+      "recall100": 0.8918918918918919,
+      "unique_scores": 178
+    },
+    {
+      "topic": "CD010558",
+      "label": "abstract_label",
+      "arm": "clinical-original-pointwise",
+      "n": 237,
+      "positive": 37,
+      "ndcg10": 0.6279069767441859,
+      "precision10": 0.6279069767441862,
+      "recall50": 0.7770270270270265,
+      "recall100": 0.9673423423423407,
+      "unique_scores": 5
+    },
+    {
+      "topic": "CD010558",
+      "label": "content_label",
+      "arm": "cross-encoder",
+      "n": 237,
+      "positive": 10,
+      "ndcg10": 0.19518900079066107,
+      "precision10": 0.2,
+      "recall50": 0.9,
+      "recall100": 1.0,
+      "unique_scores": 178
+    },
+    {
+      "topic": "CD010558",
+      "label": "content_label",
+      "arm": "clinical-original-pointwise",
+      "n": 237,
+      "positive": 10,
+      "ndcg10": 0.20930232558139533,
+      "precision10": 0.20930232558139533,
+      "recall50": 0.9218750000000007,
+      "recall100": 1.0000000000000007,
+      "unique_scores": 5
+    },
+    {
+      "topic": "CD010753",
+      "label": "abstract_label",
+      "arm": "cross-encoder",
+      "n": 229,
+      "positive": 29,
+      "ndcg10": 0.6871952210980248,
+      "precision10": 0.6,
+      "recall50": 0.6896551724137929,
+      "recall100": 0.8620689655172411,
+      "unique_scores": 147
+    },
+    {
+      "topic": "CD010753",
+      "label": "abstract_label",
+      "arm": "clinical-original-pointwise",
+      "n": 229,
+      "positive": 29,
+      "ndcg10": 0.7297297297297297,
+      "precision10": 0.7297297297297297,
+      "recall50": 0.9489655172413789,
+      "recall100": 0.9679980153807983,
+      "unique_scores": 5
+    },
+    {
+      "topic": "CD010753",
+      "label": "content_label",
+      "arm": "cross-encoder",
+      "n": 229,
+      "positive": 20,
+      "ndcg10": 0.4690000933206748,
+      "precision10": 0.3,
+      "recall50": 0.6000000000000001,
+      "recall100": 0.8500000000000002,
+      "unique_scores": 147
+    },
+    {
+      "topic": "CD010753",
+      "label": "content_label",
+      "arm": "clinical-original-pointwise",
+      "n": 229,
+      "positive": 20,
+      "ndcg10": 0.5135135135135135,
+      "precision10": 0.5135135135135134,
+      "recall50": 0.9759999999999994,
+      "recall100": 0.9999999999999989,
+      "unique_scores": 5
+    }
+  ],
+  "gates": [
+    {
+      "topic": "CD012347",
+      "label": "abstract_label",
+      "positive": 16,
+      "entry_positive": 13,
+      "after_quote": 12,
+      "negative_after_quote": 54
+    },
+    {
+      "topic": "CD012347",
+      "label": "content_label",
+      "positive": 11,
+      "entry_positive": 11,
+      "after_quote": 10,
+      "negative_after_quote": 56
+    },
+    {
+      "topic": "CD010558",
+      "label": "abstract_label",
+      "positive": 37,
+      "entry_positive": 36,
+      "after_quote": 35,
+      "negative_after_quote": 66
+    },
+    {
+      "topic": "CD010558",
+      "label": "content_label",
+      "positive": 10,
+      "entry_positive": 10,
+      "after_quote": 10,
+      "negative_after_quote": 91
+    },
+    {
+      "topic": "CD010753",
+      "label": "abstract_label",
+      "positive": 29,
+      "entry_positive": 28,
+      "after_quote": 25,
+      "negative_after_quote": 59
+    },
+    {
+      "topic": "CD010753",
+      "label": "content_label",
+      "positive": 20,
+      "entry_positive": 20,
+      "after_quote": 18,
+      "negative_after_quote": 66
+    }
+  ]
+}

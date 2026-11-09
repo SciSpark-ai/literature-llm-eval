@@ -1,0 +1,24 @@
+{
+  "export_date": "2026-11-08",
+  "study": "clinical-feed-ranking",
+  "source_sha256": {
+    "runs/expanded-clinical-pointwise-v1/analysis.json": "79c85fd88617df5f59cade2881251415a46ad68d39714e3d7c4dceefa31e6ef3",
+    "runs/expanded-clinical-pointwise-v1/metrics.json": "8d66e77f48a37e94a8a3f249e72c9f1936c16817c3984e108621122f54620cba",
+    "runs/expanded-clinical-pointwise-v1/cascade-metrics.json": "b171db2d36c573b1f501ae7c2853a30b9aedd43ec60860407becfd5648e7e3b0",
+    "runs/expanded-clinical-pointwise-v1/requests.json": "0748b1ecda35eb6f80eee3c7891cd3780e4119f9250394422ddaef816a1dc15d",
+    "runs/expanded-clinical-pointwise-v1/protocol.md": "2d638b1fbcb3191f9296ae6419913499a8ed800610724c3c5abdbc373507c9f7",
+    "runs/clinical-expanded-v1/ce-results-complete.json": "69eb096c028ac91dc4900308969837f66e32d0be8233a3e9ac63c914a1641a0e",
+    "runs/clinical-expanded-v1/common-candidates.json": "972cd3e72bb3b6713b9426f4fb1096db368928105553c40eb5015f13085e3011",
+    "runs/clinical-expanded-v1/inputs.json": "622a78070a0bbdadc258debb6948836f9051a258951badd0c1af53fc657de5da",
+    "runs/clinical-expanded-v1/config.json": "76e5f3651b21fe2bb601d9b8a0933fa3817c542d3b0a8c59868fcd69c2cf6100",
+    "data_manifest/clinical-reference-audit.json": "8d982614d1dfbd4c527e4e300504fab7fb726531ad5b04580997e827cd07b4c3"
+  },
+  "transformations": [
+    "Analysis rows retain only identities, labels, numeric grades and validation flags; raw model text is omitted.",
+    "CE scores and all stored metric rows are copied byte-for-byte.",
+    "Candidate text is replaced by SHA-256 hashes; exact request bodies are hashed using UTF-8 JSON with sorted keys, compact separators, and ensure_ascii=False.",
+    "The request template retains exact common system instructions, serialization adapter and schema; topic entries and paper text are placeholders.",
+    "Pool configuration omits the private spending ceiling; public protocol omits the private spending-authorization sentence.",
+    "No abstracts, patient data, provider credentials, pilot materials or model API runners are included."
+  ]
+}

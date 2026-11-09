@@ -1,0 +1,32 @@
+{
+  "collection": "CLEF TAR 2019 Task 2 intervention reviews",
+  "repository": "https://github.com/CLEF-TAR/tar",
+  "commit": "dbc13d02bb3e2f8ebc90e62ff47f5eb591e5ca20",
+  "topics": [
+    {
+      "topic_id": "CD012347",
+      "original_split": "Training",
+      "title": "Psychological therapies for the treatment of depression in chronic obstructive pulmonary disease",
+      "candidate_count": 1098,
+      "abstract_positive": 16,
+      "content_positive": 11
+    },
+    {
+      "topic_id": "CD010558",
+      "original_split": "Testing",
+      "title": "Psychological therapies for treatment‐resistant depression in adults",
+      "candidate_count": 2815,
+      "abstract_positive": 37,
+      "content_positive": 10
+    },
+    {
+      "topic_id": "CD010753",
+      "original_split": "Testing",
+      "title": "Antidepressants for insomnia in adults",
+      "candidate_count": 2539,
+      "abstract_positive": 29,
+      "content_positive": 20
+    }
+  ],
+  "label_scope": "Review screening decisions, not clinical usefulness; abstract labels primary, full-text inclusion labels secondary."
+}

@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "method": "Independent per-positive expected-rank contribution calculation",
+  "cascade_rows_verified": 42,
+  "standalone_rows_verified": 12,
+  "records": 682,
+  "abstract_positives": 82,
+  "local_links_verified": 18,
+  "source_sha256": {
+    "runs/expanded-clinical-pointwise-v1/analysis.json": "1e46fe1e1ce7b967faeac29a5a5bd2432c0bc378a5c06c958aff5c31cf7e4440",
+    "runs/expanded-clinical-pointwise-v1/metrics.json": "8d66e77f48a37e94a8a3f249e72c9f1936c16817c3984e108621122f54620cba",
+    "runs/expanded-clinical-pointwise-v1/cascade-metrics.json": "b171db2d36c573b1f501ae7c2853a30b9aedd43ec60860407becfd5648e7e3b0",
+    "runs/clinical-expanded-v1/ce-results-complete.json": "69eb096c028ac91dc4900308969837f66e32d0be8233a3e9ac63c914a1641a0e",
+    "reports/blog-ce-vs-llm-clinical-feed.md": "b745db2e314d76318eed8d62e57369143a84fea9223a4962ff91725faa8ea85f",
+    "reports/blog-ce-vs-llm-clinical-feed-methods.md": "49db37e043e637ac63a2a42596709de57192ab373457f5086df453879979cbb1"
+  },
+  "limitations": "Verifies saved-score arithmetic and local links, not clinical labels or model validity."
+}
