@@ -82,7 +82,7 @@ Three development topics; a candidate set rich in relevant papers (75 of 100), s
 
 The nine closest papers and what each leaves open are in `RESEARCH_PLAN.md`, Section 2. The closest precedents are Windisch et al. 2026 ("Show Your Work"), "Verifiable by Construction" (arXiv 2609.15964), VetScore (arXiv 2608.03675) and Saha and Mitra 2026 ("LLMs as Assessors"). The combination measured here was not found in a six-area review of primary literature; the full 31-paper matrix is available on request.
 
-Blog post: [link to be added].
+A blog post summarising this study is in preparation; this README is the reference until then.
 
 ## License
 
