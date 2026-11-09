@@ -6,16 +6,19 @@ Each study is self-contained in its own folder under `studies/` with its own REA
 
 | Study | Stage | Question in one line | Status | Headline |
 |---|---|---|---|---|
-| [`evidence-elicitation`](studies/evidence-elicitation/) | decide relevance, extract evidence | When the model must quote its evidence, how often does the check fail, does the requirement change the decision beyond run-to-run noise, and does a second extraction step recover verifiable evidence at what cost? | frozen; relevance labels human (CLEF TAR 2019), quote support model-checked only; three development topics, one model | Identical requests at temperature 0 change 18% of grades and 11% of keep-or-drop decisions; the prompt effect (31%) is 1.7× that noise, below the pre-stated 2× bar; decide-then-extract yields verifiable evidence for 96 to 100% of kept papers versus 45% in one step, at 1.65× tokens |
+| [`attributed-relevance-judgments`](studies/attributed-relevance-judgments/) <br> *Attributed Relevance Judgments by LLMs in Biomedical Literature Screening* | decide relevance, extract evidence | When the model must quote its evidence, how often does the check fail, does the requirement change the decision beyond run-to-run noise, and does a second extraction step recover verifiable evidence at what cost? | frozen; relevance labels human (CLEF TAR 2019), quote support model-checked only; three development topics, one model | Identical requests at temperature 0 change 18% of grades and 11% of keep-or-drop decisions; the prompt effect (31%) is 1.7× that noise, below the pre-stated 2× bar; decide-then-extract yields verifiable evidence for 96 to 100% of kept papers versus 45% in one step, at 1.65× tokens |
 | [`clinical-feed-ranking`](studies/clinical-feed-ranking/) <br> *Comparing an LLM and a Cross-Encoder for Ranking a Clinical Literature Feed* | rank papers, select candidates | How do CE, LLM, and combined scores compare on the same candidate pools? | saved-score export; human-derived CLEF labels; three development topics; offline reproduction | On 682 papers, LLM nDCG@10 was higher on all three topics; Recall@50 and CE tie-breaking results varied by topic. |
 
 Status words: **frozen** (artifacts fixed, numbers regenerable), **model-labelled** (rests on model outputs), **human-labelled**, **written up**, **planned**.
 
 ## Reading order
 
-1. The study's plain-English summary: `studies/evidence-elicitation/reports/tech-report-plain-summary.md`.
-2. The study README for reproduction and limitations.
-3. The full run report, `reports/e4-e5-v1.md`, and the related-work matrix under `literature/`.
+Start with each study's `README.md`, which explains its question, evidence, limitations and reproduction commands.
+
+- **Attributed relevance judgments:** `RESEARCH_PLAN.md` records the hypotheses and plan; `REPORT.md` presents the results. Redacted requests and responses are in `runs/`, generated analyses in `results/`, and tests in `scripts/tests/`.
+- **Clinical feed ranking:** `PROTOCOL.md` records the main-run protocol; the article and methods appendix are in `reports/`. Public scores and metrics are in `runs/`, input metadata in `data/`, and offline reproduction and verification commands in `scripts/`.
+
+The studies are parallel projects under `studies/`; neither is a subproject of the other.
 
 ## What is shared across studies
 

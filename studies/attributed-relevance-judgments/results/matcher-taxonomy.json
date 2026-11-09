@@ -1,0 +1,46 @@
+{
+ "joint_baseline": {
+  "run": "clinical-v1",
+  "admitted_positives": 62,
+  "production_exact_failures": 34,
+  "three_tier_of_failures": {
+   "none": 23,
+   "elided": 11
+  },
+  "recoverable_by_three_tier_matcher": 11,
+  "descriptive_split_of_failures": {
+   "elided_with_paraphrase": 16,
+   "elided_fragments_in_order": 11,
+   "elided_fragments_unordered": 2,
+   "partial_paraphrase": 3,
+   "near_verbatim_minor_edit": 2
+  },
+  "recoverable_by_lenient_reading": 13,
+  "recoverable_including_unordered_fragments": 15
+ },
+ "short_span_variant": {
+  "run": "clinical-quote-v2",
+  "admitted_positives": 57,
+  "production_exact_failures": 7,
+  "three_tier_of_failures": {
+   "none": 4,
+   "elided": 3
+  },
+  "recoverable_by_three_tier_matcher": 3,
+  "descriptive_split_of_failures": {
+   "near_verbatim_minor_edit": 1,
+   "elided_fragments_unordered": 1,
+   "elided_with_paraphrase": 2,
+   "elided_fragments_in_order": 3
+  },
+  "recoverable_by_lenient_reading": 4,
+  "recoverable_including_unordered_fragments": 5
+ },
+ "definitions": {
+  "production_exact": "quote found in title+abstract after case, whitespace, dash and curly-quote normalisation (production rule)",
+  "normalized": "found after additionally dropping punctuation",
+  "elided": "all ellipsis-separated fragments of at least 8 characters found, in order",
+  "descriptive_split": "finer categories for reading, not a verification rule"
+ },
+ "approximate_text": false
+}

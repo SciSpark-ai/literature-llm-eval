@@ -1,0 +1,1019 @@
+{
+ "placeholder_format": "[ABSTRACT REDACTED sha256:<12 hex of sha256 of the removed text>]",
+ "replacements": 1103,
+ "removed_files": [],
+ "pmids": [
+  "10757081",
+  "11115207",
+  "11352373",
+  "11465523",
+  "11910258",
+  "12237787",
+  "12464831",
+  "12499712",
+  "12590206",
+  "12716247",
+  "12917854",
+  "12920414",
+  "1410141",
+  "14725822",
+  "15323587",
+  "16790039",
+  "16877898",
+  "16959055",
+  "17889189",
+  "17922939",
+  "18041488",
+  "18221624",
+  "18277222",
+  "18294022",
+  "18616688",
+  "19015627",
+  "19232571",
+  "19697180",
+  "19884606",
+  "20346640",
+  "20822814",
+  "21102997",
+  "21114826",
+  "21623982",
+  "21778171",
+  "21849054",
+  "22057726",
+  "22070769",
+  "22101205",
+  "22162648",
+  "22198447",
+  "22419944",
+  "22511399",
+  "22677092",
+  "22686185",
+  "22925198",
+  "22962030",
+  "23166130",
+  "23219570",
+  "23339536",
+  "23409736",
+  "23561946",
+  "23585837",
+  "23750462",
+  "23823799",
+  "23851972",
+  "23896849",
+  "23993464",
+  "24262818",
+  "24555562",
+  "24574930",
+  "24655622",
+  "24824481",
+  "24886116",
+  "25211400",
+  "25322078",
+  "25335963",
+  "25527998",
+  "25548124",
+  "25774660",
+  "26022410",
+  "26049126",
+  "26119013",
+  "26219426",
+  "26278222",
+  "26371617",
+  "26407787",
+  "26553106",
+  "26754527",
+  "26799332",
+  "26836938",
+  "26847975",
+  "2688037",
+  "26929616",
+  "27482970",
+  "28093029",
+  "28150856",
+  "28199710",
+  "28470399",
+  "28544504",
+  "6337611",
+  "7491373",
+  "8895944",
+  "9184611",
+  "9230251",
+  "9310521",
+  "9376452",
+  "9619472",
+  "9646878",
+  "9792578"
+ ],
+ "entries": {
+  "8e4b99fb25a0": {
+   "pmid": "9792578",
+   "kind": "cleaned_visible_text",
+   "length": 1796
+  },
+  "35c4a9cfa80e": {
+   "pmid": "17889189",
+   "kind": "cleaned_visible_text",
+   "length": 1439
+  },
+  "2a130876a00d": {
+   "pmid": "11352373",
+   "kind": "cleaned_visible_text",
+   "length": 1677
+  },
+  "7553f7e4b28f": {
+   "pmid": "22511399",
+   "kind": "cleaned_visible_text",
+   "length": 772
+  },
+  "69b13b205967": {
+   "pmid": "23409736",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "650151ebea15": {
+   "pmid": "24555562",
+   "kind": "cleaned_visible_text",
+   "length": 1565
+  },
+  "acea3c159400": {
+   "pmid": "9619472",
+   "kind": "cleaned_visible_text",
+   "length": 1137
+  },
+  "646031317706": {
+   "pmid": "25548124",
+   "kind": "cleaned_visible_text",
+   "length": 1598
+  },
+  "32f6dcfd32e8": {
+   "pmid": "12917854",
+   "kind": "cleaned_visible_text",
+   "length": 1479
+  },
+  "2ea58c9cba50": {
+   "pmid": "17922939",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "cf5be7b56579": {
+   "pmid": "23166130",
+   "kind": "cleaned_visible_text",
+   "length": 1664
+  },
+  "19388c53272d": {
+   "pmid": "26929616",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "6fbe65a63a9f": {
+   "pmid": "22419944",
+   "kind": "cleaned_visible_text",
+   "length": 1358
+  },
+  "ea9c4f8a3f43": {
+   "pmid": "26754527",
+   "kind": "cleaned_visible_text",
+   "length": 1714
+  },
+  "b79c8e250f6f": {
+   "pmid": "25322078",
+   "kind": "cleaned_visible_text",
+   "length": 1526
+  },
+  "111754bdc2db": {
+   "pmid": "28150856",
+   "kind": "cleaned_visible_text",
+   "length": 1662
+  },
+  "a8d9e54a8615": {
+   "pmid": "12464831",
+   "kind": "cleaned_visible_text",
+   "length": 1616
+  },
+  "31b223483f6a": {
+   "pmid": "25774660",
+   "kind": "cleaned_visible_text",
+   "length": 1793
+  },
+  "725e3886f233": {
+   "pmid": "26049126",
+   "kind": "cleaned_visible_text",
+   "length": 1065
+  },
+  "631b9db47c8a": {
+   "pmid": "28544504",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "52d2bf234499": {
+   "pmid": "26836938",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "c95f46951786": {
+   "pmid": "16790039",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "3be6443c0dd9": {
+   "pmid": "23585837",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "408246f38cb6": {
+   "pmid": "9230251",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "5632a38bc5e9": {
+   "pmid": "22162648",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "0af3d9917e92": {
+   "pmid": "20346640",
+   "kind": "cleaned_visible_text",
+   "length": 1567
+  },
+  "3a5748430b94": {
+   "pmid": "22686185",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "613bda82f7f9": {
+   "pmid": "24574930",
+   "kind": "cleaned_visible_text",
+   "length": 1335
+  },
+  "bd93f18ade32": {
+   "pmid": "22925198",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "eb8ade0cdaab": {
+   "pmid": "24886116",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "1d3eca449dfa": {
+   "pmid": "18221624",
+   "kind": "cleaned_visible_text",
+   "length": 1097
+  },
+  "0afdcad9861b": {
+   "pmid": "26119013",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "a6eb001c4357": {
+   "pmid": "26799332",
+   "kind": "cleaned_visible_text",
+   "length": 1756
+  },
+  "2cf77a556399": {
+   "pmid": "22677092",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "10a83ad72aff": {
+   "pmid": "18294022",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "73cd86daf6e4": {
+   "pmid": "26847975",
+   "kind": "cleaned_visible_text",
+   "length": 1060
+  },
+  "ff4cc4bc8991": {
+   "pmid": "23750462",
+   "kind": "cleaned_visible_text",
+   "length": 1653
+  },
+  "3a626ec19a19": {
+   "pmid": "26022410",
+   "kind": "cleaned_visible_text",
+   "length": 1668
+  },
+  "54ff8d1c3078": {
+   "pmid": "26553106",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "102a7cf9dfb2": {
+   "pmid": "18277222",
+   "kind": "cleaned_visible_text",
+   "length": 1424
+  },
+  "94b42c04a0d5": {
+   "pmid": "26371617",
+   "kind": "cleaned_visible_text",
+   "length": 1648
+  },
+  "a3bd87b51d8f": {
+   "pmid": "25527998",
+   "kind": "cleaned_visible_text",
+   "length": 1328
+  },
+  "0b826b8c4bcc": {
+   "pmid": "23896849",
+   "kind": "cleaned_visible_text",
+   "length": 957
+  },
+  "bde75fc07172": {
+   "pmid": "24824481",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "2f6283382234": {
+   "pmid": "23851972",
+   "kind": "cleaned_visible_text",
+   "length": 1670
+  },
+  "fcdf38a1cc0c": {
+   "pmid": "23339536",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "ce5a8973f9e0": {
+   "pmid": "16877898",
+   "kind": "cleaned_visible_text",
+   "length": 1750
+  },
+  "057032fadabd": {
+   "pmid": "26407787",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "e829f94c039d": {
+   "pmid": "26219426",
+   "kind": "cleaned_visible_text",
+   "length": 1641
+  },
+  "b4c7bac69f22": {
+   "pmid": "24262818",
+   "kind": "cleaned_visible_text",
+   "length": 1447
+  },
+  "e749339fdf2e": {
+   "pmid": "19232571",
+   "kind": "cleaned_visible_text",
+   "length": 1367
+  },
+  "8c4d2ab46bfe": {
+   "pmid": "25211400",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "b788aa4b3510": {
+   "pmid": "21114826",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "f75de64f6ee8": {
+   "pmid": "26278222",
+   "kind": "cleaned_visible_text",
+   "length": 1733
+  },
+  "46afe637852a": {
+   "pmid": "11115207",
+   "kind": "cleaned_visible_text",
+   "length": 1700
+  },
+  "816899170bdb": {
+   "pmid": "10757081",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "453fdac5e712": {
+   "pmid": "19884606",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "32b7498919a4": {
+   "pmid": "22962030",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "9f25ccce80f5": {
+   "pmid": "22101205",
+   "kind": "cleaned_visible_text",
+   "length": 1566
+  },
+  "d8f73e309466": {
+   "pmid": "21778171",
+   "kind": "cleaned_visible_text",
+   "length": 1228
+  },
+  "f1d9a18b2ba1": {
+   "pmid": "19015627",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "834949ca31f0": {
+   "pmid": "16959055",
+   "kind": "cleaned_visible_text",
+   "length": 1306
+  },
+  "f5285fff8fa1": {
+   "pmid": "22198447",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "93ede29c822b": {
+   "pmid": "19697180",
+   "kind": "cleaned_visible_text",
+   "length": 1628
+  },
+  "606f93be701a": {
+   "pmid": "21849054",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "df6cb0a3ddd7": {
+   "pmid": "25335963",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "bb4c6d5d8f70": {
+   "pmid": "23219570",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "2603c980a192": {
+   "pmid": "22070769",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "34a527e96fe2": {
+   "pmid": "20822814",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "2002b991f2ff": {
+   "pmid": "12716247",
+   "kind": "cleaned_visible_text",
+   "length": 1689
+  },
+  "bdfa0add8b91": {
+   "pmid": "8895944",
+   "kind": "cleaned_visible_text",
+   "length": 1436
+  },
+  "9be9746a4891": {
+   "pmid": "9646878",
+   "kind": "cleaned_visible_text",
+   "length": 1708
+  },
+  "5198dffff683": {
+   "pmid": "11465523",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "c62f4312524b": {
+   "pmid": "9310521",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "cd9e8a2bdd8b": {
+   "pmid": "18041488",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "2ac09bac43eb": {
+   "pmid": "7491373",
+   "kind": "cleaned_visible_text",
+   "length": 1093
+  },
+  "f50712659587": {
+   "pmid": "21623982",
+   "kind": "cleaned_visible_text",
+   "length": 1587
+  },
+  "e38554416471": {
+   "pmid": "12920414",
+   "kind": "cleaned_visible_text",
+   "length": 1396
+  },
+  "67283b561e87": {
+   "pmid": "27482970",
+   "kind": "cleaned_visible_text",
+   "length": 1772
+  },
+  "889bb545cb55": {
+   "pmid": "1410141",
+   "kind": "cleaned_visible_text",
+   "length": 1129
+  },
+  "9d2117be1de7": {
+   "pmid": "23823799",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "c0160d339bb5": {
+   "pmid": "22057726",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "c0f729203079": {
+   "pmid": "11910258",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "6c6f1e27ec74": {
+   "pmid": "12237787",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "c3d50294d6d5": {
+   "pmid": "14725822",
+   "kind": "cleaned_visible_text",
+   "length": 1390
+  },
+  "a666d3e6b498": {
+   "pmid": "9376452",
+   "kind": "cleaned_visible_text",
+   "length": 1056
+  },
+  "304e7efc0521": {
+   "pmid": "28199710",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "d8d32500752c": {
+   "pmid": "21102997",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "7ab7e239b23a": {
+   "pmid": "9184611",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "3607d9a93233": {
+   "pmid": "12590206",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "92ad437cb1f0": {
+   "pmid": "6337611",
+   "kind": "cleaned_visible_text",
+   "length": 1164
+  },
+  "9cee36bf4770": {
+   "pmid": "15323587",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "dd80b52b5cbf": {
+   "pmid": "28093029",
+   "kind": "cleaned_visible_text",
+   "length": 1764
+  },
+  "06773c78ea1b": {
+   "pmid": "2688037",
+   "kind": "cleaned_visible_text",
+   "length": 1325
+  },
+  "7b7c77e8264b": {
+   "pmid": "18616688",
+   "kind": "cleaned_visible_text",
+   "length": 1750
+  },
+  "f68eff26187b": {
+   "pmid": "28470399",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "fdd72c05c3db": {
+   "pmid": "24655622",
+   "kind": "cleaned_visible_text",
+   "length": 1684
+  },
+  "8f26f68eba4f": {
+   "pmid": "23561946",
+   "kind": "cleaned_visible_text",
+   "length": 1800
+  },
+  "18643ed6bc8f": {
+   "pmid": "12499712",
+   "kind": "cleaned_visible_text",
+   "length": 1385
+  },
+  "ddd8ad4c13c4": {
+   "pmid": "23993464",
+   "kind": "cleaned_visible_text",
+   "length": 1052
+  },
+  "c0addf42532a": {
+   "pmid": "22686185",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1968
+  },
+  "12ca5f5fdff5": {
+   "pmid": "24574930",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1392
+  },
+  "dd6dc900c55b": {
+   "pmid": "22925198",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1978
+  },
+  "414e03603f9a": {
+   "pmid": "24886116",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 2079
+  },
+  "78bd951446d6": {
+   "pmid": "18221624",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1160
+  },
+  "3238c7ef2ec8": {
+   "pmid": "26119013",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1885
+  },
+  "b9a827712478": {
+   "pmid": "26799332",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1870
+  },
+  "517656086cca": {
+   "pmid": "22677092",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1946
+  },
+  "84678379658d": {
+   "pmid": "18294022",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1937
+  },
+  "5112cc4b54fb": {
+   "pmid": "26847975",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1241
+  },
+  "696a2478080a": {
+   "pmid": "23750462",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1759
+  },
+  "e1d61cf4bdfd": {
+   "pmid": "26022410",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1770
+  },
+  "cf8a8f001821": {
+   "pmid": "26553106",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1968
+  },
+  "1a333d822af3": {
+   "pmid": "18277222",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1524
+  },
+  "5fd6b35b70bd": {
+   "pmid": "26371617",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1845
+  },
+  "768367be6e48": {
+   "pmid": "25527998",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1468
+  },
+  "ed74dacf1836": {
+   "pmid": "23896849",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1084
+  },
+  "b003360acfa4": {
+   "pmid": "24824481",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 2003
+  },
+  "4095f17792f2": {
+   "pmid": "23851972",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1803
+  },
+  "cc301dfbc2e6": {
+   "pmid": "23339536",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1927
+  },
+  "433cae347214": {
+   "pmid": "26407787",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1960
+  },
+  "5b4fb9734495": {
+   "pmid": "26219426",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1780
+  },
+  "4eccf6eeb563": {
+   "pmid": "24262818",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1624
+  },
+  "66a402c2b634": {
+   "pmid": "19232571",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1485
+  },
+  "f85552da67fe": {
+   "pmid": "25211400",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1850
+  },
+  "eefc14acb8fb": {
+   "pmid": "21114826",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1940
+  },
+  "8fd464962f2b": {
+   "pmid": "26278222",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1839
+  },
+  "651ae2a5df24": {
+   "pmid": "11115207",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1784
+  },
+  "af6da5c1669f": {
+   "pmid": "19884606",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1976
+  },
+  "ff8b7eb0ef61": {
+   "pmid": "22962030",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1869
+  },
+  "bc9155d3ac45": {
+   "pmid": "22101205",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1729
+  },
+  "0309a88e4289": {
+   "pmid": "21778171",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1339
+  },
+  "2bb4aaec3d01": {
+   "pmid": "19015627",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1905
+  },
+  "c5a8624d4935": {
+   "pmid": "16959055",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1456
+  },
+  "e46547a37a43": {
+   "pmid": "22198447",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1915
+  },
+  "e9d49b1f9c37": {
+   "pmid": "19697180",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1720
+  },
+  "a0ce65f1aebb": {
+   "pmid": "21849054",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 2014
+  },
+  "507401ac63af": {
+   "pmid": "25335963",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1951
+  },
+  "176a56f5b5cf": {
+   "pmid": "23219570",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1982
+  },
+  "a1dd91f2c9c2": {
+   "pmid": "8895944",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1533
+  },
+  "602bc255faad": {
+   "pmid": "9646878",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1812
+  },
+  "1cae37235741": {
+   "pmid": "11465523",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1905
+  },
+  "7a0f18b84d59": {
+   "pmid": "18041488",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1884
+  },
+  "fb84b9e31ebd": {
+   "pmid": "7491373",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1165
+  },
+  "7ebd11f5ff48": {
+   "pmid": "21623982",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1674
+  },
+  "72500e4565fe": {
+   "pmid": "12920414",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1543
+  },
+  "5ac3399f1a4d": {
+   "pmid": "27482970",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1865
+  },
+  "a9983c5022c5": {
+   "pmid": "23823799",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1994
+  },
+  "a9ba018f5f22": {
+   "pmid": "22057726",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1908
+  },
+  "74d723ad7aa5": {
+   "pmid": "11910258",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1930
+  },
+  "854a6c16054b": {
+   "pmid": "12237787",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1894
+  },
+  "acfd0ec4baec": {
+   "pmid": "14725822",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1475
+  },
+  "fb368d1c6b0c": {
+   "pmid": "28199710",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1916
+  },
+  "515299eca628": {
+   "pmid": "21102997",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1946
+  },
+  "4182a1778a81": {
+   "pmid": "9184611",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1979
+  },
+  "1b40c1c1ba17": {
+   "pmid": "28093029",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1892
+  },
+  "8b23c697f44e": {
+   "pmid": "2688037",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1433
+  },
+  "33f2a06f753b": {
+   "pmid": "18616688",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1853
+  },
+  "2b50ac728c40": {
+   "pmid": "23561946",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1914
+  },
+  "f98fd6859c42": {
+   "pmid": "12499712",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1452
+  },
+  "4eed20015cfe": {
+   "pmid": "23993464",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1175
+  },
+  "4fde80642b07": {
+   "pmid": "11352373",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1783
+  },
+  "8c53e79bdf93": {
+   "pmid": "22511399",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 932
+  },
+  "714c2f10e464": {
+   "pmid": "9619472",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1266
+  },
+  "fb8363b95b08": {
+   "pmid": "25548124",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1782
+  },
+  "7340fcaf0734": {
+   "pmid": "12917854",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1607
+  },
+  "80ce0e06ffdf": {
+   "pmid": "17922939",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1974
+  },
+  "a37e6ff803ed": {
+   "pmid": "23166130",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1816
+  },
+  "3a78accff738": {
+   "pmid": "26929616",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1987
+  },
+  "7ae47fd2d450": {
+   "pmid": "22419944",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1521
+  },
+  "1d5aedd7e8af": {
+   "pmid": "25322078",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1759
+  },
+  "3a6185afa0b4": {
+   "pmid": "28150856",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1794
+  },
+  "1369187dba91": {
+   "pmid": "12464831",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1726
+  },
+  "2036545a03b5": {
+   "pmid": "25774660",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1988
+  },
+  "93c43f914f77": {
+   "pmid": "26049126",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1180
+  },
+  "fbb117edb82d": {
+   "pmid": "28544504",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1980
+  },
+  "f8fc39380502": {
+   "pmid": "26836938",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1986
+  },
+  "69a942d640c5": {
+   "pmid": "16790039",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 2007
+  },
+  "d1aaa8cff82e": {
+   "pmid": "23585837",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1940
+  },
+  "56459e5577c3": {
+   "pmid": "9230251",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1866
+  },
+  "d5978a035511": {
+   "pmid": "22162648",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1937
+  },
+  "d02fc8ddb9aa": {
+   "pmid": "20346640",
+   "kind": "cleaned_sentences_joined_by_newline",
+   "length": 1664
+  }
+ }
+}
