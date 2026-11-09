@@ -1,6 +1,6 @@
 # literature-llm-eval
 
-Evaluation studies of how a large language model behaves at each stage of a literature-monitoring system. The system under study is SciSpark Psychiatry, a tool that retrieves new PubMed papers for a clinician, decides which are relevant, extracts supporting evidence, writes a summary card and checks it. Each study isolates a stage of the system and records its data, methods, results and limitations. Public artifacts support the reproduction scope stated in each study.
+Evaluation studies of how a large language model behaves at each stage of a literature-monitoring system. The evaluation studies are conducted on SciSpark Psychiatry, a tool that retrieves new PubMed papers for a clinician, decides which are relevant, extracts supporting evidence, writes a summary card and checks it. Each study isolates a stage of the system and records its data, methods, results and limitations. Public artifacts support the reproduction scope stated in each study.
 
 Each study is self-contained in its own folder under `studies/` with its own README, reports, frozen runs, scripts and tests. Studies are added only when they are frozen: requests, responses and analysis fixed, numbers regenerable, limitations written.
 
