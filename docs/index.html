@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Literature LLM Evaluation</title>
+<meta name="description" content="Evaluating the performance of large language models in a clinical literature recommender: SciSpark evaluation studies.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav class="topbar"><div class="wrap">
+  <a class="home" href="./">literature-llm-eval</a>
+  <a href="attributed-relevance-judgments/">Relevance judgments</a>
+  <a href="clinical-feed-ranking/">Feed ranking</a>
+  <a href="https://github.com/SciSpark-ai/literature-llm-eval">GitHub</a>
+</div></nav>
+
+<main class="wrap">
+<header class="hero">
+  <p class="kicker">SciSpark &middot; evaluation studies</p>
+  <h1>Evaluating large language models in a clinical literature recommender</h1>
+  <p class="lede">We built <a href="https://github.com/SciSpark-ai">SciSpark</a> and <a href="https://github.com/SciSpark-ai/scispark-psychiatry">SciSpark Psychiatry</a> to recommend research papers to scientists and psychiatry clinicians, with an LLM at the centre of the pipeline. Here, we test how well the LLM performs at each stage of that pipeline, using public screening data from Cochrane systematic reviews, and we publish everything needed to recompute our numbers.</p>
+</header>
+
+<ol class="pipeline" aria-label="Pipeline stages; highlighted stages are covered by a study">
+  <li>Search PubMed</li><li class="arrow" aria-hidden="true">&rarr;</li>
+  <li>Filter to the field</li><li class="arrow" aria-hidden="true">&rarr;</li>
+  <li class="on-a">Score relevance &amp; attach evidence</li><li class="arrow" aria-hidden="true">&rarr;</li>
+  <li class="on-b">Rank into a feed</li><li class="arrow" aria-hidden="true">&rarr;</li>
+  <li>Summarize (planned)</li>
+</ol>
+<ul class="legend small" style="margin-top:8px">
+  <li><span class="sw a"></span>Study 1: attributed relevance judgments</li>
+  <li><span class="sw b"></span>Study 2: clinical feed ranking</li>
+</ul>
+
+<h2>Studies</h2>
+<div class="grid grid-2">
+  <a class="card study" href="attributed-relevance-judgments/">
+    <span class="stage">Study 1 &middot; relevance scoring and evidence attribution</span>
+    <h3>Does asking an LLM to quote its evidence change how it scores relevance?</h3>
+    <p class="small">We found that LLM relevance scores changed for 18% of papers when the identical request was sent again. Asking for a quote in the same call did not clearly change the scores, but lost relevant papers at the quote check; splitting scoring and quoting into two calls recovered evidence for 96&ndash;100% of them.</p>
+    <ul class="chips"><li>3 topics</li><li>100 papers</li><li>GPT-4.1-mini</li><li>human relevance labels</li></ul>
+    <span class="go">Read the study &rarr;</span>
+  </a>
+  <a class="card study" href="clinical-feed-ranking/">
+    <span class="stage">Study 2 &middot; ranking</span>
+    <h3>LLM or cross-encoder: which ranks a clinical literature feed better?</h3>
+    <p class="small">We found that the LLM placed relevant papers nearer the top than a cross-encoder on all three topics. A cross-encoder helped to order papers that share an LLM score, but cutting the candidate pool with it before the LLM dropped up to 15 of 37 relevant papers.</p>
+    <ul class="chips"><li>3 topics</li><li>682 papers</li><li>GPT-4o-mini vs Jina reranker</li><li>human relevance labels</li></ul>
+    <span class="go">Read the study &rarr;</span>
+  </a>
+</div>
+
+<h2>Design implications</h2>
+<div class="grid grid-2">
+  <div class="tile"><div class="lbl"><b>Separate scoring from evidence attribution</b></div><div class="sub">Score relevance first, then attach evidence in a second call. A paper whose evidence fails the check should be marked unverified, not removed.</div></div>
+  <div class="tile"><div class="lbl"><b>Let the LLM point rather than copy</b></div><div class="sub">Asking for the number of a supporting sentence, then looking it up in code, gave valid evidence for every kept paper at the lowest cost per verified paper.</div></div>
+  <div class="tile"><div class="lbl"><b>Compare prompts over repeated runs</b></div><div class="sub">Identical requests at temperature zero changed 18% of scores, so a single run cannot show that one prompt is better than another.</div></div>
+  <div class="tile"><div class="lbl"><b>Measure what every filter removes</b></div><div class="sub">Quote checks and candidate cut-offs both removed relevant papers, and a top-of-list metric alone did not show it.</div></div>
+</div>
+
+<h2>How the studies are kept</h2>
+<p class="small muted">Hypotheses and pass bars written before the runs &middot; frozen requests and responses &middot; every number recomputable without an API key &middot; limitations stated on each page &middot; no abstracts redistributed.</p>
+
+<h2>Reproduce</h2>
+<p>Each study's README lists the commands. No API key is needed to recompute the published numbers.</p>
+<ul class="files">
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/tree/main/studies/attributed-relevance-judgments#reproduce">Attributed relevance judgments &rarr; Reproduce</a><span>Python 3.9+, <code>pip install httpx pytest</code>; pytest suite and analysis scripts</span></li>
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/tree/main/studies/clinical-feed-ranking#reproduce-the-saved-score-analysis">Clinical feed ranking &rarr; Reproduce the saved-score analysis</a><span>Python 3.9+, standard library only; no model calls or network access</span></li>
+</ul>
+</main>
+
+<footer><div class="wrap">
+  Code: MIT. CLEF TAR labels and reproduced prompts keep their own licences; see each study's NOTICE.md.
+  &middot; <a href="https://github.com/SciSpark-ai/literature-llm-eval">Repository</a>
+</div></footer>
+</body>
+</html>

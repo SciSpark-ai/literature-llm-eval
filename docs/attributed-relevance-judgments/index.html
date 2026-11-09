@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Attributed Relevance Judgments</title>
+<meta name="description" content="Does asking an LLM to quote its evidence change how it scores relevance? A study of relevance scoring and evidence attribution in a clinical literature recommender.">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<nav class="topbar"><div class="wrap">
+  <a class="home" href="../">literature-llm-eval</a>
+  <a href="./" aria-current="page">Relevance judgments</a>
+  <a href="../clinical-feed-ranking/">Feed ranking</a>
+  <a href="https://github.com/SciSpark-ai/literature-llm-eval/tree/main/studies/attributed-relevance-judgments">GitHub</a>
+</div></nav>
+
+<main class="wrap">
+<header class="hero">
+  <p class="kicker">Study 1 &middot; relevance scoring and evidence attribution</p>
+  <h1>Does asking an LLM to quote its evidence change how it scores relevance?</h1>
+  <p class="lede">Attributed relevance judgments by LLMs in biomedical literature screening</p>
+  <ul class="chips"><li>3 topics</li><li>100 papers</li><li>GPT-4.1-mini, temperature 0</li><li>human relevance labels</li><li>about $0.28</li></ul>
+</header>
+
+<h2>Background</h2>
+<p>In SciSpark Psychiatry, an LLM reads each paper's abstract and, in a single call, scores the paper's relevance to the user's research interest from 0 to 4 and quotes the passage that supports the score. The pipeline then checks that the quote appears word for word in the abstract, and drops the paper if it does not. Quoting makes each score checkable. During development, however, we noticed that relevant papers were being dropped because their quotes failed this check.</p>
+<div class="question">
+  <p><b>This raised three questions.</b> How stable is the LLM's score when the identical request is sent again? Does asking for a quote change the score beyond that variation? And can a separate step attach checkable evidence to every paper the LLM keeps, and at what cost?</p>
+</div>
+
+<h2>Approach</h2>
+<p>We took 100 abstracts from three Cochrane systematic reviews in the CLEF 2019 Technology-Assisted Review collection: psychotherapy for depression with COPD, psychotherapy for treatment-resistant depression, and antidepressants for insomnia. By the reviews' published abstract screening decisions, 75 were relevant and 25 were not. The reviews list 82 relevant papers for these topics; the product's rule filters (psychiatric-domain prefilter and study-design gate) removed 7 insomnia positives and 5 negatives before any model call, so 100 of the 112 selected papers reached the model. We scored them with GPT-4.1-mini at temperature zero under two prompts: the production prompt, which asks for a score and a quote in one call (&ldquo;one step&rdquo;), and the same prompt without the quote (&ldquo;score only&rdquo;). Each prompt was sent four times with byte-identical requests. We then compared four ways of attaching evidence to the papers the LLM kept, that is, scored 1 or higher:</p>
+<div class="table-wrap"><table>
+  <thead><tr><th>Method</th><th>What the LLM is asked for</th></tr></thead>
+  <tbody>
+    <tr><td>One step (production)</td><td>A score and a quote, in one call</td></tr>
+    <tr><td>One step + retry</td><td>As above, plus a new quote for papers whose quote failed</td></tr>
+    <tr><td>Two steps: quote</td><td>A score; then, in a second call, a quote for each kept paper</td></tr>
+    <tr><td>Two steps: sentence number</td><td>A score; then the number of the supporting sentence in a numbered abstract, which code looks up</td></tr>
+  </tbody>
+</table></div>
+<p class="small muted">We call evidence <i>valid</i> when the quote or sentence is found word for word in the abstract, the production rule. Hypotheses and pass bars were written down before any run.</p>
+
+<h2>Results</h2>
+<h3>LLM scores were unstable even at temperature zero</h3>
+<p>Sending the identical request again changed the score of 18% of papers and the keep-or-drop decision for 11%, about twice the bars we had set (10% and 5%). On treatment-resistant depression, four identical runs of the one-step prompt kept 24, 34, 24 and 18 of the 37 relevant papers.</p>
+<div class="grid grid-2">
+  <div class="tile"><div class="num">18%</div><div class="lbl">of scores changed between identical requests</div><div class="sub">Bar set in advance: below 10%. <span class="verdict no">not met</span></div></div>
+  <div class="tile"><div class="num">11%</div><div class="lbl">of keep-or-drop decisions changed</div><div class="sub">Bar set in advance: below 5%. <span class="verdict no">not met</span></div></div>
+</div>
+
+<div class="chart">
+  <p class="chart-title">Same request, four runs: relevant papers kept on treatment-resistant depression</p>
+  <p class="chart-sub">37 relevant papers; kept = scored 1 or higher.</p>
+  <ul class="legend"><li><span class="sw a"></span>one step</li><li><span class="sw b"></span>score only</li></ul>
+  <p class="small muted" style="margin:0">One step: 24, 34, 24, 18 (mean 25.0)</p>
+  <div class="strip" role="img" aria-label="One-step prompt kept 24, 34, 24 and 18 of 37">
+    <div class="line"></div>
+    <span class="dot" style="left:48.65%" title="18 of 37"></span><span class="dot-label" style="left:48.65%">18</span>
+    <span class="dot" style="left:64.86%" title="24 of 37, two runs"></span><span class="dot-label" style="left:64.86%">24 &times;2</span>
+    <span class="dot" style="left:91.89%" title="34 of 37"></span><span class="dot-label" style="left:91.89%">34</span>
+  </div>
+  <p class="small muted" style="margin:8px 0 0">Score only: 34, 26, 34, 34 (mean 32.0)</p>
+  <div class="strip" role="img" aria-label="Score-only prompt kept 34, 26, 34 and 34 of 37">
+    <div class="line"></div>
+    <span class="dot b" style="left:70.27%" title="26 of 37"></span><span class="dot-label" style="left:70.27%">26</span>
+    <span class="dot b" style="left:91.89%" title="34 of 37, three runs"></span><span class="dot-label" style="left:91.89%">34 &times;3</span>
+  </div>
+  <div class="strip-axis"><span>0</span><span>37 relevant papers</span></div>
+</div>
+
+<h3>Asking for a quote did not clearly change the scores</h3>
+<p>The two prompts disagreed on 31% of scores, 1.7 times the run-to-run variation and below the 2&times; bar we had set. We therefore do not claim that quoting changes the LLM's judgment. Most of the disagreement concerned how strong a match was (a score of 2 or higher), not whether to keep the paper.</p>
+<div class="chart">
+  <p class="chart-title">Share of scores that change between two runs</p>
+  <ul class="legend"><li><span class="sw a"></span>same prompt run twice</li><li><span class="sw b"></span>one step vs score only</li><li><span class="sw line"></span>bar set in advance</li></ul>
+  <div class="bars">
+    <div class="bar-row" title="One step vs one step, mean of 6 pairs: 18.2%">
+      <span class="name">One step, twice</span>
+      <div class="track"><div class="fill a" style="width:45.5%"></div></div>
+      <span class="val">18.2%</span>
+    </div>
+    <div class="bar-row" title="Score only vs score only, mean of 6 pairs: 18.2%">
+      <span class="name">Score only, twice</span>
+      <div class="track"><div class="fill a" style="width:45.5%"></div></div>
+      <span class="val">18.2%</span>
+    </div>
+    <div class="bar-row" title="One step vs score only, mean of 16 pairs: 30.6%">
+      <span class="name">One step vs score only</span>
+      <div class="track has-ref"><div class="fill b" style="width:76.5%"></div><span class="ref" style="left:91%"></span><span class="ref-label" style="left:86%">2&times; bar</span></div>
+      <span class="val">30.6%</span>
+    </div>
+  </div>
+  <div class="axis"><span></span><span class="ticks"><span>0%</span><span>10%</span><span>20%</span><span>30%</span><span>40%</span></span><span></span></div>
+  <p class="note">The 2&times; bar is twice the run-to-run variation (2 &times; 18.2% = 36.4%).</p>
+</div>
+
+<h3>The quote check, not the judgment, lost relevant papers</h3>
+<p>Of the 62 relevant papers the one-step prompt kept, 34 (55%) came with a quote that was not found word for word in the abstract, so the pipeline would have dropped them. (Here, kept means scored above 0 with the quote checked; the production pipeline applies a further condition/treatment match-layer check after the quote check, which removed 3 more relevant papers in this run, 25 kept in production.) Only 11 of these 34 quotes would have passed a check that tolerates punctuation differences and passages joined with &ldquo;&hellip;&rdquo; (13 to 15 on a looser reading). Averaged over four runs, the one-step prompt kept 20.25, 12.5 and 7.75 relevant papers per topic once its quotes were checked, against 32, 21.5 and 15.75 for the score-only prompt.</p>
+
+<h3>A second step recovered the evidence</h3>
+<div class="chart wide-val">
+  <p class="chart-title">Kept relevant papers with valid evidence</p>
+  <p class="chart-sub">Out of the relevant papers each method kept (62 with one step, 72 with score only).</p>
+  <div class="bars">
+    <div class="bar-row" title="28 of 62">
+      <span class="name">One step</span>
+      <div class="track"><div class="fill a" style="width:45.2%"></div></div>
+      <span class="val">45%</span>
+    </div>
+    <div class="bar-row" title="53 of 62">
+      <span class="name">One step + retry</span>
+      <div class="track"><div class="fill a" style="width:85.5%"></div></div>
+      <span class="val">85%</span>
+    </div>
+    <div class="bar-row" title="69 of 72">
+      <span class="name">Two steps: quote</span>
+      <div class="track"><div class="fill a" style="width:95.8%"></div></div>
+      <span class="val">96%</span>
+    </div>
+    <div class="bar-row" title="72 of 72">
+      <span class="name">Two steps: sentence no.</span>
+      <div class="track"><div class="fill a" style="width:100%"></div></div>
+      <span class="val">100%</span>
+    </div>
+  </div>
+  <div class="axis"><span></span><span class="ticks"><span>0%</span><span>50%</span><span>100%</span></span><span></span></div>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Method</th><th class="n">Valid / kept</th><th class="n">Tokens vs one step</th><th class="n">Cost per paper with valid evidence</th></tr></thead>
+    <tbody>
+      <tr><td>One step</td><td class="n">28 / 62</td><td class="n">1.00&times;</td><td class="n">$0.00072</td></tr>
+      <tr><td>One step + retry</td><td class="n">53 / 62</td><td class="n">1.34&times;</td><td class="n">$0.00066</td></tr>
+      <tr><td>Two steps: quote</td><td class="n">69 / 72</td><td class="n">1.65&times;</td><td class="n">$0.00059</td></tr>
+      <tr><td>Two steps: sentence number</td><td class="n">72 / 72</td><td class="n">1.68&times;</td><td class="n">$0.00054</td></tr>
+    </tbody>
+  </table></div>
+</div>
+<p>The two-step methods score with the score-only prompt, which kept 72 relevant papers in that run against 62 for the one-step prompt. The three papers without evidence under &ldquo;two steps: quote&rdquo; were papers the LLM left out of its answer; every quote it did return was valid. Although the two-step methods use more tokens, they cost the least per paper with valid evidence, because they verify more papers. Valid evidence is not necessarily supportive evidence, however: the sentence-number method also attached a valid sentence to all 10 irrelevant papers it kept.</p>
+
+<h2>Implications for LLM literature recommenders</h2>
+<p>Together, these results suggest that when scoring and quoting share one call, relevant papers are lost at the evidence check rather than through the LLM's judgment. We therefore suggest separating relevance scoring from evidence attribution, and marking a paper whose evidence fails the check as unverified rather than removing it. Asking the LLM to point to a sentence by number, rather than copy it, cannot fail to match and was the cheapest per verified paper; SciSpark Psychiatry's summary cards already use this design (<a href="https://github.com/SciSpark-ai/scispark-psychiatry/blob/4e20daa/src/lib/clinical/digest/card.ts#L16-L18">source</a>). Because identical requests vary, prompts should be compared over repeated runs, and scores cached so that the feed does not reshuffle between refreshes. Finally, whether the evidence actually supports the score needs its own evaluation.</p>
+
+<h2>Limitations</h2>
+<p>All three topics were used during development, so nothing is held out. Three in four papers were relevant, far more than in a real search, so we did not measure precision or reading workload. We tested one LLM and one family of prompts. Evidence was checked for its presence in the abstract, not for whether it supports the score, and no human reviewed it. Finally, the provider's backend changed between runs, so the run-to-run variation includes serving differences as well as sampling.</p>
+
+<h2>Files</h2>
+<ul class="files">
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/tree/main/studies/attributed-relevance-judgments">README</a><span>Overview, folder guide, reproduction commands, cost</span></li>
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/blob/main/studies/attributed-relevance-judgments/RESEARCH_PLAN.md">RESEARCH_PLAN.md</a><span>Dated plan with hypotheses and pass bars stated before the runs</span></li>
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/blob/main/studies/attributed-relevance-judgments/REPORT.md">REPORT.md</a><span>Every result and limitation</span></li>
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/tree/main/studies/attributed-relevance-judgments/results">results/</a><span>Generated analyses: run-to-run variation, prompt effect, evidence methods and cost</span></li>
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/tree/main/studies/attributed-relevance-judgments/runs">runs/</a><span>Frozen requests and responses, abstract text redacted</span></li>
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/tree/main/studies/attributed-relevance-judgments/scripts">scripts/</a><span>Analysis library, analyses, pytest suite, refetch script</span></li>
+</ul>
+</main>
+
+<footer><div class="wrap">
+  Abstracts are not redistributed. Labels: CLEF 2019 Technology-Assisted Review, under their source terms.
+  &middot; <a href="../">All studies</a>
+</div></footer>
+</body>
+</html>

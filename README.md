@@ -1,33 +1,45 @@
 # literature-llm-eval
 
-Evaluation studies of how a large language model behaves at each stage of a literature-monitoring system. The evaluation studies are conducted on SciSpark Psychiatry, a tool that retrieves new PubMed papers for a clinician, decides which are relevant, extracts supporting evidence, writes a summary card and checks it. Each study isolates a stage of the system and records its data, methods, results and limitations. Public artifacts support the reproduction scope stated in each study.
+Evaluating the performance of large language models (LLMs) in a clinical literature recommender.
 
-Each study is self-contained in its own folder under `studies/` with its own README, reports, frozen runs, scripts and tests. Studies are added only when they are frozen: requests, responses and analysis fixed, numbers regenerable, limitations written.
+**Site:** [scispark-ai.github.io/literature-llm-eval](https://scispark-ai.github.io/literature-llm-eval/)
 
-| Study | Stage | Question in one line | Status | Headline |
-|---|---|---|---|---|
-| [`attributed-relevance-judgments`](studies/attributed-relevance-judgments/) <br> *Attributed Relevance Judgments by LLMs in Biomedical Literature Screening* | decide relevance, extract evidence | When the model must quote its evidence, how often does the check fail, does the requirement change the decision beyond run-to-run noise, and does a second extraction step recover verifiable evidence at what cost? | frozen; relevance labels human (CLEF TAR 2019), quote support model-checked only; three development topics, one model | Identical requests at temperature 0 change 18% of grades and 11% of keep-or-drop decisions; the prompt effect (31%) is 1.7× that noise, below the pre-stated 2× bar; decide-then-extract yields verifiable evidence for 96 to 100% of kept papers versus 45% in one step, at 1.65× tokens |
-| [`clinical-feed-ranking`](studies/clinical-feed-ranking/) <br> *Comparing an LLM and a Cross-Encoder for Ranking a Clinical Literature Feed* | rank papers, select candidates | How do CE, LLM, and combined scores compare on the same candidate pools? | saved-score export; human-derived CLEF labels; three development topics; offline reproduction | On 682 papers, LLM nDCG@10 was higher on all three topics; Recall@50 and CE tie-breaking results varied by topic. |
+We built the LLM-powered [SciSpark](https://github.com/SciSpark-ai) and [SciSpark Psychiatry](https://github.com/SciSpark-ai/scispark-psychiatry) to recommend personalized research papers to scientists and psychiatry clinicians. But do LLMs perform well in this recommendation task? For example, how do they compare with cross-encoders? How stable are their outputs, and to what extent is LLM relevance scoring affected by evidence attribution? How well do LLM-written TL;DRs agree with human experts, and do they overclaim or underclaim scientific findings? Examining these questions is key to understanding the validity and limitations of LLMs in a literature recommendation system, and to guiding the improvement of its design.
 
-Status words: **frozen** (artifacts fixed, numbers regenerable), **model-labelled** (rests on model outputs), **human-labelled**, **written up**, **planned**.
+Here, we address these questions in a series of studies that apply the [SciSpark Psychiatry](https://github.com/SciSpark-ai/scispark-psychiatry) pipeline to public screening data from the CLEF 2019 Technology-Assisted Review collection: three Cochrane systematic reviews, on psychotherapy for depression with COPD, psychotherapy for treatment-resistant depression, and antidepressants for insomnia. We designed the studies to evaluate the LLM at different stages of our pipeline: from scoring a paper's relevance to the user's research interest based on its abstract, to ranking the papers, to summarizing each paper's main findings (planned). So far, we have shown that:
 
-## Reading order
+1. During relevance scoring, LLM output is unstable: sending the identical request again at temperature zero changed the relevance score of 18% of papers, and the keep-or-drop decision for 11%.
+2. Asking the LLM to quote its evidence in the same call as scoring did not clearly change the scores beyond this run-to-run variation, but it lost relevant papers at the quote check: of the 62 relevant papers the LLM kept, 34 (55%) came with a quote that could not be found word for word in the abstract, so the pipeline would have dropped them. Splitting scoring and evidence attribution into two separate calls recovered these papers: 96–100% of the kept relevant papers came with evidence found word for word in the abstract, at about 1.65 times the tokens.
+3. When its scores were used for ranking, the LLM placed relevant papers nearer the top than a cross-encoder on all three topics (nDCG@10 of 0.63–0.90 against 0.58–0.73), and found more of the relevant papers in its first 50 results on two of the three (Recall@50 of 78–95% against 60–100%). Using the cross-encoder to cut the candidate pool before the LLM saved 78% of LLM calls but dropped up to 15 of 37 relevant papers.
 
-Start with each study's `README.md`, which explains its question, evidence, limitations and reproduction commands.
+Together, our studies reveal an advantage of LLMs in ranking precision, but limitations in stability and in recall wherever a check or a cut-off sits between the LLM and the reader. They suggest two designs that may improve LLM performance in a literature recommendation system: separating relevance scoring from evidence attribution, and measuring what every filtering step removes.
 
-- **Attributed relevance judgments:** `RESEARCH_PLAN.md` records the hypotheses and plan; `REPORT.md` presents the results. Redacted requests and responses are in `runs/`, generated analyses in `results/`, and tests in `scripts/tests/`.
-- **Clinical feed ranking:** `PROTOCOL.md` records the main-run protocol; the article and methods appendix are in `reports/`. Public scores and metrics are in `runs/`, input metadata in `data/`, and offline reproduction and verification commands in `scripts/`.
+## Studies
 
-The studies are parallel projects under `studies/`; neither is a subproject of the other.
+| Study | Pipeline stage | Question |
+| --- | --- | --- |
+| [Attributed relevance judgments](studies/attributed-relevance-judgments/) | Relevance scoring and evidence attribution | How stable are LLM relevance scores, and does asking the LLM to quote its evidence change them or lose relevant papers? |
+| [Clinical feed ranking](studies/clinical-feed-ranking/) | Ranking | How does an LLM compare with a cross-encoder for ranking a clinical feed, and can the two be combined? |
+| LLM summaries (planned) | Summarization | How well do LLM-written TL;DRs agree with human experts, and do they overclaim or underclaim findings? |
 
-## What is shared across studies
+Both completed studies use three topics from CLEF 2019 Technology-Assisted Review that were also used during development, and one model configuration each. The results describe these settings; they are not general benchmarks.
 
-The studies are self-contained. The attributed-relevance study includes its own API harness; the clinical-feed-ranking study ships offline analysis only and requires no API key. Shared infrastructure has not been extracted.
+## Repository layout
 
-## Data
+Each study is a self-contained folder under `studies/` and is added only once frozen: requests, responses and analysis fixed, numbers regenerable, limitations written.
 
-Paper abstracts are not redistributed. Each study states what its public artifacts can reproduce: the clinical-feed-ranking study provides identities, labels, scores, validation flags, input hashes and a prompt template, while the attributed-relevance study also provides redacted request/response artifacts and an abstract-refetch script. Relevance labels come from CLEF 2019 Technology-Assisted Review; the source licence text and attribution travel with the files.
+| File | What it holds |
+| --- | --- |
+| `README.md` | The question, setup, results and how to reproduce |
+| `RESEARCH_PLAN.md` or `PROTOCOL.md` | What was planned, with pass bars written before the runs |
+| `REPORT.md` or `reports/` | Full results and limitations |
+| `runs/`, `results/`, `data/` | Frozen outputs, generated analyses, labels and input metadata |
+| `scripts/` | Analysis code and tests |
 
-## License
+## Reproduce
 
-Code: MIT (`LICENSE`). Labels and abstracts under their own terms, see each study's README.
+No API key is needed to recompute the published numbers. Each study's README has the commands: [attributed relevance judgments](studies/attributed-relevance-judgments/README.md#reproduce), [clinical feed ranking](studies/clinical-feed-ranking/README.md#reproduce-the-saved-score-analysis).
+
+## Data and licence
+
+Paper abstracts are not redistributed; the attributed-relevance study includes a script to refetch them from PubMed. Relevance labels come from CLEF 2019 Technology-Assisted Review and keep their own licence and attribution. Code: MIT (`LICENSE`).

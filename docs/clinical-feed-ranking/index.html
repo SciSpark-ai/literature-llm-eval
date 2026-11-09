@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Clinical Feed Ranking</title>
+<meta name="description" content="LLM or cross-encoder: which ranks a clinical literature feed better? An offline comparison on 682 papers from three Cochrane review topics.">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<nav class="topbar"><div class="wrap">
+  <a class="home" href="../">literature-llm-eval</a>
+  <a href="../attributed-relevance-judgments/">Relevance judgments</a>
+  <a href="./" aria-current="page">Feed ranking</a>
+  <a href="https://github.com/SciSpark-ai/literature-llm-eval/tree/main/studies/clinical-feed-ranking">GitHub</a>
+</div></nav>
+
+<main class="wrap">
+<header class="hero">
+  <p class="kicker">Study 2 &middot; ranking</p>
+  <h1>LLM or cross-encoder: which ranks a clinical literature feed better?</h1>
+  <p class="lede">Comparing an LLM and a cross-encoder for ranking a clinical literature feed</p>
+  <ul class="chips"><li>3 topics</li><li>682 papers</li><li>GPT-4o-mini vs Jina reranker v2</li><li>human relevance labels</li><li>replay of saved scores</li></ul>
+</header>
+
+<h2>Background</h2>
+<p>A literature recommender shows its reader a short list, so the order of the first few papers matters most. In SciSpark Psychiatry, an LLM scores each paper's relevance from 0 to 4 using a clinical rubric. An LLM can apply such a rubric, but it costs one call per paper, and five possible scores leave many papers tied. A cross-encoder, a small ranking model that reads the query and the paper together, is fast and gives every paper a distinct score, but it knows no rubric.</p>
+<div class="question">
+  <p><b>How do the two compare for ranking a clinical feed, and can they be combined?</b></p>
+</div>
+
+<h2>Approach</h2>
+<p>We compared the two on 682 papers from the same three CLEF 2019 Technology-Assisted Review topics as Study 1: every relevant paper by the reviews' abstract screening decisions (16, 37 and 29 per topic) plus 200 irrelevant papers per topic, chosen by a fixed hash. The LLM was GPT-4o-mini at temperature zero with the production clinical rubric, one paper per request; the cross-encoder was the Jina reranker v2 (base, multilingual). Both saw the same title and the first 1,800 characters of each abstract. Because the LLM received a structured clinical topic and the cross-encoder a one-sentence query, we compare two working configurations rather than two model architectures.</p>
+<p>We measured ranking with two metrics. <b>nDCG@10</b> asks whether relevant papers sit at the very top of the list (from 0 to 1; 1 is ideal). <b>Recall@50</b> is the share of all relevant papers that appear in the first 50 results. Where scores tie, both metrics are averaged over random orders within the tie.</p>
+
+<h2>Results</h2>
+<h3>The LLM ranked relevant papers higher, but coverage depended on the topic</h3>
+<p>The LLM had a higher nDCG@10 on all three topics and a higher Recall@50 on two. On depression with COPD, however, the cross-encoder placed all 16 relevant papers in its first 50 results while the LLM placed 78.8%, so the two metrics pointed in opposite directions. The results also depended on the label used: measured against final inclusion after full-text review rather than abstract screening, the LLM's nDCG@10 on treatment-resistant depression fell from 0.628 to 0.209.</p>
+<div class="chart">
+  <p class="chart-title">nDCG@10 &mdash; placement near the top</p>
+  <p class="chart-sub">Higher is better; 1 is ideal.</p>
+  <ul class="legend"><li><span class="sw b"></span>Cross-encoder</li><li><span class="sw a"></span>LLM</li></ul>
+  <div class="bars">
+    <div class="group"><div class="group-label">Depression with COPD</div>
+      <div class="bar-row" title="Cross-encoder nDCG@10 0.731"><span class="name">Cross-enc.</span><div class="track"><div class="fill b" style="width:73.1%"></div></div><span class="val">0.731</span></div>
+      <div class="bar-row" title="LLM nDCG@10 0.900"><span class="name">LLM</span><div class="track"><div class="fill a" style="width:90.0%"></div></div><span class="val">0.900</span></div>
+    </div>
+    <div class="group"><div class="group-label">Treatment-resistant depression</div>
+      <div class="bar-row" title="Cross-encoder nDCG@10 0.576"><span class="name">Cross-enc.</span><div class="track"><div class="fill b" style="width:57.6%"></div></div><span class="val">0.576</span></div>
+      <div class="bar-row" title="LLM nDCG@10 0.628"><span class="name">LLM</span><div class="track"><div class="fill a" style="width:62.8%"></div></div><span class="val">0.628</span></div>
+    </div>
+    <div class="group"><div class="group-label">Insomnia</div>
+      <div class="bar-row" title="Cross-encoder nDCG@10 0.687"><span class="name">Cross-enc.</span><div class="track"><div class="fill b" style="width:68.7%"></div></div><span class="val">0.687</span></div>
+      <div class="bar-row" title="LLM nDCG@10 0.730"><span class="name">LLM</span><div class="track"><div class="fill a" style="width:73.0%"></div></div><span class="val">0.730</span></div>
+    </div>
+  </div>
+  <div class="axis"><span></span><span class="ticks"><span>0</span><span>0.5</span><span>1</span></span><span></span></div>
+</div>
+
+<div class="chart">
+  <p class="chart-title">Recall@50 &mdash; coverage in the first fifty</p>
+  <p class="chart-sub">Share of all relevant papers found in the first 50 results.</p>
+  <ul class="legend"><li><span class="sw b"></span>Cross-encoder</li><li><span class="sw a"></span>LLM</li></ul>
+  <div class="bars">
+    <div class="group"><div class="group-label">Depression with COPD</div>
+      <div class="bar-row" title="Cross-encoder Recall@50 100.0%"><span class="name">Cross-enc.</span><div class="track"><div class="fill b" style="width:100%"></div></div><span class="val">100.0%</span></div>
+      <div class="bar-row" title="LLM Recall@50 78.8%"><span class="name">LLM</span><div class="track"><div class="fill a" style="width:78.8%"></div></div><span class="val">78.8%</span></div>
+    </div>
+    <div class="group"><div class="group-label">Treatment-resistant depression</div>
+      <div class="bar-row" title="Cross-encoder Recall@50 59.5%"><span class="name">Cross-enc.</span><div class="track"><div class="fill b" style="width:59.5%"></div></div><span class="val">59.5%</span></div>
+      <div class="bar-row" title="LLM Recall@50 77.7%"><span class="name">LLM</span><div class="track"><div class="fill a" style="width:77.7%"></div></div><span class="val">77.7%</span></div>
+    </div>
+    <div class="group"><div class="group-label">Insomnia</div>
+      <div class="bar-row" title="Cross-encoder Recall@50 69.0%"><span class="name">Cross-enc.</span><div class="track"><div class="fill b" style="width:69.0%"></div></div><span class="val">69.0%</span></div>
+      <div class="bar-row" title="LLM Recall@50 94.9%"><span class="name">LLM</span><div class="track"><div class="fill a" style="width:94.9%"></div></div><span class="val">94.9%</span></div>
+    </div>
+  </div>
+  <div class="axis"><span></span><span class="ticks"><span>0%</span><span>50%</span><span>100%</span></span><span></span></div>
+</div>
+
+
+<h3>A cross-encoder helped to order papers within an LLM score</h3>
+<p>The LLM gave its top score to 43 papers on treatment-resistant depression and 37 on insomnia, too many to order by score alone. Ordering papers by LLM score and then by cross-encoder score raised nDCG@10 on two topics and lowered it on one. Such a tie-break cannot rescue a paper that the LLM scored too low.</p>
+<div class="chart">
+  <p class="chart-title">nDCG@10, LLM alone vs with a cross-encoder tie-break</p>
+  <ul class="legend"><li><span class="sw a"></span>LLM</li><li><span class="sw a-soft"></span>LLM + cross-encoder tie-break</li></ul>
+  <div class="bars">
+    <div class="group"><div class="group-label">Depression with COPD</div>
+      <div class="bar-row" title="LLM 0.900"><span class="name">LLM</span><div class="track"><div class="fill a" style="width:90.0%"></div></div><span class="val">0.900</span></div>
+      <div class="bar-row" title="LLM + cross-encoder tie-break 0.861"><span class="name">+ tie-break</span><div class="track"><div class="fill a-soft" style="width:86.1%"></div></div><span class="val">0.861</span></div>
+    </div>
+    <div class="group"><div class="group-label">Treatment-resistant depression</div>
+      <div class="bar-row" title="LLM 0.628"><span class="name">LLM</span><div class="track"><div class="fill a" style="width:62.8%"></div></div><span class="val">0.628</span></div>
+      <div class="bar-row" title="LLM + cross-encoder tie-break 0.783"><span class="name">+ tie-break</span><div class="track"><div class="fill a-soft" style="width:78.3%"></div></div><span class="val">0.783</span></div>
+    </div>
+    <div class="group"><div class="group-label">Insomnia</div>
+      <div class="bar-row" title="LLM 0.730"><span class="name">LLM</span><div class="track"><div class="fill a" style="width:73.0%"></div></div><span class="val">0.730</span></div>
+      <div class="bar-row" title="LLM + cross-encoder tie-break 0.845"><span class="name">+ tie-break</span><div class="track"><div class="fill a-soft" style="width:84.5%"></div></div><span class="val">0.845</span></div>
+    </div>
+  </div>
+  <div class="axis"><span></span><span class="ticks"><span>0</span><span>0.5</span><span>1</span></span><span></span></div>
+</div>
+
+
+<h3>Cutting the pool with the cross-encoder saved calls but lost relevant papers</h3>
+<p>If only the cross-encoder's top 50 or top 100 papers were sent to the LLM, the number of LLM decisions would fall from 682 to 150 or 300. A paper cut at this step, however, never reaches the LLM. On treatment-resistant depression, the top-50 cut left nDCG@10 unchanged at 0.783 while Recall@50 fell from 81.1% to 59.5%; a top-of-list metric alone would have missed this loss.</p>
+<div class="grid grid-2">
+  <div class="tile"><div class="num">682 &rarr; 150</div><div class="lbl">LLM decisions with a top-50 cut</div><div class="sub">300 with a top-100 cut</div></div>
+  <div class="tile"><div class="num">81.1% &rarr; 59.5%</div><div class="lbl">Recall@50 on treatment-resistant depression</div><div class="sub">nDCG@10 unchanged at 0.783</div></div>
+</div>
+<div class="chart">
+  <p class="chart-title">Relevant papers kept by the cross-encoder cut</p>
+  <p class="chart-sub">A paper cut here never reaches the LLM.</p>
+  <ul class="legend"><li><span class="sw b"></span>Cross-encoder top 50</li><li><span class="sw n"></span>Cross-encoder top 100</li></ul>
+  <div class="bars">
+    <div class="group"><div class="group-label">Depression with COPD</div>
+      <div class="bar-row" title="Top 50: 16/16"><span class="name">top 50</span><div class="track"><div class="fill b" style="width:100%"></div></div><span class="val">16/16</span></div>
+      <div class="bar-row" title="Top 100: 16/16"><span class="name">top 100</span><div class="track"><div class="fill n" style="width:100%"></div></div><span class="val">16/16</span></div>
+    </div>
+    <div class="group"><div class="group-label">Treatment-resistant depression</div>
+      <div class="bar-row" title="Top 50: 22/37, 59.5%"><span class="name">top 50</span><div class="track"><div class="fill b" style="width:59.5%"></div></div><span class="val">22/37</span></div>
+      <div class="bar-row" title="Top 100: 33/37, 89.2%"><span class="name">top 100</span><div class="track"><div class="fill n" style="width:89.2%"></div></div><span class="val">33/37</span></div>
+    </div>
+    <div class="group"><div class="group-label">Insomnia</div>
+      <div class="bar-row" title="Top 50: 20/29, 69.0%"><span class="name">top 50</span><div class="track"><div class="fill b" style="width:69.0%"></div></div><span class="val">20/29</span></div>
+      <div class="bar-row" title="Top 100: 25/29, 86.2%"><span class="name">top 100</span><div class="track"><div class="fill n" style="width:86.2%"></div></div><span class="val">25/29</span></div>
+    </div>
+  </div>
+  <div class="axis"><span></span><span class="ticks"><span>0%</span><span>50%</span><span>100%</span></span><span></span></div>
+</div>
+
+
+<h3>The quote check also removed relevant papers</h3>
+<p>Of the 82 relevant papers, 77 passed the LLM's keep decision and 72 passed the quote check that follows it, consistent with <a href="../attributed-relevance-judgments/">Study 1</a>.</p>
+<div class="chart">
+  <p class="chart-title">Relevant papers through the keep decision and the quote check</p>
+  <div class="funnel">
+    <div class="step"><div class="bar" style="width:100%">82</div><span class="cap">before entry decisions</span></div>
+    <div class="step"><div class="bar" style="width:93.9%">77</div><span class="cap">after raw entry decision</span></div>
+    <div class="step"><div class="bar" style="width:87.8%">72</div><span class="cap">after lexical quote check</span></div>
+  </div>
+</div>
+
+
+<h2>Implications for LLM literature recommenders</h2>
+<p>Together, these results suggest that LLM scores are a strong basis for ordering the top of a clinical feed, and that their main weakness, coarse ties, can be addressed with a cheaper fine-grained score. They also show that any step placed before the LLM limits what the LLM can recover. We therefore suggest using the LLM score for the top of the feed and breaking its ties with a cheaper score, checked topic by topic. A candidate pool should not be shrunk before the LLM without measuring recall: in our data the top 100 kept 86&ndash;100% of relevant papers, against 59&ndash;100% for the top 50. Finally, a top-of-list metric and a coverage metric should be reported together, because each revealed a problem the other missed.</p>
+
+<h2>Limitations</h2>
+<p>All three topics were used during development, and each paper was scored once, so this study does not measure run-to-run variation (see <a href="../attributed-relevance-judgments/">Study 1</a>). Irrelevant papers were sampled, so relevant papers are far more common than in a real search. Screening labels are not a clinician's judgment of usefulness. The combined designs replay saved scores, so no live latency or cost was measured.</p>
+
+<h2>Files</h2>
+<ul class="files">
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/tree/main/studies/clinical-feed-ranking">README</a><span>Overview, reproduction commands, contents and provenance</span></li>
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/blob/main/studies/clinical-feed-ranking/reports/blog-ce-vs-llm-clinical-feed.md">Article</a><span>The full write-up</span></li>
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/blob/main/studies/clinical-feed-ranking/reports/blog-ce-vs-llm-clinical-feed-methods.md">Methods and evidence appendix</a><span>Settings, tie handling, secondary labels, evidence map</span></li>
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/blob/main/studies/clinical-feed-ranking/reports/expanded-cascade-comparison.md">Cascade comparison</a><span>All combination variants</span></li>
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/blob/main/studies/clinical-feed-ranking/PROTOCOL.md">PROTOCOL.md</a><span>Main-run protocol, frozen before that run's results</span></li>
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/tree/main/studies/clinical-feed-ranking/runs">runs/</a><span>Saved cross-encoder scores, LLM scores, metrics</span></li>
+  <li><a href="https://github.com/SciSpark-ai/literature-llm-eval/tree/main/studies/clinical-feed-ranking/scripts">scripts/</a><span>Offline reproduction and independent verification</span></li>
+</ul>
+</main>
+
+<footer><div class="wrap">
+  Abstracts are not redistributed. Labels: CLEF 2019 Technology-Assisted Review, under their source terms.
+  &middot; <a href="../">All studies</a>
+</div></footer>
+</body>
+</html>
