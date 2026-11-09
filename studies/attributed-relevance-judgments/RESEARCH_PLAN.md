@@ -6,7 +6,7 @@ Author: Linjing Jiang. Plan written 2026-10-09, before the repeated-run and extr
 
 SciSpark Psychiatry monitors PubMed for a clinician. Each new abstract is graded for relevance to the clinician's watch topic by a language model (GPT-4.1-mini) on a 0 to 4 scale. In the same call the model must copy a verbatim passage from the title or abstract that justifies the grade, and the system accepts the grade only if that passage is found in the text. This is an *attributed relevance judgment*: a graded label that carries a checkable pointer into its source. The attribution rule exists so a clinician can audit the model's reasons without reading every paper.
 
-Development runs showed relevant papers being dropped by the attribution check. On three Cochrane review topics with published screening labels, 34 of 75 relevant abstracts that reached the model were rejected because their quotation failed the check.
+Development runs showed relevant papers being dropped by the attribution check. On three Cochrane review topics with published screening labels, 75 relevant abstracts reached the model; it graded 62 of them above 0, and 34 of those 62 were rejected because their quotation failed the check.
 
 ## 2. What is already known
 
@@ -44,7 +44,7 @@ Go/no-go for a larger study on the coupling question: proceed only if H-B1 holds
 
 ## 5. Method
 
-Data. 100 frozen candidate abstracts from three CLEF TAR 2019 intervention topics (CD012347 depression in COPD, CD010558 treatment-resistant depression, CD010753 antidepressants for insomnia): all 75 abstract-level positives plus 25 hash-selected negatives. Abstract-level screening labels are primary. These topics were used for development; nothing here is held out.
+Data. 100 frozen candidate abstracts from three CLEF TAR 2019 intervention topics (CD012347 depression in COPD, CD010558 treatment-resistant depression, CD010753 antidepressants for insomnia): all 82 abstract-level positives plus 30 hash-selected negatives (10 per topic) were selected, 112 records; the production rule filters that run before any model call (psychiatric-domain prefilter, study-design gate) removed 7 insomnia positives and 5 negatives, leaving the 100 candidates (75 positives, 25 negatives) that every run below uses. Abstract-level screening labels are primary. These topics were used for development; nothing here is held out.
 
 Prompts. Joint: the production prompt, grade plus verbatim quote, including its rule "if you cannot quote support for a grade above 0, give 0". Decide-only: identical except that rule is replaced by "leave the quote field empty; grade on your reading alone". Requests are asserted byte-identical within an arm; repeats differ only by an HTTP `user` tag that defeats the response cache.
 
@@ -57,7 +57,7 @@ Cost. Tokens and dollars per policy and per verified admitted positive. A guarde
 ## 6. Deviations from the plan
 
 - The paid-call ceiling was raised from 10 to 20 dollars during E4 because concurrent jobs on the shared ledger consumed the reserved headroom; the reservation formula and the no-retry rule were unchanged.
-- Run `e4-joint-r3` stopped after 3 of 7 requests with a transport read error. It was not retried; a fresh full repeat `e4-joint-r5` replaced it and the partial run is excluded.
+- Run `e4-joint-r3` failed on the 4th of 7 requests with a transport read error (3 responses saved). It was not retried; a fresh full repeat `e4-joint-r5` replaced it and the partial run is excluded.
 - In one D+E batch and one J+R batch the model returned fewer entries than papers; omissions are recorded and counted as unverified.
 - After a reviewer check, the joint run's own quotes are scored with the same three tiers as the extraction arms, and the go/no-go recall comparison uses gated joint recall (grade above 0 and quote verified) rather than pre-gate grades.
 - Outcome against the bars: H-A1 not supported (0.182 raw, 0.108 at admission); H-B1 not supported (ratio 1.69); H-C1 and H-C2 supported. The coupling claim is not made; the study is reported as a measurement of instability and of decoupled attribution.

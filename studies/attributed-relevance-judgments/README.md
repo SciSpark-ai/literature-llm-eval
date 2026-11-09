@@ -6,7 +6,7 @@ Read in this order: this page (three minutes), `RESEARCH_PLAN.md` (what was plan
 
 ## Question, method, main results
 
-**Setting.** 100 frozen abstracts from three Cochrane review topics (CLEF TAR 2019 intervention reviews), 75 relevant by published screening labels and 25 sampled negatives; one model, temperature 0; topics that were also used during development, so nothing is held out.
+**Setting.** 100 frozen abstracts from three Cochrane review topics (CLEF TAR 2019 intervention reviews), 75 relevant by published screening labels and 25 sampled negatives (the labels list 82 relevant papers; the production rule filters removed 7 insomnia positives and 5 negatives before any model call); one model, temperature 0; topics that were also used during development, so nothing is held out.
 
 **Method.** Two prompts that differ by one rule: joint (grade plus quote, the production prompt) and decide-only (grade, quote field left empty). Each sent four times with byte-identical requests, distinguished only by an HTTP tag that defeats the response cache. Then three ways to attach evidence after the decision: ask for a verbatim excerpt in a second call (D+E), ask for a sentence number from a numbered abstract (D+S), or retry the excerpt only where the joint prompt's quote failed (J+R). Quotes verified at three tiers: the production exact rule, punctuation-normalized, and ellipsis-tolerant in-order fragments. Hypotheses and pass bars were written before the runs (`RESEARCH_PLAN.md`, Section 4).
 
@@ -17,7 +17,7 @@ Read in this order: this page (three minutes), `RESEARCH_PLAN.md` (what was plan
 | Raw grade changed between identical repeated requests | 18.2% | below 10%: not met |
 | Keep-or-drop decision changed between identical repeats | 10.8% | below 5%: not met |
 | Grades differing between joint and decide-only prompts | 30.6%, 1.69× the noise | at least 2×: not met, so no claim that the quote requirement changes judgments |
-| Relevant papers kept with a production-valid quote, joint prompt | 28 of 62 (45%) | |
+| Relevant papers graded above 0 whose quote passed the production exact check, joint prompt | 28 of 62 (45%) | |
 | Joint plus retry on failure (J+R), production-exact / any matcher tier | 53 / 55 of 62 (85% / 89%) at 1.34× tokens | |
 | Same, decide then extract a quote (D+E) | 69 of 72 (96%) at 1.65× tokens | at least 90%, at most 2.5×: met |
 | Same, decide then select a sentence (D+S) | 72 of 72 (100%) at 1.68× tokens | 100%: met |
@@ -49,7 +49,7 @@ python3 scripts/clinical_decide_only_compare.py
 Abstract text is not in this repository (see Data). Three quantities compare quotes against the abstract and need it: the joint prompt's tolerant-matcher counts in E4 (`joint_gated_recall`) and E5 (the `J` rows), and `matcher_taxonomy.py`. Without the text the scripts say so and skip or fall back to the production exact verdict; the committed `results/` hold the exact values computed before redaction. To recompute locally:
 
 ```bash
-python3 scripts/fetch_abstracts.py --verify     # ~660 abstracts from NCBI into data/abstracts.json
+python3 scripts/fetch_abstracts.py --verify     # 100 abstracts from NCBI into data/abstracts.json
 python3 scripts/e4_analysis.py && python3 scripts/e5_analysis.py && python3 scripts/matcher_taxonomy.py
 ```
 
@@ -72,11 +72,11 @@ Costs at list rates from reported token usage; the ledger reserves conservative 
 
 Relevance labels: CLEF 2019 Technology-Assisted Review, Task 2, intervention reviews CD012347, CD010558 and CD010753, pinned at the revision recorded in `data/clef-labels-and-provenance.json`, under the CLEF TAR repository's terms. Abstract-level labels are primary; review exclusion is not clinical irrelevance.
 
-Abstracts: publisher-copyrighted and not redistributed. `scripts/redact_abstracts.py` replaced every abstract (raw text, the cleaned text sent to the model, and the numbered sentences in the sentence-selection requests) with `[ABSTRACT REDACTED sha256:…]`; `data/redaction-manifest.json` lists the 659 PMIDs and the hash of each removed string; `scripts/fetch_abstracts.py` refetches them for local use. Titles, grades, model outputs and the model's quoted excerpts (median about 150 characters) are kept.
+Abstracts: publisher-copyrighted and not redistributed. `scripts/redact_abstracts.py` replaced every abstract (raw text, the cleaned text sent to the model, and the numbered sentences in the sentence-selection requests) with `[ABSTRACT REDACTED sha256:…]`; `data/redaction-manifest.json` lists the 100 PMIDs and the hash of each removed string; `scripts/fetch_abstracts.py` refetches them for local use. Titles, grades, model outputs and the model's quoted excerpts (median about 150 characters) are kept.
 
 ## Limitations
 
-Three development topics; a candidate set rich in relevant papers (75 of 100), so precision and review workload at realistic prevalence are not measured; one model and one prompt family; evidence checked for presence, not for whether it supports the grade; no human re-annotation; the provider backend fingerprint changed between runs, so the measured noise is serving-stack variation as much as sampling; the decide-only schema still carried a `quote` field. One partial run (`e4-joint-r3`, transport error after 3 of 7 requests) is excluded and not included.
+Three development topics; a candidate set rich in relevant papers (75 of 100), so precision and review workload at realistic prevalence are not measured; one model and one prompt family; evidence checked for presence, not for whether it supports the grade; no human re-annotation; the provider backend fingerprint changed between runs, so the measured noise is serving-stack variation as much as sampling; the decide-only schema still carried a `quote` field. One partial run (`e4-joint-r3`, transport error on the 4th of 7 requests, 3 responses saved) is excluded and not included.
 
 ## Related work
 
